@@ -1,0 +1,2401 @@
+id_exploitation,region,culture_principale,type_sol,type_stockage,superficie_ha,distance_marche_km,pluviometrie_mm,age_exploitant,irrigation,formation_recue,delai_avant_vente_j,reclamation_appui_urgence,perte_elevee
+EXP00001,Kara,manioc,sableux,magasin communautaire,2.63,12.0,671.0,62,0,0,1.0,0,0
+EXP00002,Plateaux,sorgho,hydromorphe,case traditionnelle,0.61,46.8,1009.0,61,0,0,7.0,0,0
+EXP00003,Kara,sorgho,ferrugineux,magasin communautaire,1.34,,1075.0,53,0,1,21.0,0,0
+EXP00004,Centrale,igname,ferrugineux,case traditionnelle,1.95,9.5,,32,0,0,8.0,0,0
+EXP00005,Maritime,sorgho,hydromorphe,case traditionnelle,2.67,23.1,534.0,38,0,0,22.0,1,1
+EXP00006,Savanes,maïs,ferrugineux,magasin communautaire,5.66,20.4,,53,0,1,7.0,0,0
+EXP00007,Kara,manioc,hydromorphe,magasin communautaire,2.27,15.9,1275.0,32,0,0,9.0,0,0
+EXP00008,Kara,maïs,hydromorphe,aucun,1.15,2.5,1403.0,54,0,1,16.0,0,0
+EXP00009,Maritime,maïs,hydromorphe,silo métallique,3.35,10.8,851.0,45,0,0,25.0,0,0
+EXP00010,Plateaux,igname,argileux,aucun,1.06,38.9,909.0,42,0,1,10.0,1,1
+EXP00011,Plateaux,riz,argileux,silo métallique,3.62,6.8,749.0,37,0,1,24.0,0,0
+EXP00012,Savanes,igname,sableux,silo métallique,1.58,6.6,1102.0,59,0,0,25.0,0,0
+EXP00013,Centrale,manioc,ferrugineux,case traditionnelle,7.44,33.2,1317.0,43,0,0,3.0,0,0
+EXP00014,Kara,manioc,hydromorphe,magasin communautaire,1.85,12.0,1251.0,34,1,0,19.0,0,0
+EXP00015,Plateaux,manioc,sableux,case traditionnelle,0.84,2.7,,38,0,1,0.0,1,0
+EXP00016,Maritime,maïs,sableux,case traditionnelle,2.73,5.1,749.0,44,0,0,7.0,0,0
+EXP00017,Centrale,maïs,hydromorphe,case traditionnelle,2.36,8.2,952.0,51,0,0,45.0,0,0
+EXP00018,Maritime,manioc,hydromorphe,aucun,2.68,15.3,1281.0,70,0,1,21.0,0,0
+EXP00019,Kara,maïs,hydromorphe,silo métallique,2.04,,854.0,36,0,0,22.0,0,0
+EXP00020,Centrale,igname,sableux,aucun,2.98,6.4,514.0,28,1,0,10.0,1,0
+EXP00021,Kara,maïs,ferrugineux,aucun,2.91,11.2,864.0,69,0,0,42.0,1,1
+EXP00022,Plateaux,maïs,sableux,aucun,1.15,6.8,883.0,26,0,1,,0,0
+EXP00023,Savanes,sorgho,ferrugineux,case traditionnelle,6.33,40.4,513.0,65,0,0,29.0,1,1
+EXP00024,Savanes,maïs,sableux,aucun,1.87,4.9,1006.0,26,0,1,16.0,0,0
+EXP00025,Kara,igname,argileux,aucun,1.02,9.1,1071.0,37,0,0,36.0,0,0
+EXP00026,Maritime,riz,sableux,aucun,2.89,8.1,1396.0,70,0,1,20.0,0,0
+EXP00027,Plateaux,maïs,hydromorphe,case traditionnelle,2.24,8.2,630.0,27,0,0,5.0,0,0
+EXP00028,Maritime,riz,argileux,case traditionnelle,5.8,5.4,1125.0,27,0,0,8.0,0,0
+EXP00029,Maritime,riz,sableux,aucun,2.83,31.5,1182.0,50,1,1,8.0,0,0
+EXP00030,Centrale,sorgho,hydromorphe,case traditionnelle,1.43,49.1,,28,0,1,16.0,0,0
+EXP00031,Kara,sorgho,ferrugineux,case traditionnelle,3.07,16.7,,20,0,0,3.0,0,0
+EXP00032,Savanes,riz,ferrugineux,magasin communautaire,3.02,15.7,694.0,55,0,0,22.0,0,0
+EXP00033,Plateaux,manioc,ferrugineux,case traditionnelle,2.78,3.3,973.0,68,0,0,21.0,1,1
+EXP00034,Plateaux,maïs,ferrugineux,case traditionnelle,3.03,31.1,972.0,58,0,0,17.0,0,0
+EXP00035,Plateaux,riz,sableux,aucun,0.98,6.8,816.0,69,0,1,17.0,0,0
+EXP00036,Maritime,igname,sableux,aucun,3.96,2.9,1260.0,46,0,1,7.0,0,0
+EXP00037,Maritime,manioc,argileux,aucun,3.47,18.8,854.0,50,0,0,,0,0
+EXP00038,Plateaux,riz,sableux,case traditionnelle,3.83,25.8,496.0,70,0,0,22.0,0,0
+EXP00039,Maritime,manioc,argileux,case traditionnelle,2.02,30.9,896.0,45,0,0,12.0,0,0
+EXP00040,Centrale,sorgho,sableux,magasin communautaire,2.01,9.1,1065.0,21,0,0,20.0,0,0
+EXP00041,Plateaux,igname,hydromorphe,magasin communautaire,3.35,8.3,1032.0,31,0,0,70.0,0,0
+EXP00042,Kara,maïs,sableux,case traditionnelle,2.17,14.8,,51,0,1,92.0,0,0
+EXP00043,Kara,maïs,hydromorphe,silo métallique,2.22,11.1,1309.0,63,0,0,20.0,0,0
+EXP00044,Plateaux,manioc,hydromorphe,aucun,4.41,19.0,682.0,50,0,0,,0,0
+EXP00045,Kara,manioc,hydromorphe,magasin communautaire,4.2,14.9,848.0,40,0,1,15.0,0,0
+EXP00046,Kara,manioc,sableux,case traditionnelle,3.49,6.4,1321.0,35,0,0,11.0,0,0
+EXP00047,Plateaux,maïs,hydromorphe,case traditionnelle,6.66,31.5,478.0,54,0,0,24.0,1,1
+EXP00048,Plateaux,manioc,sableux,case traditionnelle,2.87,19.1,937.0,65,0,0,10.0,1,1
+EXP00049,Centrale,manioc,argileux,case traditionnelle,1.28,25.4,1245.0,33,0,0,20.0,0,0
+EXP00050,Maritime,manioc,hydromorphe,magasin communautaire,2.08,6.5,1241.0,47,1,0,20.0,0,0
+EXP00051,Maritime,riz,hydromorphe,magasin communautaire,1.83,18.7,1108.0,41,0,0,54.0,1,0
+EXP00052,Maritime,riz,hydromorphe,magasin communautaire,1.61,22.3,1115.0,31,0,0,17.0,1,1
+EXP00053,Kara,riz,argileux,aucun,3.15,,700.0,40,0,0,11.0,0,1
+EXP00054,Centrale,sorgho,ferrugineux,case traditionnelle,3.6,5.3,1280.0,23,0,0,28.0,0,0
+EXP00055,Kara,riz,argileux,case traditionnelle,3.86,13.6,662.0,46,0,0,20.0,0,0
+EXP00056,Kara,manioc,hydromorphe,case traditionnelle,2.55,20.9,676.0,24,0,0,37.0,1,1
+EXP00057,Plateaux,riz,argileux,case traditionnelle,2.76,26.6,1043.0,43,0,0,32.0,0,1
+EXP00058,Centrale,maïs,argileux,magasin communautaire,1.36,3.6,832.0,65,0,0,8.0,0,0
+EXP00059,Maritime,maïs,argileux,silo métallique,3.46,14.3,1000.0,26,0,0,9.0,0,0
+EXP00060,Maritime,manioc,argileux,aucun,0.32,4.3,1053.0,32,0,0,6.0,0,0
+EXP00061,Centrale,sorgho,,magasin communautaire,3.62,21.1,1377.0,56,0,1,26.0,0,0
+EXP00062,Plateaux,riz,sableux,case traditionnelle,2.28,24.9,1054.0,66,1,0,9.0,0,0
+EXP00063,Centrale,maïs,ferrugineux,case traditionnelle,3.98,6.0,802.0,68,0,0,36.0,1,0
+EXP00064,Kara,manioc,hydromorphe,case traditionnelle,3.66,5.1,1112.0,25,0,0,27.0,0,0
+EXP00065,Centrale,maïs,ferrugineux,case traditionnelle,2.99,8.0,750.0,31,0,0,22.0,0,0
+EXP00066,Centrale,riz,sableux,aucun,4.47,11.4,1169.0,70,0,1,56.0,0,0
+EXP00067,Centrale,sorgho,,magasin communautaire,9.4,7.2,966.0,45,0,1,8.0,1,0
+EXP00068,Plateaux,manioc,sableux,case traditionnelle,6.9,22.4,1046.0,62,0,1,27.0,0,0
+EXP00069,Maritime,manioc,ferrugineux,case traditionnelle,2.38,26.7,523.0,19,0,0,19.0,0,0
+EXP00070,Plateaux,maïs,hydromorphe,case traditionnelle,2.36,13.9,410.0,25,0,0,15.0,0,0
+EXP00071,Maritime,manioc,,aucun,6.44,7.4,590.0,29,0,1,30.0,0,0
+EXP00072,Plateaux,sorgho,argileux,case traditionnelle,2.48,11.1,,23,0,0,13.0,0,0
+EXP00073,Kara,riz,argileux,case traditionnelle,1.63,13.9,674.0,65,0,0,,0,0
+EXP00074,Maritime,manioc,ferrugineux,case traditionnelle,4.69,10.7,1126.0,60,0,0,31.0,1,1
+EXP00075,Maritime,manioc,hydromorphe,silo métallique,3.09,12.1,796.0,39,1,0,10.0,0,0
+EXP00076,Plateaux,maïs,ferrugineux,magasin communautaire,0.79,25.3,892.0,23,0,1,10.0,0,0
+EXP00077,Plateaux,maïs,argileux,magasin communautaire,1.98,7.0,939.0,24,1,1,45.0,0,0
+EXP00078,Centrale,maïs,ferrugineux,case traditionnelle,0.91,42.5,1345.0,32,0,0,9.0,0,0
+EXP00079,Centrale,manioc,argileux,case traditionnelle,0.33,14.2,1090.0,56,0,0,9.0,1,1
+EXP00080,Kara,igname,ferrugineux,aucun,7.53,10.3,1042.0,60,0,1,14.0,0,0
+EXP00081,Centrale,manioc,ferrugineux,case traditionnelle,2.7,6.9,1261.0,47,0,0,16.0,0,0
+EXP00082,Plateaux,maïs,argileux,case traditionnelle,2.03,7.4,798.0,66,0,1,4.0,0,0
+EXP00083,Kara,maïs,hydromorphe,magasin communautaire,1.72,13.0,1206.0,67,0,0,2.0,0,0
+EXP00084,Maritime,maïs,hydromorphe,case traditionnelle,2.51,14.1,1166.0,58,0,1,21.0,0,0
+EXP00085,Maritime,sorgho,sableux,case traditionnelle,1.71,10.0,1164.0,23,0,0,,0,0
+EXP00086,Maritime,manioc,hydromorphe,silo métallique,1.18,4.3,913.0,65,0,0,7.0,0,0
+EXP00087,Kara,sorgho,sableux,magasin communautaire,1.78,13.0,845.0,66,0,1,49.0,0,0
+EXP00088,Plateaux,sorgho,hydromorphe,case traditionnelle,6.03,,741.0,48,0,1,6.0,0,0
+EXP00089,Maritime,maïs,hydromorphe,case traditionnelle,4.62,2.7,756.0,50,0,1,27.0,0,0
+EXP00090,Plateaux,riz,hydromorphe,silo métallique,1.78,19.5,730.0,59,1,0,23.0,0,0
+EXP00091,Maritime,igname,ferrugineux,case traditionnelle,8.02,3.1,1038.0,49,1,0,23.0,1,1
+EXP00092,Centrale,manioc,hydromorphe,case traditionnelle,2.36,9.7,895.0,36,0,0,7.0,0,0
+EXP00093,Plateaux,maïs,sableux,magasin communautaire,1.38,11.9,1054.0,55,0,0,30.0,0,0
+EXP00094,Plateaux,igname,ferrugineux,magasin communautaire,3.19,29.0,1067.0,59,0,0,29.0,0,0
+EXP00095,Plateaux,igname,ferrugineux,aucun,6.66,2.9,696.0,26,0,0,27.0,1,1
+EXP00096,Centrale,manioc,sableux,case traditionnelle,5.85,20.9,688.0,54,0,1,15.0,0,0
+EXP00097,Plateaux,manioc,hydromorphe,case traditionnelle,1.43,23.1,895.0,28,0,1,0.0,0,0
+EXP00098,Maritime,maïs,ferrugineux,magasin communautaire,1.0,34.7,764.0,48,0,0,30.0,0,0
+EXP00099,Maritime,sorgho,sableux,magasin communautaire,1.9,26.1,739.0,24,0,0,7.0,0,0
+EXP00100,Savanes,manioc,argileux,case traditionnelle,3.56,12.2,1357.0,70,1,0,30.0,0,0
+EXP00101,Savanes,maïs,ferrugineux,magasin communautaire,4.22,21.6,582.0,53,0,0,31.0,0,0
+EXP00102,Centrale,riz,,case traditionnelle,5.32,29.9,1436.0,43,0,0,3.0,0,0
+EXP00103,Maritime,igname,hydromorphe,aucun,2.81,2.2,1019.0,45,0,1,,1,0
+EXP00104,Savanes,sorgho,sableux,aucun,2.87,4.3,1187.0,51,0,0,20.0,0,0
+EXP00105,Kara,maïs,ferrugineux,magasin communautaire,2.74,15.1,1158.0,25,1,0,,0,0
+EXP00106,Kara,maïs,argileux,aucun,4.87,23.0,1098.0,45,0,1,26.0,0,0
+EXP00107,Plateaux,igname,hydromorphe,aucun,4.27,19.1,1349.0,56,1,0,30.0,1,1
+EXP00108,Maritime,igname,ferrugineux,case traditionnelle,1.4,16.1,690.0,32,0,0,17.0,1,0
+EXP00109,Maritime,manioc,argileux,case traditionnelle,3.93,,912.0,43,0,0,24.0,1,0
+EXP00110,Savanes,riz,ferrugineux,magasin communautaire,4.67,10.0,745.0,36,0,0,9.0,0,0
+EXP00111,Plateaux,manioc,ferrugineux,case traditionnelle,4.91,7.3,543.0,27,0,0,43.0,1,1
+EXP00112,Maritime,manioc,argileux,case traditionnelle,3.09,8.6,791.0,69,1,1,25.0,0,0
+EXP00113,Plateaux,maïs,,case traditionnelle,2.98,15.4,,49,0,0,,0,0
+EXP00114,Centrale,maïs,hydromorphe,aucun,2.44,11.8,908.0,39,0,1,29.0,0,0
+EXP00115,Maritime,maïs,sableux,case traditionnelle,2.62,23.8,1426.0,36,0,1,10.0,0,0
+EXP00116,Kara,sorgho,sableux,silo métallique,7.24,7.6,1451.0,54,0,1,24.0,0,0
+EXP00117,Kara,maïs,sableux,case traditionnelle,2.68,,,24,1,1,8.0,0,0
+EXP00118,Kara,maïs,ferrugineux,case traditionnelle,1.48,21.6,1407.0,48,0,1,17.0,0,0
+EXP00119,Plateaux,manioc,sableux,aucun,3.14,,1516.0,30,0,1,10.0,0,0
+EXP00120,Centrale,maïs,hydromorphe,case traditionnelle,4.17,,1028.0,65,0,0,27.0,0,0
+EXP00121,Centrale,maïs,argileux,case traditionnelle,4.78,8.5,1005.0,59,0,0,16.0,0,0
+EXP00122,Centrale,manioc,sableux,case traditionnelle,1.17,11.2,1021.0,58,1,1,37.0,0,0
+EXP00123,Maritime,manioc,ferrugineux,silo métallique,6.3,3.8,950.0,26,0,1,14.0,0,0
+EXP00124,Plateaux,riz,argileux,case traditionnelle,4.06,16.0,986.0,23,1,1,23.0,0,0
+EXP00125,Maritime,igname,hydromorphe,case traditionnelle,6.07,15.8,1131.0,42,0,0,,1,1
+EXP00126,Plateaux,maïs,hydromorphe,case traditionnelle,0.86,14.9,838.0,37,0,1,12.0,0,0
+EXP00127,Plateaux,igname,argileux,case traditionnelle,5.04,10.7,,56,0,1,12.0,0,0
+EXP00128,Maritime,igname,argileux,case traditionnelle,1.12,27.8,1037.0,56,0,0,6.0,0,0
+EXP00129,Maritime,sorgho,argileux,magasin communautaire,2.07,8.7,784.0,39,0,0,,0,0
+EXP00130,Centrale,riz,sableux,case traditionnelle,4.15,26.2,809.0,27,0,0,21.0,1,1
+EXP00131,Maritime,riz,argileux,case traditionnelle,1.04,8.5,916.0,35,0,0,1.0,0,0
+EXP00132,Savanes,riz,ferrugineux,magasin communautaire,1.7,4.8,861.0,45,0,0,9.0,0,0
+EXP00133,Centrale,riz,sableux,silo métallique,0.85,12.2,1216.0,32,0,0,30.0,0,0
+EXP00134,Plateaux,maïs,hydromorphe,case traditionnelle,4.08,13.9,910.0,35,1,0,19.0,0,0
+EXP00135,Centrale,igname,hydromorphe,case traditionnelle,1.38,16.9,1229.0,31,1,1,25.0,0,0
+EXP00136,Maritime,manioc,ferrugineux,case traditionnelle,2.56,1.5,999.0,22,0,0,2.0,0,0
+EXP00137,Savanes,sorgho,ferrugineux,aucun,3.34,9.9,929.0,50,0,0,32.0,1,1
+EXP00138,Plateaux,manioc,hydromorphe,case traditionnelle,3.11,40.6,988.0,70,0,0,57.0,0,0
+EXP00139,Kara,maïs,argileux,case traditionnelle,2.92,8.0,,68,0,1,22.0,0,0
+EXP00140,Maritime,manioc,sableux,magasin communautaire,2.92,23.2,1031.0,67,0,0,7.0,0,0
+EXP00141,Plateaux,manioc,hydromorphe,case traditionnelle,0.89,,1154.0,53,0,0,10.0,0,0
+EXP00142,Plateaux,manioc,hydromorphe,case traditionnelle,2.15,45.3,1188.0,57,0,0,9.0,0,0
+EXP00143,Savanes,maïs,sableux,case traditionnelle,2.9,5.5,625.0,22,0,0,23.0,0,0
+EXP00144,Centrale,maïs,ferrugineux,magasin communautaire,2.69,21.9,585.0,29,1,0,5.0,0,0
+EXP00145,Plateaux,manioc,sableux,magasin communautaire,2.33,22.8,821.0,55,0,1,,0,0
+EXP00146,Maritime,manioc,sableux,magasin communautaire,1.52,19.6,1282.0,70,1,1,32.0,0,0
+EXP00147,Plateaux,igname,ferrugineux,silo métallique,3.07,4.7,1003.0,66,0,0,46.0,0,0
+EXP00148,Plateaux,maïs,sableux,case traditionnelle,3.46,14.8,764.0,51,0,1,3.0,0,0
+EXP00149,Plateaux,maïs,sableux,aucun,1.86,14.8,601.0,24,0,0,43.0,0,0
+EXP00150,Maritime,maïs,sableux,silo métallique,4.8,4.2,,69,1,0,,0,0
+EXP00151,Kara,manioc,hydromorphe,silo métallique,6.39,10.3,770.0,35,0,0,5.0,0,0
+EXP00152,Savanes,manioc,sableux,silo métallique,2.6,15.3,1175.0,21,0,0,14.0,0,0
+EXP00153,Maritime,riz,argileux,case traditionnelle,1.42,12.0,1193.0,58,0,0,5.0,0,0
+EXP00154,Centrale,igname,ferrugineux,case traditionnelle,1.03,20.6,,28,0,1,59.0,1,1
+EXP00155,Maritime,maïs,sableux,magasin communautaire,2.04,10.1,1131.0,34,0,0,15.0,0,0
+EXP00156,Centrale,riz,sableux,case traditionnelle,2.47,13.8,1106.0,54,0,1,32.0,0,0
+EXP00157,Plateaux,maïs,hydromorphe,magasin communautaire,0.99,24.2,667.0,69,0,0,7.0,0,0
+EXP00158,Centrale,maïs,hydromorphe,case traditionnelle,2.0,37.5,930.0,66,0,0,9.0,0,0
+EXP00159,Kara,manioc,argileux,case traditionnelle,4.64,4.7,1032.0,27,1,0,44.0,0,0
+EXP00160,Kara,maïs,hydromorphe,aucun,0.47,20.1,989.0,28,0,0,11.0,0,0
+EXP00161,Maritime,riz,sableux,silo métallique,2.71,8.9,539.0,61,0,0,10.0,0,0
+EXP00162,Savanes,riz,ferrugineux,magasin communautaire,1.69,17.1,981.0,35,0,0,10.0,1,1
+EXP00163,Maritime,riz,argileux,case traditionnelle,2.52,4.3,1103.0,23,0,1,17.0,0,0
+EXP00164,Maritime,manioc,sableux,magasin communautaire,6.61,28.2,1329.0,49,0,0,15.0,0,0
+EXP00165,Centrale,riz,argileux,aucun,2.44,6.9,789.0,53,1,0,9.0,0,0
+EXP00166,Plateaux,manioc,sableux,magasin communautaire,2.2,24.5,819.0,70,1,0,12.0,0,0
+EXP00167,Kara,maïs,hydromorphe,magasin communautaire,3.91,4.9,900.0,44,0,0,27.0,0,0
+EXP00168,Kara,maïs,hydromorphe,magasin communautaire,3.1,3.6,1020.0,60,1,0,19.0,0,0
+EXP00169,Plateaux,riz,sableux,case traditionnelle,2.72,10.9,973.0,46,0,0,37.0,0,0
+EXP00170,Savanes,igname,argileux,silo métallique,3.17,14.9,1095.0,67,1,1,,0,0
+EXP00171,Plateaux,maïs,ferrugineux,aucun,5.48,47.9,680.0,44,0,1,27.0,1,1
+EXP00172,Plateaux,manioc,argileux,magasin communautaire,4.45,14.7,1045.0,54,0,0,28.0,0,0
+EXP00173,Maritime,sorgho,argileux,case traditionnelle,2.09,5.5,772.0,69,0,1,9.0,1,1
+EXP00174,Savanes,sorgho,,magasin communautaire,6.39,21.9,916.0,64,0,1,20.0,0,0
+EXP00175,Maritime,manioc,ferrugineux,magasin communautaire,1.76,31.3,1360.0,39,0,0,16.0,0,0
+EXP00176,Maritime,riz,sableux,aucun,2.71,6.6,614.0,45,0,1,3.0,0,0
+EXP00177,Plateaux,riz,argileux,silo métallique,2.93,23.9,883.0,49,0,0,4.0,0,0
+EXP00178,Savanes,sorgho,hydromorphe,case traditionnelle,2.02,28.8,644.0,25,0,1,17.0,1,1
+EXP00179,Savanes,maïs,sableux,case traditionnelle,5.95,22.2,987.0,31,0,1,3.0,1,1
+EXP00180,Kara,igname,argileux,magasin communautaire,1.95,,1202.0,55,0,1,2.0,0,0
+EXP00181,Savanes,maïs,hydromorphe,case traditionnelle,2.31,15.0,991.0,22,0,1,16.0,1,0
+EXP00182,Savanes,sorgho,ferrugineux,magasin communautaire,4.87,17.1,922.0,50,0,1,1.0,0,0
+EXP00183,Plateaux,maïs,argileux,silo métallique,1.81,27.7,1269.0,44,0,0,6.0,0,0
+EXP00184,Plateaux,maïs,hydromorphe,silo métallique,0.96,8.1,1029.0,44,0,1,16.0,0,0
+EXP00185,Kara,maïs,hydromorphe,case traditionnelle,2.77,,1147.0,62,1,0,14.0,0,0
+EXP00186,Centrale,manioc,hydromorphe,silo métallique,1.19,11.7,1122.0,33,0,1,14.0,0,0
+EXP00187,Plateaux,maïs,sableux,silo métallique,1.09,9.9,260.0,60,0,1,23.0,0,0
+EXP00188,Maritime,maïs,hydromorphe,case traditionnelle,0.48,13.4,,59,0,0,30.0,0,0
+EXP00189,Kara,manioc,sableux,magasin communautaire,0.53,1.2,691.0,70,1,0,32.0,0,0
+EXP00190,Maritime,manioc,sableux,magasin communautaire,0.56,1.8,751.0,61,1,1,47.0,0,0
+EXP00191,Savanes,sorgho,ferrugineux,aucun,6.93,2.4,1304.0,45,0,1,2.0,0,0
+EXP00192,Maritime,igname,hydromorphe,case traditionnelle,0.55,17.6,860.0,37,0,1,8.0,0,0
+EXP00193,Maritime,riz,ferrugineux,case traditionnelle,1.16,10.7,1404.0,59,0,0,6.0,0,0
+EXP00194,Kara,maïs,ferrugineux,magasin communautaire,2.33,7.7,612.0,67,0,0,48.0,0,0
+EXP00195,Maritime,maïs,argileux,case traditionnelle,3.79,12.6,690.0,33,0,0,16.0,1,1
+EXP00196,Maritime,igname,sableux,case traditionnelle,4.05,24.6,1133.0,38,0,0,14.0,0,0
+EXP00197,Centrale,maïs,sableux,silo métallique,1.42,,,44,0,1,11.0,0,0
+EXP00198,Kara,manioc,argileux,case traditionnelle,2.68,5.4,1024.0,24,1,0,10.0,0,0
+EXP00199,Maritime,igname,sableux,magasin communautaire,2.29,52.8,923.0,35,0,0,10.0,0,0
+EXP00200,Plateaux,igname,argileux,aucun,2.57,13.0,916.0,27,0,0,11.0,0,0
+EXP00201,Kara,manioc,sableux,magasin communautaire,2.81,28.9,877.0,59,0,1,10.0,0,0
+EXP00202,Savanes,riz,hydromorphe,magasin communautaire,3.34,22.4,993.0,44,0,0,40.0,0,0
+EXP00203,Plateaux,manioc,sableux,magasin communautaire,1.67,9.4,1104.0,50,0,0,58.0,0,0
+EXP00204,Maritime,sorgho,hydromorphe,case traditionnelle,1.96,37.2,1337.0,23,1,0,56.0,0,0
+EXP00205,Maritime,maïs,argileux,case traditionnelle,9.14,8.3,901.0,48,0,0,3.0,0,0
+EXP00206,Maritime,maïs,ferrugineux,silo métallique,1.74,17.4,856.0,56,0,0,9.0,0,0
+EXP00207,Maritime,riz,argileux,case traditionnelle,2.71,15.8,825.0,54,0,1,2.0,0,0
+EXP00208,Centrale,maïs,argileux,case traditionnelle,2.3,16.9,1303.0,60,0,0,57.0,0,0
+EXP00209,Maritime,riz,ferrugineux,case traditionnelle,2.64,33.2,1116.0,24,1,0,20.0,0,0
+EXP00210,Plateaux,manioc,sableux,aucun,4.96,,494.0,47,1,0,27.0,0,0
+EXP00211,Centrale,igname,argileux,case traditionnelle,2.21,15.1,484.0,44,0,0,14.0,0,0
+EXP00212,Centrale,sorgho,sableux,silo métallique,1.05,15.7,751.0,65,1,0,14.0,0,0
+EXP00213,Maritime,manioc,hydromorphe,case traditionnelle,1.64,46.6,1005.0,54,0,0,35.0,1,1
+EXP00214,Kara,sorgho,argileux,magasin communautaire,2.21,27.5,942.0,68,0,0,16.0,0,0
+EXP00215,Kara,maïs,sableux,case traditionnelle,2.88,3.4,1074.0,20,0,0,16.0,0,0
+EXP00216,Kara,manioc,ferrugineux,case traditionnelle,1.42,8.5,908.0,42,0,1,25.0,0,0
+EXP00217,Maritime,maïs,ferrugineux,magasin communautaire,1.54,,1285.0,55,0,1,23.0,0,0
+EXP00218,Maritime,sorgho,sableux,silo métallique,2.95,32.8,1135.0,23,1,0,16.0,1,0
+EXP00219,Savanes,sorgho,hydromorphe,case traditionnelle,3.02,34.9,969.0,52,1,0,11.0,1,1
+EXP00220,Plateaux,igname,ferrugineux,magasin communautaire,4.51,12.7,1225.0,31,0,1,10.0,0,0
+EXP00221,Plateaux,sorgho,argileux,magasin communautaire,1.63,8.3,,22,1,0,33.0,0,0
+EXP00222,Plateaux,igname,ferrugineux,case traditionnelle,3.56,11.5,930.0,53,0,1,17.0,0,0
+EXP00223,Centrale,maïs,ferrugineux,magasin communautaire,2.3,14.3,983.0,41,0,1,8.0,1,0
+EXP00224,Savanes,igname,hydromorphe,case traditionnelle,1.8,10.9,1094.0,40,0,0,29.0,1,1
+EXP00225,Plateaux,manioc,ferrugineux,magasin communautaire,2.36,29.4,538.0,35,0,0,15.0,0,0
+EXP00226,Savanes,manioc,hydromorphe,case traditionnelle,2.59,10.1,888.0,54,0,1,3.0,0,0
+EXP00227,Maritime,manioc,argileux,magasin communautaire,0.97,6.6,1046.0,51,0,0,8.0,0,0
+EXP00228,Centrale,maïs,argileux,case traditionnelle,1.03,11.3,1065.0,53,0,0,15.0,1,1
+EXP00229,Centrale,maïs,argileux,magasin communautaire,3.88,16.4,1235.0,59,0,0,3.0,0,0
+EXP00230,Maritime,maïs,hydromorphe,magasin communautaire,1.93,29.8,1133.0,50,0,0,19.0,0,0
+EXP00231,Maritime,maïs,ferrugineux,aucun,2.89,6.2,935.0,22,0,1,,0,0
+EXP00232,Plateaux,manioc,argileux,magasin communautaire,3.81,16.4,1112.0,27,0,0,31.0,0,0
+EXP00233,Savanes,igname,hydromorphe,silo métallique,2.37,16.8,902.0,70,0,0,18.0,1,0
+EXP00234,Centrale,riz,sableux,case traditionnelle,3.6,19.0,985.0,33,0,0,9.0,0,0
+EXP00235,Savanes,manioc,ferrugineux,case traditionnelle,2.6,10.1,1141.0,41,1,0,3.0,0,0
+EXP00236,Kara,manioc,sableux,case traditionnelle,2.68,18.8,939.0,38,1,0,3.0,0,0
+EXP00237,Plateaux,manioc,sableux,magasin communautaire,5.22,22.0,1037.0,70,0,1,13.0,0,0
+EXP00238,Kara,maïs,argileux,silo métallique,2.19,10.0,,61,1,0,13.0,0,0
+EXP00239,Maritime,sorgho,ferrugineux,aucun,3.91,,1121.0,44,0,0,3.0,0,0
+EXP00240,Maritime,maïs,hydromorphe,magasin communautaire,0.84,11.8,1246.0,54,1,1,19.0,0,0
+EXP00241,Kara,riz,argileux,magasin communautaire,2.82,7.4,,47,0,0,11.0,0,0
+EXP00242,Kara,sorgho,hydromorphe,case traditionnelle,6.08,4.4,1119.0,52,0,0,6.0,1,0
+EXP00243,Maritime,manioc,sableux,case traditionnelle,9.56,8.3,839.0,68,0,0,5.0,0,0
+EXP00244,Plateaux,sorgho,ferrugineux,silo métallique,0.88,8.7,1073.0,53,0,0,41.0,0,0
+EXP00245,Centrale,maïs,sableux,case traditionnelle,1.92,4.4,1063.0,24,0,0,2.0,0,0
+EXP00246,Kara,igname,hydromorphe,case traditionnelle,1.21,18.0,1097.0,45,0,0,48.0,0,0
+EXP00247,Centrale,riz,sableux,aucun,2.25,23.1,1309.0,61,0,1,7.0,0,0
+EXP00248,Plateaux,sorgho,argileux,aucun,4.33,11.6,,21,1,0,51.0,0,0
+EXP00249,Plateaux,riz,sableux,magasin communautaire,5.34,12.8,1313.0,37,0,0,3.0,0,0
+EXP00250,Plateaux,sorgho,hydromorphe,case traditionnelle,5.45,9.2,1394.0,29,0,1,20.0,0,0
+EXP00251,Centrale,igname,ferrugineux,aucun,0.82,12.3,1086.0,56,0,1,36.0,0,0
+EXP00252,Kara,manioc,hydromorphe,case traditionnelle,2.55,18.9,1092.0,26,1,0,36.0,0,0
+EXP00253,Plateaux,sorgho,argileux,magasin communautaire,1.61,16.5,892.0,51,0,1,20.0,0,0
+EXP00254,Maritime,riz,ferrugineux,case traditionnelle,2.16,,952.0,22,0,0,18.0,0,0
+EXP00255,Maritime,manioc,sableux,aucun,1.77,8.7,1118.0,67,0,0,4.0,0,0
+EXP00256,Kara,igname,hydromorphe,aucun,0.85,21.8,1102.0,35,0,0,29.0,0,0
+EXP00257,Kara,manioc,hydromorphe,magasin communautaire,5.37,9.4,1123.0,40,0,0,33.0,0,0
+EXP00258,Maritime,manioc,sableux,case traditionnelle,1.44,4.7,1100.0,59,0,0,16.0,1,1
+EXP00259,Maritime,maïs,hydromorphe,magasin communautaire,1.63,14.5,1166.0,38,0,0,18.0,0,0
+EXP00260,Centrale,maïs,hydromorphe,case traditionnelle,6.1,2.8,1139.0,24,0,0,78.0,0,1
+EXP00261,Maritime,sorgho,sableux,aucun,0.74,16.0,704.0,66,0,1,4.0,0,0
+EXP00262,Kara,manioc,argileux,case traditionnelle,3.31,16.8,1150.0,24,0,1,21.0,0,0
+EXP00263,Plateaux,manioc,argileux,case traditionnelle,4.72,8.2,1396.0,44,1,0,29.0,0,0
+EXP00264,Maritime,maïs,sableux,silo métallique,5.8,9.1,944.0,25,0,0,3.0,0,0
+EXP00265,Savanes,manioc,sableux,magasin communautaire,3.16,23.9,1310.0,55,0,1,3.0,0,0
+EXP00266,Maritime,sorgho,argileux,aucun,3.96,43.8,730.0,33,0,0,8.0,1,1
+EXP00267,Plateaux,igname,hydromorphe,case traditionnelle,4.72,13.4,943.0,67,0,0,9.0,0,0
+EXP00268,Maritime,maïs,hydromorphe,silo métallique,2.28,8.3,796.0,29,0,0,7.0,0,0
+EXP00269,Maritime,manioc,hydromorphe,case traditionnelle,1.29,16.9,1281.0,53,1,0,,0,0
+EXP00270,Maritime,manioc,sableux,case traditionnelle,6.39,11.9,1344.0,19,0,0,9.0,0,0
+EXP00271,Maritime,riz,sableux,magasin communautaire,3.68,16.2,,24,0,0,15.0,1,1
+EXP00272,Maritime,manioc,ferrugineux,case traditionnelle,2.55,14.5,1231.0,33,0,0,7.0,0,0
+EXP00273,Maritime,manioc,argileux,magasin communautaire,0.88,14.8,1346.0,64,0,0,12.0,0,0
+EXP00274,Centrale,manioc,hydromorphe,case traditionnelle,0.41,2.0,942.0,70,0,1,15.0,0,0
+EXP00275,Centrale,manioc,argileux,case traditionnelle,3.26,9.1,981.0,50,0,0,11.0,0,0
+EXP00276,Plateaux,manioc,sableux,silo métallique,0.39,8.4,1126.0,36,0,0,21.0,0,0
+EXP00277,Plateaux,manioc,argileux,case traditionnelle,2.53,8.3,748.0,35,0,0,39.0,1,1
+EXP00278,Plateaux,sorgho,sableux,magasin communautaire,1.48,19.8,976.0,29,0,0,4.0,1,0
+EXP00279,Kara,riz,sableux,silo métallique,1.77,5.1,1464.0,36,1,1,6.0,0,0
+EXP00280,Kara,maïs,ferrugineux,case traditionnelle,5.49,2.0,830.0,44,0,0,26.0,1,1
+EXP00281,Maritime,sorgho,hydromorphe,silo métallique,1.5,8.2,1155.0,54,0,0,19.0,0,0
+EXP00282,Maritime,sorgho,argileux,case traditionnelle,2.62,6.9,1076.0,30,0,1,27.0,0,0
+EXP00283,Maritime,maïs,hydromorphe,case traditionnelle,1.5,13.4,911.0,20,0,0,25.0,0,0
+EXP00284,Maritime,manioc,ferrugineux,case traditionnelle,3.06,6.9,,48,0,0,9.0,0,0
+EXP00285,Centrale,maïs,ferrugineux,aucun,2.78,10.7,1371.0,31,0,0,41.0,0,0
+EXP00286,Plateaux,riz,sableux,magasin communautaire,2.53,9.6,1083.0,39,0,0,42.0,0,0
+EXP00287,Maritime,maïs,sableux,magasin communautaire,4.73,28.8,1120.0,56,0,0,6.0,0,0
+EXP00288,Plateaux,riz,argileux,aucun,0.74,7.0,1334.0,65,0,0,37.0,0,0
+EXP00289,Plateaux,maïs,argileux,case traditionnelle,0.6,19.1,881.0,46,0,0,40.0,1,1
+EXP00290,Maritime,manioc,sableux,aucun,1.01,12.2,699.0,67,0,0,50.0,1,1
+EXP00291,Kara,igname,sableux,silo métallique,2.79,24.2,1374.0,32,0,0,25.0,0,0
+EXP00292,Maritime,manioc,argileux,aucun,3.42,34.5,983.0,56,0,0,11.0,0,0
+EXP00293,Savanes,sorgho,ferrugineux,aucun,0.26,12.1,1164.0,69,0,0,8.0,1,0
+EXP00294,Maritime,igname,sableux,aucun,3.39,2.9,767.0,30,0,0,11.0,0,0
+EXP00295,Kara,sorgho,hydromorphe,case traditionnelle,1.96,5.1,1043.0,57,0,0,5.0,0,0
+EXP00296,Savanes,maïs,argileux,silo métallique,6.5,4.1,687.0,43,0,0,21.0,0,0
+EXP00297,Savanes,sorgho,argileux,silo métallique,3.23,9.1,965.0,64,1,0,13.0,0,0
+EXP00298,Kara,maïs,sableux,magasin communautaire,6.02,8.1,794.0,34,0,1,4.0,0,0
+EXP00299,Kara,manioc,sableux,case traditionnelle,5.31,15.0,739.0,68,0,1,8.0,0,0
+EXP00300,Centrale,sorgho,sableux,aucun,1.96,23.0,877.0,60,1,0,,0,0
+EXP00301,Kara,riz,sableux,case traditionnelle,4.34,2.6,400.0,55,0,1,21.0,1,1
+EXP00302,Maritime,manioc,ferrugineux,magasin communautaire,1.95,12.9,672.0,20,0,0,8.0,0,0
+EXP00303,Plateaux,manioc,hydromorphe,magasin communautaire,7.02,7.2,1138.0,23,0,0,49.0,0,0
+EXP00304,Plateaux,sorgho,sableux,case traditionnelle,2.09,,1033.0,53,0,0,19.0,0,0
+EXP00305,Kara,riz,sableux,silo métallique,3.53,9.2,692.0,43,0,0,5.0,0,0
+EXP00306,Plateaux,manioc,ferrugineux,case traditionnelle,7.86,20.5,1081.0,35,0,1,12.0,0,0
+EXP00307,Plateaux,igname,argileux,silo métallique,3.63,5.4,739.0,62,0,0,4.0,0,0
+EXP00308,Centrale,maïs,,aucun,1.81,7.6,1123.0,44,0,0,41.0,0,0
+EXP00309,Maritime,maïs,sableux,case traditionnelle,0.92,11.5,922.0,42,0,1,28.0,0,0
+EXP00310,Maritime,riz,ferrugineux,silo métallique,0.74,9.9,872.0,35,0,0,8.0,1,0
+EXP00311,Plateaux,igname,argileux,case traditionnelle,3.38,11.4,928.0,70,0,0,2.0,0,0
+EXP00312,Plateaux,maïs,ferrugineux,aucun,2.36,3.3,1564.0,37,0,0,28.0,0,0
+EXP00313,Maritime,maïs,hydromorphe,aucun,1.02,31.2,768.0,32,0,1,19.0,0,0
+EXP00314,Plateaux,maïs,argileux,case traditionnelle,4.04,8.6,1004.0,54,0,0,37.0,0,0
+EXP00315,Plateaux,sorgho,sableux,silo métallique,4.0,5.7,1138.0,20,0,1,1.0,0,0
+EXP00316,Plateaux,maïs,ferrugineux,magasin communautaire,2.33,11.7,719.0,49,1,0,26.0,1,1
+EXP00317,Plateaux,manioc,ferrugineux,magasin communautaire,6.19,13.0,567.0,48,0,1,14.0,0,0
+EXP00318,Centrale,igname,hydromorphe,silo métallique,0.64,40.0,806.0,31,0,1,64.0,0,0
+EXP00319,Plateaux,maïs,sableux,magasin communautaire,1.86,25.4,1132.0,58,1,1,5.0,1,0
+EXP00320,Savanes,manioc,sableux,magasin communautaire,3.62,9.7,868.0,21,0,0,30.0,0,0
+EXP00321,Savanes,manioc,ferrugineux,case traditionnelle,1.12,35.6,895.0,70,0,0,26.0,0,0
+EXP00322,Plateaux,sorgho,ferrugineux,case traditionnelle,4.3,31.3,1169.0,63,0,1,4.0,0,0
+EXP00323,Plateaux,manioc,sableux,aucun,5.15,5.8,756.0,28,1,0,,0,0
+EXP00324,Plateaux,manioc,ferrugineux,case traditionnelle,0.32,45.9,,44,0,1,24.0,0,0
+EXP00325,Kara,maïs,ferrugineux,magasin communautaire,6.33,8.8,587.0,29,0,1,8.0,0,0
+EXP00326,Centrale,riz,hydromorphe,case traditionnelle,3.47,14.0,1027.0,51,0,0,8.0,0,0
+EXP00327,Kara,sorgho,sableux,aucun,1.71,28.2,1005.0,37,0,0,32.0,0,1
+EXP00328,Plateaux,maïs,ferrugineux,magasin communautaire,0.8,2.6,1141.0,44,0,0,54.0,1,0
+EXP00329,Centrale,manioc,ferrugineux,case traditionnelle,4.69,11.4,675.0,68,1,0,30.0,1,1
+EXP00330,Plateaux,igname,ferrugineux,case traditionnelle,0.98,15.6,904.0,51,0,0,4.0,0,0
+EXP00331,Kara,maïs,hydromorphe,magasin communautaire,3.47,24.8,643.0,64,0,0,0.0,0,0
+EXP00332,Maritime,maïs,,aucun,1.01,12.5,891.0,51,0,1,5.0,1,1
+EXP00333,Centrale,manioc,ferrugineux,magasin communautaire,2.49,2.7,1306.0,43,1,0,26.0,0,0
+EXP00334,Kara,maïs,hydromorphe,magasin communautaire,4.55,39.8,873.0,19,0,0,28.0,1,1
+EXP00335,Maritime,maïs,ferrugineux,silo métallique,1.72,12.8,622.0,23,0,0,11.0,0,0
+EXP00336,Centrale,manioc,hydromorphe,case traditionnelle,6.3,16.0,,46,0,0,5.0,0,0
+EXP00337,Maritime,maïs,sableux,magasin communautaire,3.67,3.6,563.0,45,0,0,12.0,1,0
+EXP00338,Kara,manioc,ferrugineux,case traditionnelle,1.12,30.4,639.0,45,0,1,3.0,0,1
+EXP00339,Maritime,riz,sableux,case traditionnelle,0.85,8.8,1111.0,62,0,1,20.0,1,0
+EXP00340,Savanes,manioc,sableux,silo métallique,1.37,7.2,603.0,23,0,0,18.0,0,0
+EXP00341,Maritime,maïs,sableux,aucun,2.41,26.1,1025.0,53,0,1,5.0,0,0
+EXP00342,Savanes,sorgho,sableux,aucun,6.69,4.0,956.0,57,0,0,31.0,0,0
+EXP00343,Kara,maïs,argileux,aucun,7.51,16.2,822.0,52,1,0,16.0,0,0
+EXP00344,Centrale,sorgho,ferrugineux,magasin communautaire,1.68,7.1,1005.0,31,0,0,7.0,0,0
+EXP00345,Kara,manioc,ferrugineux,case traditionnelle,1.64,17.5,725.0,40,0,1,20.0,1,1
+EXP00346,Kara,sorgho,hydromorphe,magasin communautaire,4.09,20.7,,21,0,0,63.0,1,1
+EXP00347,Savanes,maïs,sableux,aucun,4.07,8.6,782.0,28,1,1,3.0,0,0
+EXP00348,Maritime,maïs,argileux,silo métallique,5.66,29.2,857.0,60,0,0,66.0,0,0
+EXP00349,Centrale,manioc,argileux,magasin communautaire,5.76,12.9,,51,1,1,16.0,0,0
+EXP00350,Maritime,maïs,sableux,silo métallique,1.3,40.2,1115.0,63,0,0,24.0,0,0
+EXP00351,Centrale,maïs,hydromorphe,silo métallique,0.72,26.3,1081.0,54,0,1,25.0,1,1
+EXP00352,Maritime,riz,hydromorphe,aucun,3.71,13.9,321.0,31,0,0,8.0,1,1
+EXP00353,Centrale,sorgho,ferrugineux,silo métallique,2.89,13.8,1011.0,61,0,0,11.0,0,0
+EXP00354,Centrale,maïs,hydromorphe,magasin communautaire,0.47,4.4,531.0,54,0,1,40.0,0,0
+EXP00355,Plateaux,igname,sableux,case traditionnelle,0.71,,868.0,28,0,0,45.0,1,1
+EXP00356,Plateaux,sorgho,ferrugineux,magasin communautaire,3.59,8.0,924.0,19,0,1,13.0,0,0
+EXP00357,Kara,sorgho,argileux,case traditionnelle,2.26,,866.0,58,1,1,56.0,0,0
+EXP00358,Kara,riz,argileux,aucun,3.65,40.0,1070.0,56,0,1,14.0,0,0
+EXP00359,Plateaux,riz,hydromorphe,magasin communautaire,1.06,28.9,1123.0,23,0,0,29.0,0,0
+EXP00360,Centrale,manioc,,magasin communautaire,3.83,6.1,764.0,43,0,0,8.0,0,0
+EXP00361,Savanes,riz,ferrugineux,case traditionnelle,3.14,12.9,756.0,66,0,0,27.0,0,0
+EXP00362,Maritime,igname,argileux,magasin communautaire,4.02,16.0,941.0,60,0,0,12.0,0,0
+EXP00363,Maritime,maïs,argileux,magasin communautaire,1.77,31.2,580.0,61,0,0,75.0,0,0
+EXP00364,Maritime,maïs,ferrugineux,case traditionnelle,1.49,28.3,836.0,39,0,1,21.0,0,0
+EXP00365,Centrale,maïs,sableux,aucun,0.79,18.9,1274.0,25,1,1,51.0,1,1
+EXP00366,Plateaux,igname,hydromorphe,case traditionnelle,1.99,17.7,588.0,37,0,0,,1,1
+EXP00367,Kara,manioc,argileux,magasin communautaire,5.0,12.7,868.0,54,0,1,16.0,0,0
+EXP00368,Centrale,riz,ferrugineux,case traditionnelle,5.93,15.7,808.0,62,1,0,18.0,1,0
+EXP00369,Plateaux,sorgho,ferrugineux,magasin communautaire,0.99,10.7,1431.0,52,0,0,60.0,0,0
+EXP00370,Savanes,igname,hydromorphe,silo métallique,2.41,22.0,821.0,21,0,0,10.0,0,0
+EXP00371,Kara,maïs,ferrugineux,aucun,6.75,18.4,835.0,49,0,1,73.0,0,1
+EXP00372,Maritime,sorgho,hydromorphe,case traditionnelle,7.35,25.5,703.0,28,0,1,32.0,0,0
+EXP00373,Plateaux,igname,sableux,aucun,1.93,25.0,952.0,50,0,0,58.0,1,1
+EXP00374,Plateaux,maïs,sableux,silo métallique,5.3,8.0,1015.0,40,0,0,5.0,0,0
+EXP00375,Maritime,sorgho,sableux,case traditionnelle,4.72,1.5,737.0,46,1,0,28.0,0,0
+EXP00376,Maritime,manioc,ferrugineux,case traditionnelle,4.47,7.5,1187.0,50,1,0,41.0,0,0
+EXP00377,Savanes,riz,ferrugineux,case traditionnelle,0.63,15.6,1015.0,52,0,0,42.0,1,1
+EXP00378,Plateaux,manioc,argileux,aucun,1.6,10.7,1154.0,19,0,1,28.0,1,1
+EXP00379,Plateaux,maïs,hydromorphe,case traditionnelle,2.22,10.4,871.0,69,1,1,12.0,0,0
+EXP00380,Kara,maïs,ferrugineux,magasin communautaire,2.18,7.1,1008.0,48,0,0,11.0,0,0
+EXP00381,Centrale,maïs,hydromorphe,silo métallique,2.39,17.2,899.0,45,0,1,10.0,0,0
+EXP00382,Savanes,maïs,ferrugineux,aucun,7.87,2.8,1300.0,38,0,0,20.0,1,1
+EXP00383,Kara,riz,hydromorphe,magasin communautaire,1.98,18.8,978.0,24,0,0,18.0,0,0
+EXP00384,Plateaux,manioc,argileux,silo métallique,3.25,19.1,952.0,51,1,1,12.0,0,0
+EXP00385,Plateaux,maïs,hydromorphe,case traditionnelle,3.17,25.1,840.0,37,0,0,14.0,0,0
+EXP00386,Savanes,riz,sableux,aucun,2.41,70.8,826.0,66,0,0,16.0,1,1
+EXP00387,Kara,riz,hydromorphe,case traditionnelle,1.04,1.3,,53,0,0,2.0,0,0
+EXP00388,Savanes,manioc,hydromorphe,case traditionnelle,2.64,18.5,1147.0,41,0,1,12.0,0,0
+EXP00389,Maritime,igname,sableux,aucun,0.46,21.0,786.0,20,0,0,10.0,0,1
+EXP00390,Kara,manioc,sableux,case traditionnelle,3.47,7.5,980.0,47,0,0,5.0,0,0
+EXP00391,Centrale,sorgho,hydromorphe,case traditionnelle,0.4,11.2,994.0,62,0,0,6.0,0,0
+EXP00392,Maritime,maïs,ferrugineux,magasin communautaire,3.26,8.9,1036.0,43,0,0,12.0,0,0
+EXP00393,Centrale,riz,argileux,case traditionnelle,1.54,19.3,540.0,52,1,0,21.0,0,0
+EXP00394,Centrale,igname,ferrugineux,case traditionnelle,1.16,26.9,728.0,25,1,0,22.0,0,0
+EXP00395,Maritime,sorgho,argileux,magasin communautaire,4.13,4.9,622.0,40,1,1,24.0,0,0
+EXP00396,Plateaux,manioc,hydromorphe,silo métallique,1.81,17.3,958.0,60,0,0,22.0,0,0
+EXP00397,Kara,riz,argileux,silo métallique,2.55,,734.0,41,0,0,11.0,0,0
+EXP00398,Plateaux,manioc,hydromorphe,case traditionnelle,0.65,7.9,831.0,65,0,1,6.0,0,0
+EXP00399,Plateaux,riz,sableux,magasin communautaire,6.21,1.0,,40,0,1,7.0,0,0
+EXP00400,Plateaux,sorgho,sableux,silo métallique,2.73,6.5,853.0,61,0,0,15.0,0,0
+EXP00401,Plateaux,igname,hydromorphe,case traditionnelle,2.72,5.9,680.0,52,0,0,18.0,0,0
+EXP00402,Savanes,manioc,ferrugineux,case traditionnelle,3.52,6.7,1132.0,68,0,0,30.0,1,1
+EXP00403,Kara,maïs,sableux,case traditionnelle,0.3,39.5,1065.0,46,0,0,42.0,1,0
+EXP00404,Maritime,manioc,sableux,magasin communautaire,6.62,45.4,986.0,43,0,1,11.0,0,0
+EXP00405,Savanes,maïs,hydromorphe,case traditionnelle,1.93,33.2,878.0,37,0,0,18.0,0,0
+EXP00406,Kara,maïs,argileux,silo métallique,6.37,10.5,461.0,52,0,0,25.0,0,0
+EXP00407,Plateaux,maïs,sableux,aucun,1.88,34.0,840.0,69,0,0,16.0,0,0
+EXP00408,Kara,riz,ferrugineux,case traditionnelle,1.57,1.5,767.0,27,0,0,7.0,0,0
+EXP00409,Maritime,maïs,argileux,magasin communautaire,3.36,5.6,1009.0,67,1,0,8.0,1,0
+EXP00410,Savanes,maïs,ferrugineux,case traditionnelle,8.9,22.4,1099.0,69,0,1,31.0,0,0
+EXP00411,Centrale,maïs,sableux,case traditionnelle,5.29,8.5,,58,1,0,12.0,0,0
+EXP00412,Centrale,sorgho,hydromorphe,silo métallique,3.62,5.0,1253.0,49,0,0,13.0,0,0
+EXP00413,Maritime,riz,sableux,magasin communautaire,3.32,17.0,814.0,63,1,1,1.0,0,0
+EXP00414,Savanes,maïs,argileux,aucun,2.62,17.3,804.0,32,0,0,37.0,0,0
+EXP00415,Maritime,maïs,sableux,magasin communautaire,6.18,18.4,1199.0,51,1,0,26.0,0,0
+EXP00416,Maritime,manioc,sableux,case traditionnelle,4.21,19.9,990.0,60,1,0,4.0,0,0
+EXP00417,Maritime,maïs,argileux,magasin communautaire,0.78,16.4,891.0,60,0,0,23.0,0,0
+EXP00418,Kara,manioc,sableux,case traditionnelle,1.16,12.0,1393.0,49,0,0,25.0,0,0
+EXP00419,Maritime,manioc,argileux,aucun,3.7,13.7,1089.0,39,0,0,51.0,1,1
+EXP00420,Savanes,igname,hydromorphe,silo métallique,1.01,22.6,904.0,68,0,1,8.0,1,1
+EXP00421,Centrale,maïs,ferrugineux,case traditionnelle,2.71,16.0,785.0,54,1,1,,0,0
+EXP00422,Maritime,riz,ferrugineux,magasin communautaire,4.44,9.2,1268.0,59,1,0,10.0,0,0
+EXP00423,Maritime,maïs,sableux,silo métallique,3.38,7.4,,51,0,0,10.0,0,0
+EXP00424,Maritime,igname,sableux,silo métallique,0.89,13.6,956.0,64,0,1,44.0,0,0
+EXP00425,Centrale,igname,ferrugineux,case traditionnelle,1.21,30.5,1112.0,43,0,0,32.0,0,0
+EXP00426,Kara,riz,,case traditionnelle,3.45,20.1,1161.0,47,0,0,4.0,0,0
+EXP00427,Maritime,manioc,argileux,case traditionnelle,8.27,31.6,1082.0,60,0,0,3.0,0,0
+EXP00428,Kara,maïs,,case traditionnelle,2.32,10.4,1162.0,45,0,0,24.0,0,0
+EXP00429,Maritime,sorgho,argileux,magasin communautaire,4.55,15.1,1058.0,31,1,1,14.0,0,0
+EXP00430,Kara,riz,ferrugineux,case traditionnelle,3.4,16.8,1083.0,58,0,0,7.0,0,0
+EXP00431,Savanes,maïs,ferrugineux,case traditionnelle,1.53,23.3,774.0,38,0,1,24.0,0,0
+EXP00432,Kara,manioc,hydromorphe,magasin communautaire,4.58,10.4,1384.0,24,0,0,22.0,0,0
+EXP00433,Centrale,manioc,argileux,case traditionnelle,0.63,20.0,654.0,38,0,0,16.0,1,1
+EXP00434,Kara,sorgho,sableux,aucun,4.36,29.4,1024.0,21,0,0,17.0,0,0
+EXP00435,Maritime,riz,argileux,magasin communautaire,3.54,12.5,629.0,64,0,1,7.0,0,0
+EXP00436,Maritime,riz,hydromorphe,case traditionnelle,1.64,6.7,926.0,70,0,0,,0,0
+EXP00437,Maritime,riz,,magasin communautaire,1.08,30.0,813.0,32,1,0,56.0,1,1
+EXP00438,Plateaux,maïs,sableux,case traditionnelle,1.75,21.3,983.0,66,0,1,5.0,0,0
+EXP00439,Kara,manioc,argileux,aucun,1.44,4.0,1032.0,55,0,0,31.0,1,0
+EXP00440,Centrale,maïs,hydromorphe,magasin communautaire,2.06,12.7,720.0,68,0,0,,0,0
+EXP00441,Kara,sorgho,sableux,magasin communautaire,1.89,41.1,943.0,27,0,0,27.0,0,0
+EXP00442,Maritime,manioc,argileux,aucun,1.64,19.0,,22,0,1,14.0,0,0
+EXP00443,Kara,manioc,hydromorphe,aucun,0.61,13.6,635.0,66,0,0,27.0,1,1
+EXP00444,Maritime,maïs,argileux,silo métallique,0.96,6.0,745.0,33,0,0,5.0,0,0
+EXP00445,Maritime,maïs,,case traditionnelle,5.07,6.0,1157.0,50,1,1,18.0,0,0
+EXP00446,Kara,manioc,argileux,case traditionnelle,1.67,22.3,969.0,65,0,0,29.0,0,0
+EXP00447,Savanes,maïs,hydromorphe,silo métallique,2.09,6.4,,36,0,0,18.0,0,0
+EXP00448,Centrale,maïs,sableux,magasin communautaire,1.82,16.8,1195.0,23,0,0,25.0,0,0
+EXP00449,Maritime,sorgho,hydromorphe,silo métallique,6.28,12.5,759.0,60,0,0,11.0,0,0
+EXP00450,Centrale,manioc,sableux,silo métallique,1.41,16.2,825.0,42,0,0,26.0,0,0
+EXP00451,Maritime,manioc,,case traditionnelle,1.33,11.7,796.0,20,0,0,44.0,1,1
+EXP00452,Savanes,manioc,sableux,case traditionnelle,3.59,18.4,866.0,36,1,0,,1,1
+EXP00453,Kara,sorgho,,magasin communautaire,2.86,25.0,1271.0,46,0,1,25.0,0,0
+EXP00454,Maritime,maïs,hydromorphe,case traditionnelle,3.66,11.9,542.0,64,0,0,8.0,0,0
+EXP00455,Maritime,sorgho,hydromorphe,silo métallique,3.51,23.6,663.0,30,0,0,47.0,0,0
+EXP00456,Maritime,igname,hydromorphe,silo métallique,4.66,32.4,622.0,45,0,0,4.0,0,0
+EXP00457,Savanes,riz,sableux,magasin communautaire,0.87,16.7,1286.0,28,0,1,21.0,0,0
+EXP00458,Plateaux,manioc,sableux,silo métallique,3.36,22.0,803.0,34,0,1,16.0,0,0
+EXP00459,Kara,riz,sableux,magasin communautaire,1.34,5.0,872.0,32,1,1,11.0,0,0
+EXP00460,Centrale,manioc,ferrugineux,silo métallique,0.48,12.1,562.0,46,0,1,10.0,0,0
+EXP00461,Centrale,manioc,ferrugineux,case traditionnelle,3.49,3.6,887.0,53,0,1,15.0,0,0
+EXP00462,Maritime,manioc,ferrugineux,silo métallique,3.35,9.1,1158.0,24,0,1,43.0,0,0
+EXP00463,Savanes,maïs,argileux,silo métallique,2.47,12.2,1011.0,22,0,0,19.0,0,0
+EXP00464,Plateaux,maïs,argileux,case traditionnelle,4.71,43.3,924.0,57,0,0,2.0,1,1
+EXP00465,Centrale,manioc,ferrugineux,magasin communautaire,1.35,7.5,574.0,34,0,0,3.0,0,0
+EXP00466,Centrale,maïs,ferrugineux,aucun,3.88,13.2,871.0,51,0,0,19.0,0,0
+EXP00467,Centrale,manioc,argileux,case traditionnelle,2.23,6.4,,22,0,0,33.0,1,1
+EXP00468,Savanes,manioc,sableux,silo métallique,2.35,11.4,712.0,50,0,0,7.0,0,0
+EXP00469,Maritime,igname,hydromorphe,aucun,0.53,18.6,1107.0,66,0,0,18.0,1,1
+EXP00470,Plateaux,maïs,sableux,aucun,4.75,20.6,1162.0,41,0,1,34.0,0,0
+EXP00471,Plateaux,riz,ferrugineux,case traditionnelle,3.27,10.4,823.0,49,0,0,21.0,0,0
+EXP00472,Plateaux,manioc,ferrugineux,magasin communautaire,3.78,8.3,1124.0,34,0,0,17.0,0,0
+EXP00473,Maritime,maïs,hydromorphe,aucun,1.21,35.2,924.0,33,0,1,12.0,0,0
+EXP00474,Maritime,maïs,argileux,magasin communautaire,3.01,9.8,1225.0,22,0,0,14.0,0,0
+EXP00475,Maritime,maïs,argileux,case traditionnelle,2.22,1.9,1438.0,43,0,0,26.0,0,0
+EXP00476,Plateaux,maïs,ferrugineux,case traditionnelle,3.38,29.5,688.0,68,0,0,28.0,0,0
+EXP00477,Plateaux,maïs,sableux,silo métallique,2.92,2.4,1135.0,25,0,0,28.0,0,0
+EXP00478,Centrale,manioc,argileux,magasin communautaire,7.07,29.5,1263.0,40,0,1,9.0,0,0
+EXP00479,Centrale,manioc,argileux,case traditionnelle,5.7,3.7,717.0,62,0,0,1.0,1,1
+EXP00480,Plateaux,maïs,argileux,case traditionnelle,2.04,4.4,812.0,44,0,1,11.0,0,0
+EXP00481,Plateaux,maïs,ferrugineux,silo métallique,3.49,5.4,809.0,58,1,0,30.0,1,0
+EXP00482,Maritime,maïs,ferrugineux,magasin communautaire,1.92,9.2,918.0,38,0,1,50.0,0,0
+EXP00483,Centrale,manioc,ferrugineux,aucun,4.63,29.7,864.0,50,0,0,6.0,0,1
+EXP00484,Plateaux,maïs,ferrugineux,silo métallique,2.29,5.6,902.0,70,1,0,25.0,0,0
+EXP00485,Maritime,manioc,ferrugineux,aucun,1.73,18.6,1151.0,50,0,0,9.0,1,1
+EXP00486,Plateaux,maïs,hydromorphe,aucun,2.98,15.9,495.0,60,0,0,41.0,1,1
+EXP00487,Plateaux,maïs,sableux,case traditionnelle,5.42,14.0,716.0,55,0,1,30.0,0,0
+EXP00488,Maritime,igname,hydromorphe,magasin communautaire,4.87,26.2,1111.0,23,0,1,20.0,0,0
+EXP00489,Centrale,maïs,hydromorphe,case traditionnelle,1.81,14.9,1083.0,27,0,0,21.0,1,1
+EXP00490,Centrale,maïs,,aucun,6.68,15.7,696.0,50,0,1,38.0,0,0
+EXP00491,Kara,maïs,ferrugineux,case traditionnelle,1.27,21.8,1084.0,37,0,0,3.0,0,0
+EXP00492,Centrale,igname,argileux,silo métallique,1.58,9.4,1268.0,44,0,1,15.0,0,0
+EXP00493,Centrale,riz,sableux,aucun,4.5,13.2,938.0,44,1,0,6.0,1,0
+EXP00494,Plateaux,riz,ferrugineux,case traditionnelle,0.48,16.7,708.0,60,0,0,21.0,1,1
+EXP00495,Kara,igname,argileux,aucun,2.55,,1160.0,70,1,0,18.0,0,0
+EXP00496,Centrale,maïs,argileux,case traditionnelle,2.04,12.0,1364.0,70,0,0,20.0,1,1
+EXP00497,Plateaux,igname,argileux,magasin communautaire,6.93,13.1,737.0,23,1,1,5.0,0,0
+EXP00498,Centrale,maïs,ferrugineux,magasin communautaire,1.1,18.3,959.0,57,0,0,,0,0
+EXP00499,Plateaux,riz,sableux,case traditionnelle,1.19,12.2,1212.0,56,1,0,27.0,1,1
+EXP00500,Plateaux,manioc,argileux,magasin communautaire,7.55,7.6,978.0,63,1,1,11.0,0,0
+EXP00501,Kara,manioc,argileux,aucun,2.05,21.8,531.0,41,0,0,29.0,1,1
+EXP00502,Savanes,igname,ferrugineux,case traditionnelle,5.28,14.9,1056.0,45,0,0,1.0,0,0
+EXP00503,Savanes,maïs,argileux,magasin communautaire,1.82,10.0,715.0,42,0,0,6.0,0,0
+EXP00504,Plateaux,igname,hydromorphe,aucun,1.53,5.4,645.0,38,0,0,15.0,0,0
+EXP00505,Plateaux,manioc,hydromorphe,silo métallique,5.45,2.4,535.0,31,0,1,12.0,0,0
+EXP00506,Kara,riz,sableux,case traditionnelle,8.73,18.9,1236.0,52,0,0,39.0,0,0
+EXP00507,Plateaux,igname,argileux,aucun,5.72,7.5,750.0,19,0,0,26.0,0,0
+EXP00508,Kara,maïs,ferrugineux,case traditionnelle,1.74,3.4,1030.0,57,0,0,45.0,0,0
+EXP00509,Plateaux,igname,,magasin communautaire,2.47,6.8,1089.0,62,1,0,,0,0
+EXP00510,Maritime,manioc,argileux,magasin communautaire,1.23,16.7,989.0,30,0,0,12.0,0,0
+EXP00511,Maritime,riz,sableux,silo métallique,1.4,7.4,1021.0,30,1,0,,0,0
+EXP00512,Kara,maïs,hydromorphe,case traditionnelle,1.35,16.9,1041.0,45,0,1,20.0,0,0
+EXP00513,Maritime,manioc,ferrugineux,case traditionnelle,1.85,8.7,983.0,63,0,0,4.0,0,0
+EXP00514,Plateaux,riz,sableux,silo métallique,2.76,13.2,768.0,24,0,1,18.0,0,0
+EXP00515,Plateaux,manioc,sableux,case traditionnelle,2.54,14.0,746.0,41,1,0,8.0,0,0
+EXP00516,Maritime,maïs,sableux,magasin communautaire,4.08,21.0,925.0,30,0,1,29.0,0,0
+EXP00517,Plateaux,maïs,argileux,silo métallique,2.86,21.5,920.0,63,0,0,15.0,1,1
+EXP00518,Kara,sorgho,sableux,magasin communautaire,3.83,13.5,1053.0,64,0,1,3.0,0,0
+EXP00519,Maritime,maïs,sableux,case traditionnelle,4.24,6.2,1214.0,23,0,0,32.0,0,0
+EXP00520,Kara,riz,ferrugineux,case traditionnelle,1.76,28.1,1033.0,26,0,0,33.0,0,0
+EXP00521,Kara,igname,sableux,aucun,2.26,,755.0,27,0,0,28.0,0,0
+EXP00522,Plateaux,maïs,ferrugineux,magasin communautaire,14.61,1.2,427.0,61,0,1,10.0,0,0
+EXP00523,Maritime,maïs,sableux,case traditionnelle,1.65,16.2,765.0,65,1,1,24.0,0,0
+EXP00524,Centrale,riz,ferrugineux,case traditionnelle,3.97,16.7,627.0,38,0,1,35.0,0,0
+EXP00525,Maritime,maïs,argileux,case traditionnelle,0.92,10.1,,27,0,0,14.0,0,0
+EXP00526,Plateaux,manioc,hydromorphe,aucun,4.32,3.7,1008.0,53,0,0,15.0,0,0
+EXP00527,Savanes,riz,hydromorphe,case traditionnelle,1.46,3.0,970.0,65,1,0,17.0,0,0
+EXP00528,Savanes,manioc,ferrugineux,case traditionnelle,2.61,10.7,1396.0,66,0,0,28.0,0,0
+EXP00529,Kara,manioc,ferrugineux,magasin communautaire,0.8,5.7,1066.0,42,0,0,19.0,0,0
+EXP00530,Plateaux,riz,argileux,case traditionnelle,2.43,24.5,1408.0,59,0,1,25.0,0,0
+EXP00531,Centrale,manioc,hydromorphe,case traditionnelle,2.46,10.4,1122.0,68,1,1,13.0,0,0
+EXP00532,Kara,maïs,sableux,aucun,2.2,9.5,1211.0,61,0,0,13.0,0,0
+EXP00533,Plateaux,manioc,argileux,silo métallique,3.41,40.5,864.0,43,0,0,26.0,0,0
+EXP00534,Centrale,igname,,case traditionnelle,5.15,1.4,692.0,32,0,0,9.0,0,0
+EXP00535,Maritime,riz,ferrugineux,magasin communautaire,1.19,13.1,842.0,38,0,0,6.0,0,0
+EXP00536,Maritime,manioc,hydromorphe,case traditionnelle,2.24,2.5,947.0,37,0,0,9.0,0,0
+EXP00537,Plateaux,maïs,hydromorphe,case traditionnelle,0.57,30.0,799.0,70,0,0,13.0,0,0
+EXP00538,Maritime,maïs,hydromorphe,magasin communautaire,2.83,3.4,710.0,57,0,0,16.0,1,1
+EXP00539,Maritime,maïs,ferrugineux,magasin communautaire,1.12,17.2,1050.0,63,0,0,11.0,0,0
+EXP00540,Kara,maïs,sableux,silo métallique,2.53,15.5,709.0,59,0,1,12.0,0,0
+EXP00541,Savanes,igname,hydromorphe,aucun,2.91,2.5,582.0,43,0,0,21.0,0,0
+EXP00542,Centrale,maïs,hydromorphe,case traditionnelle,0.65,17.3,681.0,60,0,1,8.0,0,0
+EXP00543,Kara,sorgho,hydromorphe,aucun,3.22,8.7,894.0,52,0,1,27.0,1,0
+EXP00544,Savanes,maïs,hydromorphe,magasin communautaire,4.99,19.6,712.0,57,0,0,7.0,0,0
+EXP00545,Maritime,maïs,ferrugineux,case traditionnelle,3.73,8.2,895.0,34,0,0,16.0,1,0
+EXP00546,Plateaux,manioc,hydromorphe,aucun,1.21,17.3,1094.0,31,0,1,15.0,0,0
+EXP00547,Plateaux,maïs,argileux,case traditionnelle,2.42,12.2,1088.0,28,0,0,39.0,0,0
+EXP00548,Maritime,sorgho,sableux,magasin communautaire,2.61,17.3,791.0,34,1,0,14.0,0,0
+EXP00549,Kara,igname,sableux,silo métallique,2.27,,637.0,69,0,1,30.0,0,0
+EXP00550,Plateaux,sorgho,argileux,case traditionnelle,0.88,11.2,812.0,67,0,1,26.0,0,0
+EXP00551,Plateaux,maïs,sableux,aucun,1.36,9.9,1107.0,26,1,1,,0,0
+EXP00552,Maritime,sorgho,ferrugineux,case traditionnelle,2.12,19.0,,47,0,1,37.0,0,0
+EXP00553,Maritime,maïs,hydromorphe,aucun,2.89,8.8,1035.0,67,0,0,10.0,0,0
+EXP00554,Savanes,igname,hydromorphe,case traditionnelle,1.65,11.4,1238.0,58,0,0,12.0,1,1
+EXP00555,Maritime,manioc,hydromorphe,case traditionnelle,0.52,33.8,1365.0,50,0,1,22.0,0,0
+EXP00556,Maritime,maïs,ferrugineux,case traditionnelle,1.72,13.2,834.0,50,0,0,11.0,0,0
+EXP00557,Plateaux,maïs,ferrugineux,aucun,7.07,21.5,1307.0,35,0,0,4.0,1,0
+EXP00558,Plateaux,maïs,hydromorphe,case traditionnelle,3.24,7.8,887.0,67,0,0,13.0,1,1
+EXP00559,Centrale,maïs,argileux,aucun,2.83,17.1,1195.0,23,0,1,12.0,0,0
+EXP00560,Plateaux,igname,sableux,case traditionnelle,1.35,11.6,1120.0,64,0,0,7.0,1,0
+EXP00561,Maritime,sorgho,argileux,magasin communautaire,1.78,10.1,476.0,64,0,1,16.0,1,0
+EXP00562,Maritime,igname,ferrugineux,case traditionnelle,0.49,2.3,718.0,32,1,0,16.0,1,1
+EXP00563,Kara,maïs,hydromorphe,case traditionnelle,1.28,5.8,657.0,45,0,0,21.0,0,0
+EXP00564,Centrale,manioc,sableux,aucun,3.13,2.0,522.0,65,0,0,6.0,0,0
+EXP00565,Centrale,maïs,hydromorphe,magasin communautaire,2.84,42.2,1161.0,43,0,1,6.0,0,0
+EXP00566,Centrale,manioc,hydromorphe,silo métallique,1.53,12.1,1447.0,34,0,0,28.0,0,0
+EXP00567,Kara,maïs,hydromorphe,magasin communautaire,2.26,13.3,888.0,22,0,1,7.0,0,0
+EXP00568,Maritime,maïs,ferrugineux,magasin communautaire,2.55,24.1,,41,0,0,19.0,0,0
+EXP00569,Plateaux,manioc,,magasin communautaire,1.59,16.0,1306.0,33,0,0,13.0,0,0
+EXP00570,Plateaux,maïs,argileux,aucun,3.37,10.0,,63,0,0,8.0,0,0
+EXP00571,Plateaux,manioc,ferrugineux,silo métallique,2.81,10.1,944.0,63,0,1,39.0,0,0
+EXP00572,Kara,riz,hydromorphe,magasin communautaire,1.83,5.4,891.0,35,0,0,16.0,0,0
+EXP00573,Plateaux,maïs,sableux,magasin communautaire,0.93,18.1,1079.0,29,0,1,10.0,0,0
+EXP00574,Kara,igname,argileux,magasin communautaire,1.73,,1160.0,34,0,0,3.0,0,0
+EXP00575,Kara,manioc,argileux,magasin communautaire,1.65,13.4,1061.0,39,0,0,24.0,0,0
+EXP00576,Plateaux,sorgho,hydromorphe,magasin communautaire,1.53,11.8,,53,0,0,7.0,0,0
+EXP00577,Savanes,riz,sableux,magasin communautaire,0.67,18.7,938.0,26,0,0,,0,0
+EXP00578,Centrale,riz,argileux,silo métallique,5.88,5.3,568.0,70,0,0,15.0,0,0
+EXP00579,Kara,riz,,aucun,5.69,16.6,1165.0,55,1,0,73.0,1,1
+EXP00580,Plateaux,sorgho,hydromorphe,aucun,2.21,35.0,642.0,25,0,0,12.0,0,0
+EXP00581,Plateaux,riz,argileux,aucun,2.88,8.0,1099.0,35,0,0,7.0,0,0
+EXP00582,Plateaux,maïs,hydromorphe,magasin communautaire,3.33,11.0,,55,0,0,16.0,0,0
+EXP00583,Maritime,maïs,ferrugineux,silo métallique,2.23,29.1,676.0,45,0,0,9.0,0,0
+EXP00584,Plateaux,riz,argileux,case traditionnelle,3.02,13.4,804.0,46,0,0,2.0,0,0
+EXP00585,Savanes,maïs,argileux,magasin communautaire,3.65,22.6,1459.0,21,0,0,29.0,0,0
+EXP00586,Centrale,maïs,hydromorphe,case traditionnelle,2.74,17.3,931.0,40,0,0,19.0,1,1
+EXP00587,Maritime,maïs,hydromorphe,case traditionnelle,4.09,18.3,,50,0,0,8.0,0,0
+EXP00588,Plateaux,manioc,hydromorphe,aucun,1.49,7.6,1142.0,57,0,0,6.0,0,0
+EXP00589,Maritime,maïs,ferrugineux,aucun,2.41,7.4,765.0,42,1,0,6.0,0,0
+EXP00590,Maritime,riz,argileux,magasin communautaire,11.5,20.7,489.0,47,0,0,16.0,1,0
+EXP00591,Savanes,sorgho,ferrugineux,case traditionnelle,4.73,4.0,,30,0,0,54.0,0,0
+EXP00592,Plateaux,sorgho,sableux,silo métallique,2.78,11.4,730.0,60,0,1,13.0,0,0
+EXP00593,Plateaux,maïs,ferrugineux,magasin communautaire,1.19,18.7,1027.0,55,0,1,3.0,0,0
+EXP00594,Centrale,manioc,sableux,silo métallique,2.5,11.0,755.0,57,0,0,7.0,0,0
+EXP00595,Maritime,manioc,argileux,aucun,4.52,11.9,1120.0,53,0,0,17.0,0,0
+EXP00596,Maritime,manioc,sableux,case traditionnelle,3.93,23.4,994.0,70,0,0,8.0,0,0
+EXP00597,Kara,riz,sableux,case traditionnelle,0.55,31.4,329.0,64,0,0,,0,0
+EXP00598,Centrale,maïs,argileux,case traditionnelle,0.69,53.0,1042.0,61,0,1,13.0,0,0
+EXP00599,Savanes,igname,argileux,case traditionnelle,0.72,29.7,880.0,36,0,0,7.0,1,1
+EXP00600,Centrale,maïs,argileux,case traditionnelle,3.36,9.3,1290.0,22,0,0,18.0,0,0
+EXP00601,Plateaux,sorgho,ferrugineux,case traditionnelle,0.72,6.6,1045.0,19,0,1,18.0,0,0
+EXP00602,Kara,manioc,sableux,case traditionnelle,1.15,9.4,1131.0,59,0,1,22.0,0,0
+EXP00603,Savanes,maïs,argileux,case traditionnelle,2.18,18.9,779.0,65,0,0,25.0,1,1
+EXP00604,Kara,riz,hydromorphe,case traditionnelle,5.02,10.2,760.0,52,0,1,8.0,0,0
+EXP00605,Savanes,maïs,sableux,silo métallique,3.47,7.8,944.0,56,0,1,28.0,0,0
+EXP00606,Kara,sorgho,ferrugineux,case traditionnelle,1.99,33.9,863.0,23,0,1,11.0,0,0
+EXP00607,Kara,manioc,argileux,aucun,4.17,9.9,1271.0,48,1,0,2.0,0,0
+EXP00608,Maritime,maïs,sableux,case traditionnelle,8.41,,913.0,50,0,1,26.0,1,1
+EXP00609,Kara,maïs,sableux,case traditionnelle,2.52,17.6,656.0,27,0,0,38.0,1,1
+EXP00610,Plateaux,sorgho,argileux,case traditionnelle,0.89,2.3,751.0,58,0,0,13.0,0,0
+EXP00611,Centrale,maïs,ferrugineux,silo métallique,1.18,32.6,1182.0,36,0,0,30.0,0,0
+EXP00612,Centrale,igname,hydromorphe,case traditionnelle,1.17,5.0,910.0,29,0,0,14.0,0,0
+EXP00613,Savanes,sorgho,argileux,magasin communautaire,1.38,3.6,897.0,55,0,0,9.0,1,0
+EXP00614,Savanes,riz,ferrugineux,case traditionnelle,1.89,9.1,1204.0,41,0,0,14.0,0,0
+EXP00615,Plateaux,maïs,argileux,aucun,2.94,6.7,730.0,46,0,0,15.0,0,0
+EXP00616,Kara,riz,,case traditionnelle,0.78,29.3,414.0,47,1,1,17.0,0,0
+EXP00617,Kara,igname,sableux,case traditionnelle,0.9,15.8,745.0,51,0,0,12.0,0,0
+EXP00618,Plateaux,maïs,sableux,aucun,3.63,8.4,1008.0,40,0,0,25.0,0,0
+EXP00619,Maritime,maïs,sableux,case traditionnelle,1.65,3.5,890.0,61,0,1,22.0,0,0
+EXP00620,Maritime,maïs,argileux,case traditionnelle,1.27,17.1,575.0,64,0,0,,0,0
+EXP00621,Kara,manioc,hydromorphe,silo métallique,2.05,10.6,1194.0,44,0,1,10.0,0,0
+EXP00622,Plateaux,riz,ferrugineux,case traditionnelle,5.6,18.8,989.0,27,0,0,24.0,0,0
+EXP00623,Savanes,manioc,hydromorphe,case traditionnelle,3.97,15.9,1043.0,33,0,0,13.0,0,0
+EXP00624,Plateaux,manioc,sableux,magasin communautaire,3.79,6.8,1051.0,59,0,0,8.0,0,0
+EXP00625,Savanes,maïs,argileux,case traditionnelle,6.89,20.4,638.0,32,1,0,13.0,0,0
+EXP00626,Plateaux,maïs,argileux,aucun,3.04,4.5,1023.0,59,0,0,4.0,0,0
+EXP00627,Kara,maïs,hydromorphe,magasin communautaire,7.3,10.3,1168.0,53,1,0,,0,0
+EXP00628,Maritime,sorgho,,magasin communautaire,7.68,11.3,1224.0,42,0,0,15.0,0,0
+EXP00629,Centrale,riz,ferrugineux,case traditionnelle,0.8,12.5,1123.0,25,0,0,9.0,0,0
+EXP00630,Kara,manioc,ferrugineux,silo métallique,0.64,4.2,,47,0,0,4.0,0,0
+EXP00631,Savanes,sorgho,ferrugineux,silo métallique,1.11,28.4,533.0,55,0,0,,0,0
+EXP00632,Kara,maïs,argileux,case traditionnelle,5.24,6.8,946.0,26,0,1,3.0,0,0
+EXP00633,Maritime,maïs,ferrugineux,aucun,2.08,2.8,720.0,61,0,1,20.0,0,0
+EXP00634,Plateaux,maïs,sableux,magasin communautaire,1.9,16.3,1258.0,29,0,0,12.0,0,0
+EXP00635,Maritime,igname,argileux,silo métallique,4.24,41.8,1221.0,40,0,1,13.0,0,0
+EXP00636,Maritime,riz,argileux,case traditionnelle,1.59,2.3,,46,1,1,14.0,0,0
+EXP00637,Centrale,riz,argileux,case traditionnelle,2.78,5.7,939.0,57,0,0,10.0,0,0
+EXP00638,Kara,maïs,ferrugineux,silo métallique,3.63,23.6,,30,0,0,15.0,0,0
+EXP00639,Kara,maïs,hydromorphe,silo métallique,1.19,13.2,1166.0,36,0,0,17.0,0,0
+EXP00640,Kara,riz,sableux,case traditionnelle,0.99,4.4,548.0,60,0,1,23.0,0,0
+EXP00641,Kara,manioc,sableux,case traditionnelle,2.51,11.3,420.0,36,0,0,22.0,0,0
+EXP00642,Kara,igname,sableux,silo métallique,2.74,35.5,959.0,51,0,0,6.0,1,1
+EXP00643,Maritime,sorgho,sableux,case traditionnelle,4.02,30.4,342.0,39,0,1,8.0,0,0
+EXP00644,Maritime,manioc,hydromorphe,case traditionnelle,1.09,59.3,988.0,21,0,0,29.0,0,1
+EXP00645,Centrale,riz,ferrugineux,magasin communautaire,1.42,21.1,1092.0,45,0,0,11.0,0,0
+EXP00646,Kara,igname,hydromorphe,case traditionnelle,7.63,8.9,1247.0,37,0,0,19.0,0,0
+EXP00647,Maritime,manioc,hydromorphe,case traditionnelle,4.66,23.3,801.0,32,0,1,33.0,0,0
+EXP00648,Plateaux,riz,sableux,case traditionnelle,2.22,7.4,989.0,63,0,0,16.0,0,0
+EXP00649,Centrale,igname,argileux,aucun,5.16,12.0,1106.0,59,1,0,6.0,0,0
+EXP00650,Maritime,maïs,sableux,case traditionnelle,1.1,7.5,668.0,33,1,0,6.0,0,0
+EXP00651,Plateaux,igname,sableux,silo métallique,2.04,21.0,,46,0,0,12.0,0,0
+EXP00652,Savanes,maïs,ferrugineux,aucun,2.72,19.8,1016.0,56,0,1,12.0,0,0
+EXP00653,Centrale,riz,sableux,silo métallique,1.88,8.0,805.0,21,0,0,5.0,0,0
+EXP00654,Maritime,sorgho,hydromorphe,magasin communautaire,1.93,26.9,984.0,23,0,0,7.0,0,0
+EXP00655,Kara,riz,ferrugineux,magasin communautaire,3.89,32.6,917.0,47,0,1,22.0,0,0
+EXP00656,Plateaux,manioc,ferrugineux,case traditionnelle,4.7,8.9,1137.0,67,0,0,29.0,0,0
+EXP00657,Kara,riz,argileux,magasin communautaire,1.74,17.4,863.0,67,0,0,11.0,0,0
+EXP00658,Plateaux,maïs,,aucun,0.84,33.9,1005.0,42,0,1,0.0,0,0
+EXP00659,Centrale,maïs,sableux,silo métallique,0.71,16.3,801.0,55,0,1,21.0,1,1
+EXP00660,Plateaux,maïs,argileux,magasin communautaire,0.46,10.3,725.0,44,0,0,3.0,0,0
+EXP00661,Maritime,manioc,,case traditionnelle,6.82,12.4,991.0,66,0,0,4.0,1,0
+EXP00662,Savanes,manioc,hydromorphe,aucun,3.9,8.8,735.0,48,0,0,,0,0
+EXP00663,Maritime,maïs,argileux,case traditionnelle,3.34,27.4,1142.0,65,0,0,34.0,0,0
+EXP00664,Maritime,igname,ferrugineux,aucun,1.57,25.3,1092.0,37,0,0,24.0,0,0
+EXP00665,Plateaux,manioc,sableux,case traditionnelle,1.57,47.0,766.0,67,1,0,22.0,0,0
+EXP00666,Kara,manioc,ferrugineux,silo métallique,4.81,7.3,1001.0,56,0,0,13.0,0,0
+EXP00667,Kara,manioc,hydromorphe,silo métallique,0.64,8.4,,58,0,0,5.0,0,0
+EXP00668,Savanes,maïs,hydromorphe,magasin communautaire,1.79,3.7,565.0,19,0,1,31.0,0,0
+EXP00669,Plateaux,riz,hydromorphe,case traditionnelle,5.27,19.0,807.0,60,0,1,5.0,0,0
+EXP00670,Plateaux,manioc,argileux,aucun,1.79,5.1,938.0,27,0,1,19.0,0,0
+EXP00671,Maritime,maïs,argileux,case traditionnelle,3.77,45.5,1075.0,67,0,0,16.0,0,0
+EXP00672,Centrale,igname,sableux,case traditionnelle,2.29,6.7,986.0,28,0,0,4.0,0,0
+EXP00673,Savanes,sorgho,sableux,magasin communautaire,0.28,2.2,1168.0,61,0,0,3.0,0,0
+EXP00674,Kara,riz,ferrugineux,magasin communautaire,2.22,4.9,715.0,52,0,0,22.0,0,0
+EXP00675,Centrale,sorgho,ferrugineux,silo métallique,2.54,16.0,,39,1,1,15.0,0,0
+EXP00676,Plateaux,igname,ferrugineux,case traditionnelle,2.1,12.2,1345.0,65,0,0,30.0,1,0
+EXP00677,Savanes,maïs,argileux,magasin communautaire,0.96,6.5,487.0,39,0,0,18.0,1,0
+EXP00678,Plateaux,riz,ferrugineux,aucun,2.11,11.8,842.0,22,0,0,17.0,1,1
+EXP00679,Maritime,riz,hydromorphe,case traditionnelle,0.48,8.2,693.0,22,0,0,2.0,0,0
+EXP00680,Plateaux,maïs,argileux,magasin communautaire,1.78,18.7,903.0,63,0,1,16.0,0,0
+EXP00681,Maritime,maïs,sableux,silo métallique,3.97,5.3,846.0,38,1,0,14.0,0,0
+EXP00682,Maritime,maïs,sableux,aucun,6.58,14.4,1095.0,61,0,0,18.0,1,0
+EXP00683,Maritime,riz,ferrugineux,magasin communautaire,5.87,14.9,1011.0,20,0,0,14.0,0,0
+EXP00684,Plateaux,sorgho,sableux,aucun,1.07,12.5,637.0,22,0,1,13.0,0,0
+EXP00685,Centrale,sorgho,sableux,case traditionnelle,0.73,17.2,809.0,70,0,0,13.0,0,0
+EXP00686,Plateaux,maïs,hydromorphe,case traditionnelle,2.72,11.7,950.0,26,0,0,8.0,0,0
+EXP00687,Plateaux,maïs,sableux,aucun,2.43,20.9,1127.0,54,0,1,22.0,1,0
+EXP00688,Savanes,manioc,argileux,aucun,3.58,12.5,1534.0,37,0,1,,0,0
+EXP00689,Kara,manioc,hydromorphe,magasin communautaire,1.48,28.2,1119.0,45,0,0,5.0,1,1
+EXP00690,Centrale,igname,hydromorphe,magasin communautaire,2.48,14.4,707.0,24,0,1,7.0,1,1
+EXP00691,Plateaux,sorgho,hydromorphe,magasin communautaire,2.39,27.1,927.0,32,0,0,22.0,0,0
+EXP00692,Savanes,igname,argileux,case traditionnelle,1.82,8.3,993.0,58,0,1,11.0,0,0
+EXP00693,Maritime,sorgho,ferrugineux,aucun,0.61,5.8,825.0,46,0,0,10.0,0,0
+EXP00694,Plateaux,igname,argileux,silo métallique,3.93,20.7,1063.0,45,0,1,3.0,0,0
+EXP00695,Savanes,manioc,argileux,magasin communautaire,2.73,12.7,405.0,68,0,1,,1,1
+EXP00696,Plateaux,maïs,hydromorphe,case traditionnelle,4.12,1.4,1083.0,40,0,0,6.0,0,0
+EXP00697,Kara,maïs,sableux,case traditionnelle,4.8,7.2,836.0,60,0,0,3.0,1,0
+EXP00698,Centrale,manioc,argileux,case traditionnelle,2.24,16.0,924.0,56,0,1,28.0,0,1
+EXP00699,Centrale,maïs,argileux,silo métallique,3.95,11.9,1302.0,42,0,0,16.0,0,0
+EXP00700,Plateaux,maïs,hydromorphe,magasin communautaire,6.68,6.9,647.0,34,0,0,66.0,1,1
+EXP00701,Maritime,igname,ferrugineux,case traditionnelle,8.11,,1015.0,37,0,0,17.0,1,0
+EXP00702,Plateaux,maïs,sableux,magasin communautaire,2.97,14.1,1141.0,64,0,0,5.0,0,0
+EXP00703,Maritime,igname,ferrugineux,aucun,3.14,2.8,991.0,34,0,0,18.0,1,0
+EXP00704,Kara,sorgho,ferrugineux,case traditionnelle,2.94,26.6,563.0,53,0,0,21.0,1,1
+EXP00705,Plateaux,riz,argileux,magasin communautaire,3.49,30.6,,25,0,1,9.0,0,0
+EXP00706,Centrale,riz,hydromorphe,magasin communautaire,4.66,7.1,899.0,37,0,0,,0,0
+EXP00707,Kara,maïs,sableux,case traditionnelle,2.89,40.9,823.0,67,0,0,20.0,0,0
+EXP00708,Kara,riz,ferrugineux,magasin communautaire,7.81,12.0,875.0,47,1,0,,0,0
+EXP00709,Plateaux,maïs,ferrugineux,magasin communautaire,7.1,7.8,858.0,61,0,0,23.0,0,0
+EXP00710,Plateaux,igname,ferrugineux,case traditionnelle,2.54,7.6,664.0,32,0,0,18.0,1,1
+EXP00711,Savanes,maïs,hydromorphe,case traditionnelle,2.53,39.2,990.0,58,1,0,15.0,1,1
+EXP00712,Centrale,maïs,ferrugineux,aucun,1.72,5.4,807.0,70,0,0,16.0,1,1
+EXP00713,Kara,riz,hydromorphe,case traditionnelle,3.62,14.3,1111.0,67,1,1,5.0,0,0
+EXP00714,Savanes,riz,hydromorphe,magasin communautaire,1.94,15.6,1074.0,41,0,0,36.0,0,0
+EXP00715,Kara,manioc,sableux,magasin communautaire,1.66,20.8,1340.0,54,0,0,11.0,0,0
+EXP00716,Maritime,riz,sableux,aucun,3.57,13.5,899.0,65,0,1,10.0,0,0
+EXP00717,Centrale,maïs,,silo métallique,1.03,,757.0,61,0,0,19.0,0,0
+EXP00718,Maritime,riz,hydromorphe,aucun,4.72,41.9,,69,0,0,60.0,1,1
+EXP00719,Centrale,maïs,ferrugineux,magasin communautaire,3.67,32.0,1476.0,20,0,1,24.0,0,0
+EXP00720,Savanes,maïs,hydromorphe,magasin communautaire,6.85,16.7,1109.0,46,0,0,11.0,1,1
+EXP00721,Plateaux,maïs,argileux,case traditionnelle,3.01,23.8,784.0,60,0,0,18.0,0,0
+EXP00722,Plateaux,maïs,argileux,case traditionnelle,4.06,10.2,1356.0,56,0,0,18.0,0,0
+EXP00723,Maritime,maïs,hydromorphe,case traditionnelle,4.43,27.2,1275.0,26,0,1,14.0,0,0
+EXP00724,Savanes,manioc,argileux,case traditionnelle,5.57,8.2,626.0,48,0,0,5.0,0,0
+EXP00725,Maritime,maïs,,magasin communautaire,2.78,6.2,769.0,27,0,1,24.0,1,0
+EXP00726,Maritime,maïs,ferrugineux,case traditionnelle,1.71,6.0,918.0,23,0,0,10.0,0,0
+EXP00727,Maritime,manioc,argileux,case traditionnelle,3.06,19.0,693.0,24,0,0,8.0,1,0
+EXP00728,Maritime,maïs,hydromorphe,case traditionnelle,4.71,34.5,927.0,68,0,1,11.0,1,1
+EXP00729,Plateaux,riz,sableux,silo métallique,5.14,36.2,,33,0,1,29.0,1,0
+EXP00730,Plateaux,igname,sableux,magasin communautaire,0.61,1.6,,42,0,0,10.0,0,0
+EXP00731,Plateaux,manioc,hydromorphe,silo métallique,12.67,24.7,1020.0,32,0,0,,0,0
+EXP00732,Maritime,igname,sableux,magasin communautaire,1.67,5.8,1230.0,65,0,1,50.0,0,0
+EXP00733,Maritime,maïs,sableux,aucun,4.11,52.5,1046.0,65,1,0,10.0,1,1
+EXP00734,Plateaux,maïs,hydromorphe,silo métallique,5.99,,932.0,53,0,0,13.0,0,0
+EXP00735,Maritime,riz,hydromorphe,case traditionnelle,2.37,2.8,790.0,62,0,0,14.0,0,0
+EXP00736,Centrale,sorgho,sableux,aucun,5.27,25.1,1149.0,24,0,1,10.0,1,1
+EXP00737,Maritime,sorgho,ferrugineux,case traditionnelle,0.61,9.7,668.0,70,0,0,13.0,0,0
+EXP00738,Plateaux,maïs,ferrugineux,magasin communautaire,5.4,9.3,1008.0,40,0,0,16.0,0,0
+EXP00739,Plateaux,sorgho,argileux,silo métallique,4.97,7.1,956.0,39,0,0,10.0,0,0
+EXP00740,Plateaux,manioc,hydromorphe,case traditionnelle,3.33,8.1,1220.0,29,0,0,3.0,1,0
+EXP00741,Maritime,maïs,sableux,magasin communautaire,4.73,25.8,810.0,64,0,0,4.0,0,0
+EXP00742,Maritime,maïs,sableux,case traditionnelle,7.22,6.0,831.0,27,0,0,14.0,1,1
+EXP00743,Kara,igname,argileux,case traditionnelle,6.11,11.6,652.0,63,0,0,39.0,1,1
+EXP00744,Maritime,maïs,sableux,case traditionnelle,2.48,5.5,1055.0,56,0,0,11.0,0,0
+EXP00745,Plateaux,sorgho,sableux,case traditionnelle,3.04,13.9,848.0,59,0,0,17.0,1,1
+EXP00746,Plateaux,riz,argileux,case traditionnelle,2.18,9.2,743.0,20,0,1,30.0,0,0
+EXP00747,Plateaux,riz,argileux,magasin communautaire,1.98,17.9,766.0,57,0,0,20.0,0,0
+EXP00748,Plateaux,riz,ferrugineux,magasin communautaire,4.41,19.6,1079.0,69,0,0,14.0,0,0
+EXP00749,Kara,sorgho,sableux,magasin communautaire,2.16,34.8,685.0,39,0,0,13.0,0,0
+EXP00750,Kara,maïs,ferrugineux,silo métallique,4.4,50.3,707.0,42,0,0,8.0,0,0
+EXP00751,Maritime,maïs,argileux,case traditionnelle,2.37,7.7,1165.0,24,0,1,24.0,0,0
+EXP00752,Plateaux,manioc,ferrugineux,case traditionnelle,2.63,21.1,910.0,44,0,0,29.0,0,0
+EXP00753,Maritime,manioc,ferrugineux,silo métallique,1.34,9.0,1179.0,54,1,1,0.0,0,0
+EXP00754,Plateaux,maïs,ferrugineux,aucun,4.33,19.2,864.0,34,0,0,24.0,0,0
+EXP00755,Centrale,maïs,sableux,magasin communautaire,0.58,18.6,950.0,57,1,1,21.0,0,0
+EXP00756,Maritime,maïs,ferrugineux,case traditionnelle,5.54,18.2,988.0,23,0,0,11.0,0,0
+EXP00757,Plateaux,maïs,ferrugineux,silo métallique,9.81,22.2,1283.0,54,0,0,,0,0
+EXP00758,Savanes,maïs,sableux,aucun,2.69,14.6,1263.0,49,0,0,19.0,0,0
+EXP00759,Maritime,igname,argileux,case traditionnelle,2.61,9.7,1227.0,30,0,0,4.0,0,0
+EXP00760,Plateaux,maïs,sableux,case traditionnelle,0.74,14.0,799.0,36,0,0,11.0,1,0
+EXP00761,Kara,igname,hydromorphe,case traditionnelle,1.75,47.9,713.0,31,0,0,17.0,0,0
+EXP00762,Maritime,igname,sableux,magasin communautaire,4.76,8.4,1133.0,51,0,1,33.0,0,0
+EXP00763,Maritime,maïs,sableux,aucun,5.22,10.3,1280.0,52,0,1,42.0,0,0
+EXP00764,Maritime,riz,hydromorphe,silo métallique,2.94,7.2,1229.0,47,0,0,6.0,1,0
+EXP00765,Savanes,riz,sableux,case traditionnelle,4.57,2.3,953.0,29,0,0,18.0,0,0
+EXP00766,Maritime,riz,ferrugineux,magasin communautaire,1.36,12.4,1125.0,30,0,0,14.0,0,0
+EXP00767,Maritime,maïs,ferrugineux,aucun,3.43,20.1,1129.0,61,1,1,22.0,0,0
+EXP00768,Maritime,maïs,sableux,magasin communautaire,6.5,6.3,986.0,43,0,0,13.0,0,0
+EXP00769,Maritime,maïs,hydromorphe,silo métallique,3.9,31.4,996.0,41,0,0,23.0,0,0
+EXP00770,Centrale,riz,ferrugineux,case traditionnelle,7.15,,974.0,35,0,0,17.0,1,1
+EXP00771,Maritime,igname,ferrugineux,case traditionnelle,7.29,26.0,761.0,67,0,0,9.0,0,0
+EXP00772,Centrale,riz,argileux,magasin communautaire,3.59,,,31,0,0,23.0,0,0
+EXP00773,Centrale,riz,hydromorphe,magasin communautaire,0.22,11.6,782.0,58,1,0,13.0,1,0
+EXP00774,Kara,igname,ferrugineux,aucun,5.15,9.9,566.0,59,0,1,15.0,1,1
+EXP00775,Maritime,riz,sableux,magasin communautaire,0.95,15.9,984.0,31,0,1,7.0,0,0
+EXP00776,Kara,maïs,sableux,case traditionnelle,0.3,16.9,940.0,19,0,0,12.0,0,0
+EXP00777,Centrale,sorgho,hydromorphe,case traditionnelle,0.52,8.8,1133.0,31,0,0,33.0,0,0
+EXP00778,Maritime,manioc,argileux,magasin communautaire,5.39,11.4,1253.0,32,0,1,9.0,1,0
+EXP00779,Kara,maïs,hydromorphe,case traditionnelle,3.61,42.1,1268.0,57,1,0,42.0,0,0
+EXP00780,Kara,manioc,sableux,silo métallique,3.0,14.2,1290.0,46,0,0,15.0,0,0
+EXP00781,Maritime,igname,sableux,case traditionnelle,3.85,15.3,768.0,41,0,0,18.0,0,0
+EXP00782,Savanes,maïs,sableux,case traditionnelle,0.54,35.7,606.0,43,0,0,8.0,1,1
+EXP00783,Plateaux,manioc,ferrugineux,magasin communautaire,2.17,17.1,1173.0,68,0,0,24.0,0,0
+EXP00784,Centrale,maïs,sableux,case traditionnelle,1.55,13.0,1282.0,67,0,0,4.0,0,0
+EXP00785,Savanes,maïs,sableux,magasin communautaire,2.84,25.5,1323.0,20,0,0,12.0,0,0
+EXP00786,Plateaux,maïs,ferrugineux,magasin communautaire,2.91,21.8,1066.0,62,0,0,8.0,0,0
+EXP00787,Kara,riz,ferrugineux,magasin communautaire,3.74,15.6,471.0,37,0,0,4.0,0,0
+EXP00788,Plateaux,sorgho,sableux,silo métallique,4.13,16.5,1038.0,58,0,0,22.0,0,0
+EXP00789,Kara,maïs,ferrugineux,silo métallique,0.56,10.6,1083.0,70,0,1,12.0,1,0
+EXP00790,Centrale,maïs,argileux,aucun,2.19,5.2,1250.0,45,0,1,15.0,0,0
+EXP00791,Maritime,maïs,ferrugineux,case traditionnelle,2.57,19.7,1293.0,51,0,1,8.0,0,0
+EXP00792,Plateaux,maïs,argileux,case traditionnelle,0.93,3.5,,41,1,1,25.0,0,0
+EXP00793,Plateaux,manioc,sableux,silo métallique,0.85,5.4,809.0,22,0,0,17.0,0,0
+EXP00794,Maritime,riz,hydromorphe,magasin communautaire,0.76,11.3,703.0,20,0,0,37.0,0,1
+EXP00795,Maritime,riz,hydromorphe,magasin communautaire,4.55,10.4,1078.0,37,1,0,9.0,1,0
+EXP00796,Plateaux,manioc,hydromorphe,magasin communautaire,0.64,21.2,760.0,61,0,0,9.0,1,1
+EXP00797,Maritime,manioc,sableux,silo métallique,0.74,24.9,1304.0,36,0,1,20.0,0,0
+EXP00798,Maritime,maïs,,case traditionnelle,2.75,45.9,541.0,41,0,0,39.0,1,1
+EXP00799,Kara,maïs,ferrugineux,magasin communautaire,3.42,3.0,1086.0,46,1,1,10.0,0,0
+EXP00800,Kara,igname,sableux,case traditionnelle,2.51,18.1,1027.0,35,0,0,1.0,0,0
+EXP00801,Kara,sorgho,argileux,case traditionnelle,1.08,17.6,,44,0,0,5.0,0,0
+EXP00802,Plateaux,igname,hydromorphe,silo métallique,0.87,16.1,728.0,50,1,1,33.0,0,0
+EXP00803,Savanes,igname,sableux,magasin communautaire,2.7,19.7,455.0,63,0,0,11.0,0,0
+EXP00804,Centrale,riz,,case traditionnelle,2.31,22.6,822.0,58,0,1,45.0,0,0
+EXP00805,Maritime,igname,argileux,aucun,1.9,32.0,827.0,61,0,1,6.0,1,1
+EXP00806,Maritime,manioc,ferrugineux,silo métallique,4.42,16.5,1217.0,46,0,1,21.0,0,0
+EXP00807,Centrale,maïs,hydromorphe,magasin communautaire,2.2,38.4,762.0,55,0,1,21.0,0,0
+EXP00808,Maritime,maïs,hydromorphe,aucun,0.81,16.6,,26,0,0,4.0,1,0
+EXP00809,Plateaux,maïs,hydromorphe,magasin communautaire,1.91,9.4,640.0,26,0,0,,0,0
+EXP00810,Savanes,maïs,ferrugineux,silo métallique,3.7,15.5,1065.0,66,1,1,,0,0
+EXP00811,Maritime,manioc,sableux,case traditionnelle,2.11,6.7,413.0,50,0,0,22.0,0,0
+EXP00812,Maritime,riz,ferrugineux,case traditionnelle,3.65,7.0,1453.0,24,1,0,19.0,0,1
+EXP00813,Savanes,sorgho,argileux,case traditionnelle,4.16,12.0,,40,0,0,13.0,1,0
+EXP00814,Centrale,manioc,ferrugineux,case traditionnelle,2.21,10.7,279.0,69,0,0,12.0,1,1
+EXP00815,Maritime,maïs,hydromorphe,magasin communautaire,2.5,31.5,778.0,20,0,0,2.0,0,0
+EXP00816,Savanes,riz,argileux,case traditionnelle,2.01,11.9,740.0,42,0,1,7.0,0,0
+EXP00817,Savanes,manioc,ferrugineux,magasin communautaire,3.71,5.9,793.0,62,0,0,3.0,0,0
+EXP00818,Plateaux,maïs,ferrugineux,case traditionnelle,1.96,13.6,862.0,68,1,0,18.0,0,0
+EXP00819,Centrale,maïs,sableux,case traditionnelle,3.46,16.5,791.0,38,0,0,5.0,0,0
+EXP00820,Maritime,maïs,ferrugineux,aucun,2.94,14.6,754.0,66,0,0,33.0,0,0
+EXP00821,Maritime,maïs,argileux,magasin communautaire,0.51,5.7,672.0,56,0,0,15.0,0,0
+EXP00822,Centrale,sorgho,hydromorphe,aucun,3.59,33.7,1147.0,40,0,0,7.0,0,0
+EXP00823,Plateaux,sorgho,argileux,magasin communautaire,2.75,2.7,1238.0,59,0,0,,0,0
+EXP00824,Centrale,riz,ferrugineux,case traditionnelle,5.69,14.5,889.0,60,0,0,5.0,0,0
+EXP00825,Kara,maïs,ferrugineux,magasin communautaire,0.96,5.5,946.0,33,1,0,,0,0
+EXP00826,Maritime,sorgho,argileux,magasin communautaire,2.98,26.5,680.0,23,0,0,7.0,0,0
+EXP00827,Centrale,riz,argileux,case traditionnelle,1.76,18.2,967.0,59,0,1,29.0,0,0
+EXP00828,Maritime,maïs,argileux,aucun,0.56,16.5,1005.0,23,0,1,45.0,1,1
+EXP00829,Kara,riz,hydromorphe,magasin communautaire,0.44,11.2,897.0,59,1,1,,1,0
+EXP00830,Maritime,manioc,hydromorphe,silo métallique,6.46,31.8,1045.0,37,0,1,80.0,1,0
+EXP00831,Centrale,manioc,sableux,magasin communautaire,2.98,11.2,1024.0,55,0,0,22.0,0,0
+EXP00832,Centrale,maïs,hydromorphe,magasin communautaire,2.16,40.6,697.0,50,0,1,,0,0
+EXP00833,Plateaux,manioc,ferrugineux,case traditionnelle,0.7,6.8,1236.0,20,0,0,21.0,0,0
+EXP00834,Centrale,maïs,,aucun,6.21,13.6,,19,0,1,,0,0
+EXP00835,Kara,maïs,sableux,case traditionnelle,1.42,22.1,1352.0,51,1,0,7.0,1,0
+EXP00836,Centrale,maïs,ferrugineux,case traditionnelle,3.08,19.1,1051.0,45,0,0,30.0,0,0
+EXP00837,Kara,igname,hydromorphe,case traditionnelle,2.68,12.9,1423.0,21,0,0,14.0,0,0
+EXP00838,Savanes,maïs,hydromorphe,magasin communautaire,8.18,3.1,1232.0,69,0,0,3.0,0,0
+EXP00839,Plateaux,manioc,ferrugineux,aucun,2.46,15.2,1005.0,31,0,0,22.0,0,0
+EXP00840,Plateaux,maïs,ferrugineux,aucun,1.67,10.2,776.0,63,0,0,38.0,0,1
+EXP00841,Maritime,igname,hydromorphe,silo métallique,3.02,8.4,782.0,25,0,1,19.0,0,0
+EXP00842,Kara,manioc,ferrugineux,aucun,3.25,23.0,1078.0,31,0,0,6.0,0,0
+EXP00843,Plateaux,igname,hydromorphe,silo métallique,11.96,2.5,984.0,46,0,0,20.0,1,0
+EXP00844,Plateaux,maïs,sableux,case traditionnelle,2.43,13.2,809.0,46,0,0,17.0,0,0
+EXP00845,Maritime,maïs,argileux,magasin communautaire,0.94,0.8,1150.0,50,0,0,21.0,0,0
+EXP00846,Savanes,manioc,ferrugineux,case traditionnelle,1.9,19.2,,27,0,0,3.0,0,0
+EXP00847,Plateaux,maïs,hydromorphe,case traditionnelle,3.01,23.2,1151.0,32,0,0,3.0,0,0
+EXP00848,Centrale,sorgho,ferrugineux,case traditionnelle,3.41,15.0,,32,0,0,9.0,0,0
+EXP00849,Maritime,sorgho,hydromorphe,case traditionnelle,0.64,9.5,1190.0,41,0,0,26.0,0,0
+EXP00850,Savanes,manioc,hydromorphe,aucun,1.73,31.5,1070.0,66,1,0,23.0,0,0
+EXP00851,Maritime,igname,argileux,aucun,7.87,32.9,,43,0,0,,0,0
+EXP00852,Maritime,manioc,hydromorphe,case traditionnelle,1.21,17.1,1185.0,70,0,1,,0,0
+EXP00853,Kara,maïs,argileux,silo métallique,4.49,36.1,930.0,32,0,1,25.0,0,0
+EXP00854,Savanes,manioc,ferrugineux,case traditionnelle,1.95,6.8,910.0,31,0,0,17.0,1,0
+EXP00855,Maritime,maïs,ferrugineux,case traditionnelle,2.53,12.3,1378.0,24,0,0,13.0,0,0
+EXP00856,Plateaux,sorgho,ferrugineux,case traditionnelle,0.71,1.4,880.0,30,0,1,23.0,0,0
+EXP00857,Kara,maïs,hydromorphe,case traditionnelle,2.09,5.2,1130.0,35,0,0,5.0,1,0
+EXP00858,Kara,maïs,ferrugineux,case traditionnelle,2.98,4.8,858.0,38,0,0,6.0,0,0
+EXP00859,Plateaux,manioc,ferrugineux,case traditionnelle,2.45,19.1,503.0,56,1,0,5.0,0,0
+EXP00860,Plateaux,maïs,ferrugineux,case traditionnelle,2.19,5.5,655.0,42,0,0,16.0,0,0
+EXP00861,Kara,maïs,argileux,case traditionnelle,3.72,2.3,1047.0,54,0,1,5.0,0,0
+EXP00862,Kara,riz,argileux,aucun,0.86,7.9,1118.0,23,0,1,1.0,0,0
+EXP00863,Kara,maïs,ferrugineux,case traditionnelle,3.08,8.7,1048.0,68,0,0,4.0,0,0
+EXP00864,Centrale,manioc,argileux,case traditionnelle,0.41,4.3,1225.0,26,1,0,38.0,1,0
+EXP00865,Maritime,maïs,ferrugineux,magasin communautaire,5.35,14.2,1044.0,20,0,1,16.0,0,0
+EXP00866,Savanes,maïs,hydromorphe,case traditionnelle,2.25,16.1,764.0,41,0,0,29.0,0,0
+EXP00867,Kara,maïs,hydromorphe,magasin communautaire,4.29,,1093.0,52,0,0,,0,0
+EXP00868,Kara,sorgho,hydromorphe,case traditionnelle,0.25,21.1,991.0,31,0,0,20.0,0,0
+EXP00869,Maritime,igname,argileux,magasin communautaire,3.88,6.4,812.0,27,0,1,5.0,0,0
+EXP00870,Maritime,maïs,sableux,magasin communautaire,1.39,8.6,1063.0,62,0,1,20.0,0,0
+EXP00871,Kara,igname,sableux,silo métallique,2.55,18.3,969.0,61,1,0,28.0,0,0
+EXP00872,Maritime,manioc,sableux,magasin communautaire,3.93,8.7,805.0,58,0,1,22.0,0,0
+EXP00873,Savanes,riz,sableux,magasin communautaire,2.38,5.3,907.0,30,0,0,,0,0
+EXP00874,Plateaux,riz,ferrugineux,case traditionnelle,3.61,13.6,1289.0,46,1,0,37.0,0,0
+EXP00875,Kara,riz,hydromorphe,case traditionnelle,1.97,26.7,1281.0,54,1,1,26.0,0,0
+EXP00876,Savanes,sorgho,ferrugineux,magasin communautaire,5.63,24.5,995.0,41,0,1,8.0,0,0
+EXP00877,Plateaux,manioc,sableux,case traditionnelle,2.24,8.0,964.0,28,0,0,5.0,0,0
+EXP00878,Plateaux,manioc,hydromorphe,case traditionnelle,2.28,6.1,606.0,62,1,0,63.0,1,1
+EXP00879,Centrale,maïs,sableux,silo métallique,2.31,7.1,1363.0,67,0,1,8.0,0,0
+EXP00880,Centrale,maïs,sableux,case traditionnelle,2.5,24.7,1199.0,27,0,0,13.0,0,1
+EXP00881,Plateaux,riz,hydromorphe,case traditionnelle,0.9,7.0,1130.0,55,0,0,6.0,0,0
+EXP00882,Centrale,maïs,ferrugineux,magasin communautaire,1.18,35.0,404.0,65,1,0,25.0,0,0
+EXP00883,Savanes,maïs,argileux,case traditionnelle,4.72,18.1,960.0,47,0,0,7.0,0,0
+EXP00884,Plateaux,maïs,hydromorphe,silo métallique,4.28,12.5,919.0,21,0,0,15.0,0,0
+EXP00885,Maritime,maïs,ferrugineux,aucun,4.1,7.9,1114.0,54,0,0,19.0,0,0
+EXP00886,Plateaux,riz,hydromorphe,aucun,3.39,13.8,842.0,67,0,0,9.0,0,0
+EXP00887,Plateaux,riz,argileux,magasin communautaire,1.7,5.2,894.0,32,0,0,19.0,0,0
+EXP00888,Maritime,manioc,hydromorphe,case traditionnelle,1.57,3.5,1099.0,26,0,0,43.0,0,0
+EXP00889,Maritime,maïs,argileux,magasin communautaire,2.42,18.3,764.0,32,0,0,17.0,1,1
+EXP00890,Centrale,manioc,hydromorphe,magasin communautaire,5.21,12.5,812.0,61,0,0,23.0,1,1
+EXP00891,Plateaux,manioc,argileux,magasin communautaire,2.87,21.6,996.0,47,1,0,11.0,0,0
+EXP00892,Savanes,riz,sableux,case traditionnelle,1.14,15.7,1271.0,19,0,1,10.0,0,0
+EXP00893,Maritime,manioc,ferrugineux,case traditionnelle,0.76,7.8,1144.0,49,0,1,5.0,0,0
+EXP00894,Maritime,manioc,,case traditionnelle,4.38,24.5,,61,0,0,16.0,0,0
+EXP00895,Kara,manioc,hydromorphe,case traditionnelle,6.32,8.6,965.0,28,0,0,29.0,0,0
+EXP00896,Savanes,igname,ferrugineux,case traditionnelle,0.62,29.2,1309.0,49,0,1,23.0,0,0
+EXP00897,Maritime,sorgho,sableux,aucun,4.47,8.4,532.0,30,0,0,10.0,0,0
+EXP00898,Maritime,manioc,ferrugineux,case traditionnelle,3.33,4.1,1435.0,19,0,1,11.0,0,0
+EXP00899,Maritime,manioc,sableux,magasin communautaire,1.35,32.6,1466.0,39,0,0,43.0,0,0
+EXP00900,Plateaux,maïs,argileux,aucun,2.89,8.2,1060.0,59,0,0,21.0,0,0
+EXP00901,Plateaux,igname,ferrugineux,case traditionnelle,1.0,8.6,1150.0,53,0,0,25.0,0,0
+EXP00902,Maritime,maïs,hydromorphe,magasin communautaire,2.12,,941.0,24,1,0,28.0,0,0
+EXP00903,Maritime,maïs,sableux,silo métallique,2.52,11.7,900.0,28,0,1,10.0,0,0
+EXP00904,Plateaux,igname,ferrugineux,case traditionnelle,5.6,4.7,803.0,47,1,1,9.0,0,0
+EXP00905,Savanes,riz,hydromorphe,magasin communautaire,2.04,31.4,938.0,35,0,0,10.0,0,0
+EXP00906,Centrale,maïs,,silo métallique,1.47,9.6,1083.0,36,0,0,9.0,0,0
+EXP00907,Plateaux,maïs,ferrugineux,silo métallique,3.16,6.2,1051.0,41,0,1,37.0,0,0
+EXP00908,Maritime,maïs,argileux,silo métallique,3.68,13.3,1427.0,58,0,1,13.0,0,0
+EXP00909,Maritime,manioc,hydromorphe,aucun,1.43,49.6,974.0,48,1,0,34.0,1,1
+EXP00910,Plateaux,maïs,argileux,case traditionnelle,1.1,13.7,593.0,63,0,0,13.0,1,1
+EXP00911,Kara,igname,sableux,silo métallique,1.18,10.7,1345.0,24,0,0,14.0,0,0
+EXP00912,Kara,igname,argileux,magasin communautaire,5.61,13.0,657.0,43,0,0,2.0,0,0
+EXP00913,Savanes,manioc,argileux,silo métallique,3.57,22.4,816.0,47,0,1,10.0,0,0
+EXP00914,Savanes,riz,sableux,silo métallique,1.95,21.0,1015.0,58,0,1,38.0,0,0
+EXP00915,Savanes,maïs,hydromorphe,silo métallique,5.0,15.4,1050.0,45,0,1,37.0,1,0
+EXP00916,Savanes,maïs,hydromorphe,aucun,1.42,25.2,603.0,66,1,0,9.0,0,0
+EXP00917,Maritime,riz,argileux,case traditionnelle,2.35,,771.0,62,0,1,1.0,0,0
+EXP00918,Maritime,maïs,hydromorphe,magasin communautaire,0.98,11.4,,54,0,1,6.0,0,0
+EXP00919,Plateaux,maïs,sableux,case traditionnelle,4.86,13.4,1099.0,39,0,0,9.0,0,0
+EXP00920,Centrale,maïs,ferrugineux,magasin communautaire,1.33,8.4,1234.0,35,0,1,9.0,0,0
+EXP00921,Maritime,maïs,argileux,silo métallique,1.35,22.7,657.0,46,0,0,9.0,0,0
+EXP00922,Kara,manioc,sableux,silo métallique,3.21,8.1,1189.0,43,0,0,15.0,0,0
+EXP00923,Centrale,riz,hydromorphe,magasin communautaire,0.38,2.0,1173.0,20,0,0,6.0,0,0
+EXP00924,Centrale,sorgho,sableux,magasin communautaire,0.82,3.5,792.0,30,0,0,13.0,0,0
+EXP00925,Maritime,riz,hydromorphe,case traditionnelle,4.01,16.5,,62,1,0,18.0,0,0
+EXP00926,Maritime,sorgho,ferrugineux,case traditionnelle,1.16,7.1,693.0,42,0,0,10.0,1,0
+EXP00927,Maritime,manioc,argileux,case traditionnelle,9.92,21.4,807.0,68,0,0,15.0,0,0
+EXP00928,Kara,sorgho,argileux,aucun,2.79,12.6,1320.0,31,1,0,42.0,0,0
+EXP00929,Centrale,manioc,argileux,case traditionnelle,0.58,22.6,922.0,69,1,0,23.0,1,1
+EXP00930,Kara,maïs,hydromorphe,aucun,6.53,2.2,708.0,60,1,0,21.0,1,1
+EXP00931,Plateaux,igname,hydromorphe,case traditionnelle,2.79,8.1,,37,0,1,11.0,0,0
+EXP00932,Plateaux,maïs,ferrugineux,silo métallique,2.16,6.0,639.0,50,0,0,9.0,0,0
+EXP00933,Plateaux,maïs,sableux,magasin communautaire,2.78,55.8,1073.0,70,0,1,,0,0
+EXP00934,Kara,maïs,hydromorphe,silo métallique,0.58,9.1,715.0,51,0,1,21.0,0,0
+EXP00935,Kara,manioc,argileux,magasin communautaire,2.41,3.5,750.0,67,0,1,,0,0
+EXP00936,Maritime,manioc,argileux,silo métallique,1.23,16.3,1040.0,24,0,1,16.0,0,0
+EXP00937,Savanes,manioc,ferrugineux,aucun,2.3,5.6,1370.0,27,0,0,26.0,0,0
+EXP00938,Maritime,igname,argileux,magasin communautaire,1.74,24.2,1477.0,19,1,1,20.0,0,0
+EXP00939,Savanes,maïs,ferrugineux,case traditionnelle,2.68,26.9,700.0,35,0,0,25.0,0,1
+EXP00940,Maritime,manioc,hydromorphe,case traditionnelle,1.95,6.0,807.0,60,1,1,7.0,0,0
+EXP00941,Maritime,maïs,hydromorphe,silo métallique,1.65,,1074.0,69,0,0,5.0,0,0
+EXP00942,Kara,sorgho,argileux,magasin communautaire,1.13,15.2,1231.0,47,0,0,40.0,0,0
+EXP00943,Maritime,maïs,sableux,magasin communautaire,0.6,24.6,431.0,40,0,1,1.0,0,0
+EXP00944,Plateaux,maïs,argileux,magasin communautaire,0.51,16.5,971.0,67,0,1,5.0,0,0
+EXP00945,Plateaux,manioc,sableux,case traditionnelle,0.84,9.2,833.0,49,0,1,11.0,0,0
+EXP00946,Maritime,riz,argileux,silo métallique,3.81,4.1,488.0,46,1,1,34.0,0,0
+EXP00947,Kara,sorgho,argileux,silo métallique,1.08,37.0,629.0,23,0,1,,0,0
+EXP00948,Kara,manioc,argileux,silo métallique,1.45,16.8,814.0,30,0,0,,0,0
+EXP00949,Kara,sorgho,hydromorphe,silo métallique,1.46,42.1,964.0,55,1,1,7.0,0,0
+EXP00950,Plateaux,manioc,hydromorphe,aucun,1.76,18.5,1192.0,55,0,0,10.0,0,0
+EXP00951,Plateaux,maïs,argileux,magasin communautaire,3.37,38.6,1035.0,44,0,0,15.0,0,0
+EXP00952,Maritime,maïs,argileux,aucun,1.93,6.7,1177.0,55,0,0,21.0,0,0
+EXP00953,Maritime,maïs,argileux,case traditionnelle,4.3,7.1,956.0,54,0,0,27.0,0,0
+EXP00954,Maritime,maïs,sableux,magasin communautaire,0.85,11.0,781.0,22,0,0,4.0,0,0
+EXP00955,Savanes,manioc,argileux,silo métallique,4.0,6.3,906.0,62,0,1,1.0,0,0
+EXP00956,Savanes,manioc,sableux,magasin communautaire,6.02,2.9,1117.0,55,0,0,15.0,0,0
+EXP00957,Kara,manioc,sableux,case traditionnelle,2.39,7.7,1198.0,30,0,1,5.0,0,0
+EXP00958,Plateaux,manioc,ferrugineux,magasin communautaire,1.02,18.3,915.0,30,0,0,,0,0
+EXP00959,Plateaux,riz,sableux,case traditionnelle,3.41,4.6,727.0,68,0,1,11.0,0,0
+EXP00960,Plateaux,riz,sableux,aucun,2.42,5.0,1031.0,32,0,0,9.0,0,0
+EXP00961,Plateaux,maïs,argileux,case traditionnelle,3.01,8.1,1065.0,20,0,0,2.0,0,0
+EXP00962,Plateaux,maïs,argileux,case traditionnelle,4.38,5.7,1246.0,20,0,1,16.0,0,0
+EXP00963,Maritime,manioc,hydromorphe,magasin communautaire,1.82,8.5,787.0,30,0,0,50.0,0,0
+EXP00964,Maritime,manioc,hydromorphe,case traditionnelle,1.61,11.6,790.0,51,0,0,13.0,1,1
+EXP00965,Savanes,maïs,argileux,case traditionnelle,11.19,4.9,1131.0,42,0,0,55.0,0,0
+EXP00966,Plateaux,maïs,argileux,magasin communautaire,3.45,8.3,852.0,57,0,0,1.0,0,0
+EXP00967,Savanes,riz,ferrugineux,magasin communautaire,4.91,12.4,842.0,31,0,0,7.0,0,0
+EXP00968,Maritime,riz,hydromorphe,case traditionnelle,4.21,6.5,1251.0,30,0,0,45.0,0,0
+EXP00969,Centrale,maïs,argileux,magasin communautaire,4.95,4.1,621.0,40,0,0,7.0,0,0
+EXP00970,Maritime,manioc,ferrugineux,magasin communautaire,3.08,6.9,1443.0,60,0,1,17.0,0,0
+EXP00971,Maritime,igname,argileux,silo métallique,4.55,9.6,803.0,45,0,0,13.0,0,0
+EXP00972,Maritime,maïs,ferrugineux,case traditionnelle,1.46,2.8,1158.0,58,0,0,,0,0
+EXP00973,Maritime,sorgho,ferrugineux,case traditionnelle,0.59,18.5,924.0,23,0,1,27.0,1,0
+EXP00974,Savanes,maïs,argileux,aucun,1.19,10.0,,40,0,1,14.0,0,0
+EXP00975,Plateaux,manioc,sableux,magasin communautaire,2.17,6.9,887.0,41,0,1,24.0,1,1
+EXP00976,Centrale,manioc,sableux,case traditionnelle,1.97,3.2,1156.0,22,0,1,45.0,0,0
+EXP00977,Plateaux,maïs,argileux,aucun,2.43,16.9,867.0,35,0,1,27.0,0,0
+EXP00978,Plateaux,igname,,case traditionnelle,1.4,27.0,812.0,33,0,1,5.0,0,0
+EXP00979,Plateaux,manioc,sableux,silo métallique,0.42,8.0,1385.0,42,0,0,63.0,0,0
+EXP00980,Maritime,igname,sableux,silo métallique,1.78,39.8,957.0,27,0,0,21.0,0,0
+EXP00981,Savanes,maïs,sableux,aucun,0.77,12.0,788.0,33,1,0,12.0,1,1
+EXP00982,Kara,sorgho,hydromorphe,aucun,2.35,12.3,592.0,68,0,0,5.0,0,0
+EXP00983,Kara,igname,sableux,case traditionnelle,3.19,22.0,1398.0,26,0,0,15.0,0,0
+EXP00984,Plateaux,manioc,hydromorphe,silo métallique,1.76,17.5,818.0,61,1,0,7.0,0,0
+EXP00985,Maritime,maïs,sableux,case traditionnelle,0.97,4.5,,47,0,0,3.0,0,0
+EXP00986,Savanes,riz,argileux,magasin communautaire,2.52,7.8,1046.0,23,0,1,,0,0
+EXP00987,Plateaux,manioc,hydromorphe,magasin communautaire,11.58,24.6,984.0,39,0,0,3.0,0,0
+EXP00988,Maritime,igname,sableux,case traditionnelle,3.44,17.7,991.0,45,1,1,10.0,0,0
+EXP00989,Plateaux,manioc,argileux,case traditionnelle,3.62,40.0,1482.0,33,0,1,13.0,0,0
+EXP00990,Kara,maïs,argileux,case traditionnelle,1.62,15.9,,32,0,0,19.0,0,0
+EXP00991,Centrale,maïs,argileux,case traditionnelle,1.26,18.2,1001.0,56,0,0,20.0,0,0
+EXP00992,Kara,riz,sableux,case traditionnelle,4.95,6.9,886.0,20,0,1,9.0,0,0
+EXP00993,Kara,igname,hydromorphe,aucun,0.32,26.8,899.0,67,0,0,10.0,0,0
+EXP00994,Maritime,maïs,argileux,magasin communautaire,1.36,1.4,986.0,35,0,0,16.0,0,0
+EXP00995,Savanes,riz,sableux,silo métallique,6.93,13.9,886.0,38,0,0,5.0,0,0
+EXP00996,Plateaux,igname,ferrugineux,aucun,2.25,18.5,995.0,25,0,0,23.0,1,1
+EXP00997,Centrale,maïs,hydromorphe,silo métallique,0.65,15.2,944.0,64,0,1,11.0,0,0
+EXP00998,Maritime,maïs,hydromorphe,case traditionnelle,3.25,12.1,635.0,30,0,1,26.0,0,0
+EXP00999,Savanes,riz,argileux,aucun,1.77,11.1,1042.0,60,0,0,15.0,0,1
+EXP01000,Plateaux,riz,ferrugineux,silo métallique,0.54,12.4,1122.0,35,0,1,12.0,0,0
+EXP01001,Maritime,maïs,sableux,silo métallique,2.84,5.2,820.0,20,0,0,31.0,1,0
+EXP01002,Plateaux,sorgho,sableux,aucun,2.55,15.1,1398.0,40,0,1,3.0,0,0
+EXP01003,Maritime,manioc,ferrugineux,magasin communautaire,2.44,6.9,1271.0,46,0,1,18.0,0,0
+EXP01004,Maritime,igname,sableux,magasin communautaire,3.41,8.0,1153.0,43,0,0,40.0,0,0
+EXP01005,Centrale,sorgho,argileux,aucun,0.92,4.7,1150.0,70,0,1,16.0,0,0
+EXP01006,Plateaux,sorgho,sableux,magasin communautaire,3.04,63.6,957.0,46,0,1,13.0,0,0
+EXP01007,Savanes,manioc,sableux,silo métallique,2.68,14.4,1224.0,59,0,0,26.0,0,0
+EXP01008,Plateaux,maïs,hydromorphe,case traditionnelle,4.88,3.9,1327.0,38,0,1,9.0,0,0
+EXP01009,Kara,manioc,ferrugineux,case traditionnelle,1.35,13.3,1144.0,26,0,0,11.0,0,0
+EXP01010,Plateaux,maïs,ferrugineux,magasin communautaire,5.47,26.6,813.0,44,0,0,5.0,0,0
+EXP01011,Centrale,riz,hydromorphe,case traditionnelle,4.16,15.0,940.0,48,0,0,8.0,0,0
+EXP01012,Centrale,maïs,sableux,aucun,2.19,11.8,1088.0,40,0,0,22.0,0,0
+EXP01013,Plateaux,manioc,ferrugineux,case traditionnelle,2.44,6.5,1151.0,58,0,0,11.0,0,0
+EXP01014,Savanes,maïs,argileux,silo métallique,0.34,15.0,931.0,69,0,0,6.0,0,0
+EXP01015,Plateaux,maïs,sableux,case traditionnelle,2.39,20.5,814.0,23,0,1,32.0,0,0
+EXP01016,Maritime,maïs,hydromorphe,aucun,3.97,20.7,1330.0,22,0,0,29.0,0,0
+EXP01017,Centrale,riz,argileux,case traditionnelle,1.95,14.0,693.0,33,1,1,7.0,1,0
+EXP01018,Kara,sorgho,ferrugineux,case traditionnelle,4.88,14.0,724.0,49,0,0,29.0,0,0
+EXP01019,Maritime,maïs,argileux,case traditionnelle,3.29,29.5,,21,0,0,21.0,0,0
+EXP01020,Plateaux,sorgho,hydromorphe,magasin communautaire,8.33,,724.0,29,1,1,16.0,0,0
+EXP01021,Savanes,sorgho,hydromorphe,aucun,1.42,10.6,,40,1,0,42.0,0,0
+EXP01022,Kara,maïs,hydromorphe,aucun,3.72,37.8,1257.0,38,0,0,18.0,0,0
+EXP01023,Savanes,riz,argileux,case traditionnelle,0.79,3.9,932.0,63,0,1,,0,0
+EXP01024,Plateaux,manioc,hydromorphe,magasin communautaire,2.08,,1069.0,47,0,0,10.0,0,0
+EXP01025,Centrale,maïs,argileux,case traditionnelle,3.43,15.5,947.0,64,0,0,,0,0
+EXP01026,Plateaux,manioc,hydromorphe,magasin communautaire,3.87,6.2,664.0,58,0,0,21.0,1,1
+EXP01027,Savanes,maïs,hydromorphe,magasin communautaire,1.84,3.2,1482.0,40,1,0,41.0,0,0
+EXP01028,Plateaux,sorgho,sableux,case traditionnelle,5.23,6.3,1280.0,69,0,1,18.0,0,0
+EXP01029,Kara,igname,sableux,magasin communautaire,6.0,23.3,1035.0,62,0,0,16.0,0,0
+EXP01030,Plateaux,sorgho,hydromorphe,aucun,1.44,23.8,745.0,44,0,0,26.0,1,1
+EXP01031,Centrale,manioc,ferrugineux,case traditionnelle,2.13,19.8,896.0,63,0,0,23.0,1,1
+EXP01032,Kara,manioc,hydromorphe,case traditionnelle,1.97,7.0,,32,0,0,32.0,0,0
+EXP01033,Plateaux,igname,sableux,case traditionnelle,1.62,24.0,973.0,29,0,0,14.0,0,0
+EXP01034,Savanes,maïs,ferrugineux,case traditionnelle,5.75,7.4,1024.0,60,0,1,19.0,1,0
+EXP01035,Plateaux,maïs,,case traditionnelle,5.71,15.1,868.0,60,0,1,13.0,0,0
+EXP01036,Centrale,manioc,argileux,magasin communautaire,2.02,12.4,601.0,30,0,0,4.0,0,0
+EXP01037,Plateaux,maïs,ferrugineux,case traditionnelle,3.7,9.3,1462.0,58,0,1,5.0,0,0
+EXP01038,Plateaux,maïs,hydromorphe,silo métallique,4.84,19.1,1007.0,45,0,1,8.0,0,0
+EXP01039,Plateaux,maïs,argileux,aucun,2.86,21.7,1060.0,48,0,0,4.0,0,0
+EXP01040,Maritime,manioc,hydromorphe,aucun,1.91,6.7,,63,0,0,16.0,0,1
+EXP01041,Maritime,maïs,hydromorphe,silo métallique,1.36,12.9,575.0,27,0,0,27.0,0,0
+EXP01042,Centrale,maïs,ferrugineux,case traditionnelle,3.95,21.0,930.0,39,1,0,9.0,0,0
+EXP01043,Centrale,maïs,argileux,case traditionnelle,0.84,0.7,872.0,34,0,0,2.0,0,0
+EXP01044,Centrale,manioc,sableux,case traditionnelle,1.94,16.5,1120.0,47,0,0,7.0,0,0
+EXP01045,Maritime,sorgho,argileux,aucun,1.7,21.3,1167.0,27,0,1,11.0,0,0
+EXP01046,Plateaux,maïs,argileux,aucun,0.8,17.1,1134.0,25,0,0,26.0,0,0
+EXP01047,Maritime,riz,hydromorphe,case traditionnelle,2.25,,1187.0,55,0,0,15.0,0,0
+EXP01048,Kara,sorgho,ferrugineux,case traditionnelle,2.1,11.7,1383.0,21,1,1,15.0,1,1
+EXP01049,Kara,maïs,hydromorphe,magasin communautaire,1.15,20.3,1044.0,40,0,0,20.0,0,0
+EXP01050,Maritime,sorgho,ferrugineux,case traditionnelle,5.61,4.4,1214.0,70,0,0,28.0,0,0
+EXP01051,Centrale,riz,sableux,aucun,3.97,6.3,1069.0,70,0,0,40.0,1,0
+EXP01052,Maritime,manioc,ferrugineux,case traditionnelle,2.47,17.4,494.0,28,1,0,9.0,0,0
+EXP01053,Maritime,maïs,argileux,case traditionnelle,4.38,20.4,913.0,67,1,0,14.0,0,0
+EXP01054,Maritime,maïs,sableux,magasin communautaire,5.09,,742.0,36,0,0,9.0,0,0
+EXP01055,Plateaux,igname,hydromorphe,case traditionnelle,5.78,34.3,1006.0,29,0,1,19.0,0,0
+EXP01056,Centrale,sorgho,argileux,case traditionnelle,1.42,7.1,,45,0,0,2.0,1,1
+EXP01057,Savanes,igname,argileux,aucun,4.38,5.1,1095.0,44,0,1,48.0,0,0
+EXP01058,Maritime,igname,hydromorphe,case traditionnelle,2.1,23.0,1185.0,38,0,1,21.0,0,0
+EXP01059,Centrale,maïs,ferrugineux,magasin communautaire,2.8,9.0,1239.0,41,0,0,19.0,0,0
+EXP01060,Kara,sorgho,hydromorphe,case traditionnelle,1.47,12.1,1339.0,24,0,0,8.0,0,0
+EXP01061,Savanes,manioc,sableux,case traditionnelle,2.39,21.4,,32,0,0,,0,0
+EXP01062,Centrale,sorgho,argileux,case traditionnelle,4.42,14.5,662.0,29,0,0,4.0,0,0
+EXP01063,Maritime,maïs,hydromorphe,case traditionnelle,6.76,19.9,1653.0,67,0,0,7.0,0,0
+EXP01064,Centrale,maïs,sableux,case traditionnelle,2.22,6.6,1192.0,44,0,0,28.0,0,0
+EXP01065,Plateaux,sorgho,hydromorphe,case traditionnelle,1.18,15.7,1004.0,47,1,0,3.0,0,0
+EXP01066,Savanes,sorgho,ferrugineux,silo métallique,7.42,15.4,958.0,41,0,0,54.0,0,0
+EXP01067,Plateaux,riz,hydromorphe,silo métallique,1.37,26.4,936.0,65,0,0,32.0,0,0
+EXP01068,Centrale,maïs,ferrugineux,aucun,0.6,30.3,486.0,60,1,0,18.0,1,1
+EXP01069,Maritime,maïs,hydromorphe,magasin communautaire,1.57,8.8,765.0,54,0,1,7.0,0,0
+EXP01070,Plateaux,igname,hydromorphe,silo métallique,4.93,,923.0,35,0,0,24.0,0,0
+EXP01071,Kara,manioc,hydromorphe,silo métallique,1.3,20.7,778.0,35,0,1,22.0,0,0
+EXP01072,Centrale,manioc,argileux,case traditionnelle,0.95,2.9,810.0,67,0,0,9.0,0,0
+EXP01073,Plateaux,manioc,hydromorphe,case traditionnelle,2.61,21.7,1564.0,67,1,0,21.0,1,0
+EXP01074,Savanes,manioc,sableux,magasin communautaire,6.76,22.8,890.0,33,0,1,11.0,0,0
+EXP01075,Kara,manioc,sableux,silo métallique,3.33,8.3,1017.0,36,0,1,2.0,0,0
+EXP01076,Plateaux,manioc,sableux,magasin communautaire,0.83,1.0,1008.0,36,0,1,5.0,1,0
+EXP01077,Centrale,sorgho,hydromorphe,case traditionnelle,9.14,24.4,1091.0,59,1,1,32.0,0,0
+EXP01078,Plateaux,igname,argileux,aucun,3.07,31.7,835.0,68,0,0,10.0,0,0
+EXP01079,Centrale,igname,,case traditionnelle,4.6,30.3,1249.0,65,0,1,8.0,0,0
+EXP01080,Plateaux,manioc,hydromorphe,aucun,0.69,30.9,1056.0,62,0,1,16.0,0,0
+EXP01081,Maritime,manioc,argileux,silo métallique,8.15,4.1,,37,0,1,1.0,0,0
+EXP01082,Savanes,riz,hydromorphe,aucun,1.81,13.2,924.0,35,0,1,14.0,0,0
+EXP01083,Savanes,sorgho,sableux,silo métallique,0.65,15.4,909.0,65,0,1,,0,0
+EXP01084,Kara,manioc,ferrugineux,case traditionnelle,2.84,13.8,898.0,39,0,0,23.0,1,1
+EXP01085,Savanes,riz,sableux,magasin communautaire,4.6,20.0,,30,0,0,5.0,0,0
+EXP01086,Kara,riz,argileux,silo métallique,3.69,5.3,1102.0,62,0,0,9.0,0,0
+EXP01087,Kara,riz,sableux,silo métallique,3.64,2.8,1074.0,43,0,0,16.0,0,0
+EXP01088,Kara,riz,sableux,case traditionnelle,3.47,,1031.0,23,0,0,6.0,0,0
+EXP01089,Plateaux,maïs,argileux,case traditionnelle,2.66,24.7,971.0,65,0,1,17.0,0,0
+EXP01090,Plateaux,manioc,hydromorphe,case traditionnelle,0.69,4.1,434.0,34,0,0,16.0,0,0
+EXP01091,Maritime,manioc,hydromorphe,magasin communautaire,2.08,13.7,1137.0,35,0,0,1.0,0,0
+EXP01092,Centrale,maïs,ferrugineux,magasin communautaire,1.87,8.0,1067.0,46,0,0,28.0,0,0
+EXP01093,Plateaux,sorgho,sableux,aucun,5.79,8.3,714.0,33,0,0,6.0,1,1
+EXP01094,Maritime,riz,sableux,silo métallique,4.93,10.9,1017.0,62,0,0,15.0,0,0
+EXP01095,Centrale,maïs,argileux,silo métallique,1.69,8.5,1106.0,54,0,0,48.0,0,0
+EXP01096,Plateaux,sorgho,sableux,case traditionnelle,4.12,2.8,,48,0,0,7.0,0,0
+EXP01097,Maritime,riz,ferrugineux,magasin communautaire,2.3,10.9,1072.0,29,0,0,20.0,0,0
+EXP01098,Kara,sorgho,sableux,case traditionnelle,0.6,6.7,1027.0,44,1,0,56.0,1,1
+EXP01099,Kara,manioc,argileux,case traditionnelle,0.35,6.4,1177.0,33,0,0,22.0,1,1
+EXP01100,Maritime,sorgho,ferrugineux,case traditionnelle,3.79,37.6,876.0,69,0,0,32.0,1,1
+EXP01101,Maritime,manioc,hydromorphe,case traditionnelle,1.05,3.5,1049.0,60,0,1,5.0,0,0
+EXP01102,Plateaux,manioc,argileux,case traditionnelle,1.04,10.5,801.0,25,0,1,40.0,0,0
+EXP01103,Kara,maïs,hydromorphe,magasin communautaire,1.4,14.6,1216.0,46,0,1,2.0,0,0
+EXP01104,Kara,riz,argileux,case traditionnelle,3.84,37.6,564.0,59,1,0,21.0,0,1
+EXP01105,Maritime,riz,sableux,case traditionnelle,4.98,4.9,,46,0,0,14.0,0,0
+EXP01106,Kara,manioc,sableux,case traditionnelle,4.91,29.3,954.0,25,0,0,11.0,0,0
+EXP01107,Maritime,manioc,sableux,magasin communautaire,0.55,10.8,1182.0,26,0,0,9.0,0,0
+EXP01108,Plateaux,sorgho,sableux,magasin communautaire,1.36,11.2,763.0,57,0,0,23.0,0,0
+EXP01109,Savanes,riz,argileux,case traditionnelle,1.19,19.2,972.0,46,0,0,8.0,0,0
+EXP01110,Maritime,maïs,argileux,case traditionnelle,3.84,,965.0,47,0,0,10.0,0,0
+EXP01111,Maritime,igname,hydromorphe,aucun,1.38,8.5,1054.0,33,1,0,21.0,0,0
+EXP01112,Plateaux,riz,argileux,magasin communautaire,2.18,15.4,699.0,32,0,0,31.0,0,0
+EXP01113,Centrale,igname,sableux,silo métallique,4.08,13.9,1103.0,40,1,0,13.0,0,0
+EXP01114,Savanes,igname,sableux,magasin communautaire,2.5,13.4,507.0,47,0,1,41.0,0,0
+EXP01115,Savanes,igname,hydromorphe,silo métallique,3.06,21.5,790.0,43,0,0,17.0,0,0
+EXP01116,Maritime,sorgho,hydromorphe,aucun,2.12,7.1,575.0,64,0,0,15.0,0,0
+EXP01117,Maritime,riz,sableux,case traditionnelle,4.64,9.4,1149.0,28,0,0,76.0,0,0
+EXP01118,Kara,maïs,hydromorphe,silo métallique,4.95,2.9,1046.0,43,0,0,19.0,0,0
+EXP01119,Maritime,manioc,hydromorphe,case traditionnelle,3.47,18.2,1059.0,31,1,0,52.0,1,0
+EXP01120,Savanes,sorgho,argileux,magasin communautaire,4.96,13.0,1304.0,19,0,0,72.0,0,0
+EXP01121,Centrale,manioc,hydromorphe,case traditionnelle,11.11,31.7,874.0,40,1,0,5.0,0,0
+EXP01122,Maritime,sorgho,sableux,case traditionnelle,4.04,4.8,1096.0,21,0,0,7.0,0,0
+EXP01123,Kara,maïs,ferrugineux,aucun,2.36,40.6,,38,0,0,3.0,0,1
+EXP01124,Maritime,manioc,,aucun,3.11,20.3,929.0,51,0,1,24.0,0,0
+EXP01125,Plateaux,manioc,argileux,case traditionnelle,5.3,19.7,1264.0,38,0,0,24.0,1,1
+EXP01126,Centrale,manioc,ferrugineux,aucun,1.79,7.8,1450.0,54,0,0,9.0,1,1
+EXP01127,Plateaux,maïs,argileux,case traditionnelle,1.69,10.2,846.0,34,1,1,1.0,0,0
+EXP01128,Centrale,maïs,argileux,magasin communautaire,3.07,8.9,1150.0,39,0,0,20.0,0,0
+EXP01129,Centrale,sorgho,hydromorphe,aucun,2.33,28.1,1027.0,64,0,1,3.0,0,0
+EXP01130,Savanes,manioc,argileux,case traditionnelle,1.18,2.5,1029.0,31,1,0,12.0,0,0
+EXP01131,Savanes,maïs,hydromorphe,magasin communautaire,2.75,11.3,1009.0,45,0,1,25.0,0,0
+EXP01132,Plateaux,maïs,argileux,silo métallique,6.04,12.0,870.0,56,0,0,16.0,0,0
+EXP01133,Maritime,manioc,ferrugineux,case traditionnelle,3.39,8.7,90.0,37,0,0,31.0,1,1
+EXP01134,Kara,maïs,hydromorphe,magasin communautaire,1.0,5.9,1318.0,34,0,1,12.0,0,0
+EXP01135,Savanes,riz,hydromorphe,case traditionnelle,3.76,1.3,,55,0,0,8.0,0,0
+EXP01136,Plateaux,sorgho,argileux,silo métallique,1.99,11.5,892.0,22,0,0,6.0,0,0
+EXP01137,Plateaux,maïs,ferrugineux,case traditionnelle,8.81,18.2,897.0,32,0,1,25.0,0,0
+EXP01138,Plateaux,manioc,argileux,case traditionnelle,3.56,13.0,762.0,40,0,1,14.0,0,0
+EXP01139,Maritime,maïs,ferrugineux,silo métallique,1.56,5.9,1008.0,30,1,0,7.0,0,0
+EXP01140,Centrale,maïs,hydromorphe,case traditionnelle,3.96,12.1,939.0,47,0,0,19.0,0,0
+EXP01141,Plateaux,igname,sableux,magasin communautaire,2.89,32.0,778.0,51,0,0,3.0,0,0
+EXP01142,Kara,manioc,ferrugineux,silo métallique,5.66,7.3,986.0,69,0,1,15.0,0,0
+EXP01143,Kara,igname,hydromorphe,silo métallique,1.68,14.4,,50,1,0,18.0,0,0
+EXP01144,Kara,maïs,argileux,case traditionnelle,3.56,15.8,1173.0,49,1,0,20.0,0,0
+EXP01145,Plateaux,maïs,argileux,aucun,0.69,3.8,628.0,56,1,0,41.0,0,0
+EXP01146,Plateaux,manioc,ferrugineux,silo métallique,2.66,9.8,757.0,29,0,0,11.0,0,1
+EXP01147,Kara,manioc,sableux,case traditionnelle,0.98,9.9,1124.0,43,0,0,,0,0
+EXP01148,Kara,igname,sableux,silo métallique,2.82,12.6,796.0,62,0,0,20.0,0,0
+EXP01149,Plateaux,maïs,ferrugineux,silo métallique,3.27,27.5,733.0,28,0,0,14.0,0,0
+EXP01150,Savanes,sorgho,,magasin communautaire,3.46,4.6,808.0,34,0,0,5.0,0,1
+EXP01151,Maritime,sorgho,,magasin communautaire,1.68,28.6,926.0,30,0,0,26.0,0,0
+EXP01152,Kara,manioc,sableux,silo métallique,2.72,19.1,927.0,68,0,0,1.0,0,0
+EXP01153,Maritime,maïs,hydromorphe,aucun,5.2,41.3,900.0,37,0,0,5.0,1,1
+EXP01154,Maritime,manioc,hydromorphe,magasin communautaire,7.24,1.8,,35,1,1,11.0,0,0
+EXP01155,Plateaux,maïs,sableux,silo métallique,2.79,0.9,1136.0,61,0,0,,0,0
+EXP01156,Maritime,sorgho,sableux,silo métallique,5.3,56.0,1268.0,66,0,0,15.0,0,0
+EXP01157,Maritime,manioc,ferrugineux,aucun,1.27,3.6,491.0,19,0,0,33.0,1,1
+EXP01158,Maritime,igname,ferrugineux,aucun,1.88,6.2,577.0,64,0,1,53.0,0,0
+EXP01159,Plateaux,riz,sableux,case traditionnelle,3.0,6.3,1191.0,55,0,0,14.0,0,0
+EXP01160,Kara,manioc,argileux,case traditionnelle,2.34,18.5,1327.0,63,0,1,,0,0
+EXP01161,Maritime,riz,ferrugineux,magasin communautaire,2.17,,439.0,23,0,0,15.0,0,0
+EXP01162,Centrale,manioc,ferrugineux,magasin communautaire,4.93,7.1,1146.0,21,0,0,13.0,0,0
+EXP01163,Kara,igname,argileux,magasin communautaire,1.11,36.6,1343.0,36,1,0,13.0,0,0
+EXP01164,Maritime,maïs,sableux,silo métallique,1.2,1.4,743.0,63,1,0,46.0,0,0
+EXP01165,Maritime,igname,argileux,aucun,0.86,24.1,1329.0,44,0,1,2.0,0,0
+EXP01166,Kara,sorgho,argileux,case traditionnelle,3.07,11.8,907.0,56,0,0,28.0,1,1
+EXP01167,Kara,sorgho,argileux,silo métallique,1.99,7.0,1026.0,31,0,1,7.0,0,0
+EXP01168,Plateaux,manioc,ferrugineux,case traditionnelle,4.62,7.7,777.0,36,0,1,12.0,0,0
+EXP01169,Kara,sorgho,hydromorphe,magasin communautaire,2.89,9.7,,64,0,1,5.0,0,0
+EXP01170,Maritime,maïs,ferrugineux,case traditionnelle,1.65,6.3,1150.0,44,0,0,4.0,0,0
+EXP01171,Plateaux,sorgho,ferrugineux,magasin communautaire,1.46,21.6,1364.0,59,0,1,31.0,0,0
+EXP01172,Kara,maïs,argileux,magasin communautaire,2.24,9.1,1296.0,52,0,0,8.0,0,0
+EXP01173,Maritime,maïs,sableux,silo métallique,0.99,19.6,948.0,28,0,0,15.0,0,0
+EXP01174,Kara,manioc,ferrugineux,magasin communautaire,5.01,7.8,1696.0,68,0,0,21.0,0,0
+EXP01175,Plateaux,maïs,ferrugineux,case traditionnelle,1.92,14.2,1274.0,68,0,1,41.0,0,0
+EXP01176,Kara,manioc,ferrugineux,case traditionnelle,0.75,14.2,1080.0,59,0,1,4.0,0,0
+EXP01177,Plateaux,sorgho,hydromorphe,case traditionnelle,5.68,12.5,711.0,43,0,0,43.0,1,1
+EXP01178,Plateaux,maïs,hydromorphe,aucun,2.26,29.2,583.0,41,0,1,18.0,0,0
+EXP01179,Maritime,riz,hydromorphe,aucun,3.75,31.1,603.0,34,0,0,17.0,0,0
+EXP01180,Maritime,maïs,argileux,case traditionnelle,1.67,20.8,726.0,52,0,0,11.0,0,0
+EXP01181,Kara,sorgho,ferrugineux,case traditionnelle,5.81,25.4,1281.0,35,0,0,10.0,0,0
+EXP01182,Maritime,sorgho,sableux,magasin communautaire,1.32,20.1,1067.0,28,0,0,3.0,0,0
+EXP01183,Maritime,manioc,hydromorphe,silo métallique,1.99,8.6,803.0,22,1,0,35.0,0,0
+EXP01184,Maritime,riz,hydromorphe,case traditionnelle,0.57,11.1,917.0,41,1,1,4.0,0,0
+EXP01185,Maritime,igname,argileux,case traditionnelle,5.72,1.8,888.0,61,0,1,9.0,0,0
+EXP01186,Kara,sorgho,argileux,case traditionnelle,1.51,5.5,1142.0,60,0,0,31.0,1,1
+EXP01187,Plateaux,manioc,ferrugineux,case traditionnelle,3.12,3.6,739.0,63,0,0,13.0,1,1
+EXP01188,Savanes,manioc,hydromorphe,case traditionnelle,3.43,6.9,1034.0,50,1,0,5.0,0,0
+EXP01189,Maritime,sorgho,ferrugineux,case traditionnelle,5.12,,1022.0,64,0,1,27.0,0,0
+EXP01190,Centrale,maïs,hydromorphe,magasin communautaire,2.96,8.3,746.0,59,0,0,10.0,0,0
+EXP01191,Plateaux,sorgho,sableux,magasin communautaire,2.36,,1331.0,60,0,0,9.0,0,0
+EXP01192,Plateaux,maïs,hydromorphe,case traditionnelle,4.77,5.7,879.0,45,0,0,4.0,0,0
+EXP01193,Kara,sorgho,hydromorphe,magasin communautaire,3.39,18.9,712.0,23,0,0,9.0,0,0
+EXP01194,Savanes,maïs,hydromorphe,magasin communautaire,2.11,5.3,1155.0,38,0,1,11.0,0,0
+EXP01195,Kara,maïs,hydromorphe,silo métallique,5.89,27.8,963.0,63,0,0,21.0,0,0
+EXP01196,Maritime,igname,hydromorphe,aucun,3.57,5.7,1048.0,57,0,0,7.0,0,0
+EXP01197,Maritime,sorgho,hydromorphe,case traditionnelle,0.93,17.1,666.0,19,0,0,36.0,0,0
+EXP01198,Centrale,igname,sableux,aucun,6.59,7.1,1145.0,23,0,0,32.0,0,0
+EXP01199,Plateaux,igname,ferrugineux,silo métallique,1.63,34.2,1471.0,53,0,0,32.0,0,0
+EXP01200,Kara,manioc,ferrugineux,silo métallique,5.1,33.3,647.0,69,0,0,17.0,0,0
+EXP01201,Centrale,maïs,sableux,case traditionnelle,0.76,,1035.0,57,0,1,25.0,0,0
+EXP01202,Centrale,maïs,sableux,case traditionnelle,4.75,16.4,762.0,68,0,0,24.0,0,0
+EXP01203,Kara,manioc,hydromorphe,case traditionnelle,0.97,21.2,,22,0,0,29.0,0,0
+EXP01204,Kara,maïs,ferrugineux,aucun,2.9,18.7,1248.0,64,0,0,31.0,1,1
+EXP01205,Maritime,igname,sableux,magasin communautaire,3.5,23.2,1018.0,25,0,0,24.0,0,0
+EXP01206,Maritime,maïs,hydromorphe,case traditionnelle,2.14,5.6,655.0,64,0,0,25.0,0,0
+EXP01207,Centrale,maïs,sableux,magasin communautaire,2.56,12.5,713.0,69,0,1,23.0,0,0
+EXP01208,Plateaux,maïs,ferrugineux,case traditionnelle,1.14,7.5,1129.0,45,0,0,25.0,0,0
+EXP01209,Maritime,maïs,ferrugineux,case traditionnelle,4.43,,623.0,46,0,1,15.0,0,0
+EXP01210,Plateaux,maïs,sableux,magasin communautaire,3.01,4.2,631.0,44,0,0,9.0,0,0
+EXP01211,Kara,riz,hydromorphe,magasin communautaire,1.31,36.7,952.0,47,0,0,,0,0
+EXP01212,Kara,maïs,sableux,silo métallique,3.09,12.7,982.0,61,0,0,,0,0
+EXP01213,Centrale,riz,sableux,magasin communautaire,3.16,23.4,,33,0,0,6.0,0,0
+EXP01214,Plateaux,igname,hydromorphe,magasin communautaire,2.65,8.3,845.0,33,0,0,30.0,0,0
+EXP01215,Maritime,riz,ferrugineux,silo métallique,0.35,3.9,1171.0,69,0,1,39.0,0,0
+EXP01216,Plateaux,riz,ferrugineux,case traditionnelle,1.92,32.1,743.0,63,0,0,24.0,0,0
+EXP01217,Plateaux,manioc,argileux,silo métallique,4.38,17.7,1100.0,47,0,0,18.0,0,0
+EXP01218,Centrale,maïs,ferrugineux,silo métallique,3.64,4.6,1001.0,29,0,0,3.0,0,0
+EXP01219,Centrale,maïs,sableux,case traditionnelle,3.56,11.5,1094.0,68,1,0,13.0,0,0
+EXP01220,Maritime,igname,argileux,case traditionnelle,3.0,10.8,1234.0,64,0,0,8.0,0,0
+EXP01221,Maritime,riz,argileux,case traditionnelle,4.72,17.3,841.0,36,1,0,8.0,0,0
+EXP01222,Maritime,maïs,hydromorphe,case traditionnelle,1.63,5.6,791.0,47,0,0,16.0,0,0
+EXP01223,Savanes,manioc,ferrugineux,magasin communautaire,1.38,4.5,545.0,40,1,0,24.0,0,0
+EXP01224,Centrale,sorgho,,case traditionnelle,7.69,13.8,465.0,62,0,1,15.0,0,0
+EXP01225,Maritime,riz,sableux,magasin communautaire,1.5,5.8,908.0,54,0,1,60.0,0,0
+EXP01226,Savanes,manioc,hydromorphe,case traditionnelle,0.9,32.8,924.0,44,0,0,17.0,0,0
+EXP01227,Plateaux,igname,sableux,case traditionnelle,2.11,21.9,689.0,69,0,0,2.0,0,0
+EXP01228,Plateaux,riz,ferrugineux,case traditionnelle,2.72,21.5,741.0,50,0,0,47.0,1,1
+EXP01229,Savanes,riz,sableux,case traditionnelle,4.74,1.7,1316.0,44,0,0,14.0,0,0
+EXP01230,Maritime,maïs,sableux,aucun,1.92,8.5,1160.0,67,0,0,39.0,0,0
+EXP01231,Maritime,maïs,hydromorphe,case traditionnelle,1.91,10.0,647.0,42,0,0,4.0,0,0
+EXP01232,Centrale,igname,hydromorphe,case traditionnelle,2.55,5.1,844.0,40,0,0,7.0,0,0
+EXP01233,Maritime,manioc,hydromorphe,case traditionnelle,1.69,18.8,1047.0,39,0,0,6.0,0,0
+EXP01234,Centrale,manioc,ferrugineux,case traditionnelle,0.77,17.1,800.0,30,0,0,30.0,0,0
+EXP01235,Maritime,manioc,ferrugineux,magasin communautaire,0.96,20.9,756.0,33,0,0,35.0,1,1
+EXP01236,Maritime,maïs,argileux,silo métallique,5.6,25.1,869.0,23,0,0,22.0,0,0
+EXP01237,Maritime,sorgho,hydromorphe,case traditionnelle,4.09,24.3,1212.0,56,0,0,18.0,0,0
+EXP01238,Plateaux,maïs,ferrugineux,magasin communautaire,2.48,59.0,1234.0,49,0,1,2.0,0,0
+EXP01239,Maritime,sorgho,ferrugineux,magasin communautaire,3.63,12.2,773.0,67,0,0,8.0,0,0
+EXP01240,Maritime,manioc,hydromorphe,aucun,4.17,10.7,1061.0,50,0,0,9.0,0,0
+EXP01241,Kara,maïs,argileux,magasin communautaire,1.56,18.6,948.0,23,0,1,3.0,1,0
+EXP01242,Plateaux,maïs,hydromorphe,case traditionnelle,1.13,28.1,708.0,51,0,0,14.0,0,1
+EXP01243,Plateaux,sorgho,argileux,silo métallique,5.23,2.8,879.0,28,1,0,22.0,0,0
+EXP01244,Maritime,maïs,hydromorphe,aucun,0.41,6.6,647.0,20,0,1,27.0,0,0
+EXP01245,Plateaux,maïs,argileux,magasin communautaire,3.67,7.9,1229.0,53,0,0,23.0,0,0
+EXP01246,Maritime,sorgho,argileux,aucun,2.87,,1323.0,20,1,1,12.0,0,0
+EXP01247,Centrale,manioc,ferrugineux,aucun,4.89,8.6,851.0,40,1,1,10.0,0,0
+EXP01248,Maritime,manioc,ferrugineux,case traditionnelle,3.76,25.4,794.0,65,0,0,12.0,0,1
+EXP01249,Savanes,maïs,argileux,silo métallique,3.62,14.5,1203.0,32,0,0,13.0,0,0
+EXP01250,Savanes,sorgho,argileux,magasin communautaire,1.23,11.4,1242.0,55,0,0,6.0,0,0
+EXP01251,Maritime,maïs,ferrugineux,magasin communautaire,4.28,17.2,683.0,38,1,0,10.0,0,0
+EXP01252,Maritime,maïs,sableux,magasin communautaire,3.37,2.0,914.0,24,0,0,9.0,0,0
+EXP01253,Maritime,maïs,argileux,aucun,1.35,16.6,936.0,29,0,1,43.0,0,0
+EXP01254,Centrale,maïs,argileux,magasin communautaire,2.89,6.0,765.0,22,0,0,29.0,1,1
+EXP01255,Maritime,maïs,hydromorphe,magasin communautaire,1.03,22.4,1043.0,26,0,1,22.0,0,0
+EXP01256,Kara,maïs,argileux,case traditionnelle,2.24,2.4,782.0,27,0,0,6.0,0,0
+EXP01257,Kara,maïs,sableux,magasin communautaire,9.74,,820.0,64,1,0,25.0,0,0
+EXP01258,Kara,manioc,argileux,aucun,1.17,6.1,926.0,60,0,1,8.0,1,1
+EXP01259,Plateaux,sorgho,ferrugineux,silo métallique,0.76,,593.0,37,0,0,25.0,1,1
+EXP01260,Savanes,maïs,sableux,case traditionnelle,0.97,3.1,456.0,56,0,0,12.0,0,0
+EXP01261,Maritime,maïs,ferrugineux,aucun,2.22,12.8,1170.0,29,0,0,33.0,0,0
+EXP01262,Plateaux,igname,hydromorphe,aucun,3.95,20.2,,52,0,0,,0,0
+EXP01263,Plateaux,igname,ferrugineux,magasin communautaire,2.6,15.9,,29,0,0,,0,0
+EXP01264,Savanes,riz,hydromorphe,case traditionnelle,0.85,15.8,1423.0,52,0,0,35.0,0,0
+EXP01265,Centrale,maïs,argileux,magasin communautaire,3.91,4.2,828.0,37,0,1,12.0,0,0
+EXP01266,Kara,manioc,sableux,case traditionnelle,0.52,3.9,1511.0,63,0,0,12.0,0,0
+EXP01267,Maritime,maïs,hydromorphe,case traditionnelle,0.93,15.4,1175.0,62,0,1,15.0,0,0
+EXP01268,Savanes,maïs,hydromorphe,magasin communautaire,1.64,13.8,795.0,36,0,1,22.0,0,0
+EXP01269,Plateaux,manioc,hydromorphe,aucun,5.11,5.3,330.0,21,0,0,9.0,0,0
+EXP01270,Plateaux,manioc,sableux,case traditionnelle,2.67,5.0,1115.0,35,0,1,,0,0
+EXP01271,Savanes,manioc,hydromorphe,aucun,2.75,11.5,958.0,33,0,1,47.0,0,1
+EXP01272,Plateaux,riz,ferrugineux,aucun,0.86,9.3,1054.0,41,1,0,11.0,0,0
+EXP01273,Plateaux,maïs,sableux,case traditionnelle,1.76,40.4,895.0,48,0,0,14.0,0,0
+EXP01274,Centrale,maïs,argileux,case traditionnelle,4.62,29.6,675.0,70,0,1,10.0,0,0
+EXP01275,Maritime,sorgho,hydromorphe,silo métallique,3.22,21.8,848.0,22,1,1,23.0,0,0
+EXP01276,Plateaux,sorgho,ferrugineux,silo métallique,4.01,32.0,1120.0,47,1,1,9.0,0,0
+EXP01277,Maritime,maïs,ferrugineux,case traditionnelle,2.47,7.4,865.0,27,0,0,13.0,0,0
+EXP01278,Maritime,manioc,argileux,magasin communautaire,4.66,8.3,863.0,47,0,1,30.0,0,0
+EXP01279,Kara,maïs,argileux,magasin communautaire,0.86,26.8,585.0,52,0,0,28.0,0,0
+EXP01280,Centrale,maïs,ferrugineux,silo métallique,2.18,12.8,972.0,61,0,1,11.0,0,0
+EXP01281,Plateaux,riz,ferrugineux,silo métallique,3.56,13.4,683.0,48,0,0,15.0,0,0
+EXP01282,Plateaux,maïs,ferrugineux,case traditionnelle,0.65,,1170.0,28,0,1,7.0,0,0
+EXP01283,Plateaux,manioc,hydromorphe,case traditionnelle,0.3,26.0,774.0,66,0,1,15.0,0,0
+EXP01284,Centrale,manioc,argileux,case traditionnelle,7.69,18.6,879.0,40,0,0,53.0,0,0
+EXP01285,Savanes,maïs,,aucun,2.7,10.1,1469.0,43,1,1,26.0,0,0
+EXP01286,Savanes,maïs,argileux,aucun,0.6,8.4,876.0,52,1,0,7.0,0,0
+EXP01287,Plateaux,maïs,,silo métallique,2.65,28.8,844.0,32,0,0,3.0,0,0
+EXP01288,Plateaux,igname,sableux,case traditionnelle,0.94,7.5,1091.0,70,0,0,7.0,0,0
+EXP01289,Plateaux,riz,hydromorphe,magasin communautaire,1.23,3.5,,21,1,0,5.0,0,0
+EXP01290,Centrale,manioc,argileux,case traditionnelle,5.22,29.9,1250.0,27,0,0,13.0,0,0
+EXP01291,Plateaux,maïs,hydromorphe,case traditionnelle,1.67,30.3,1189.0,70,0,0,32.0,1,1
+EXP01292,Centrale,riz,hydromorphe,case traditionnelle,1.66,7.5,1076.0,42,0,0,13.0,0,0
+EXP01293,Centrale,maïs,ferrugineux,aucun,0.91,45.5,139.0,65,0,0,9.0,1,1
+EXP01294,Plateaux,manioc,argileux,case traditionnelle,1.94,,888.0,66,0,0,11.0,1,1
+EXP01295,Plateaux,sorgho,,magasin communautaire,2.82,7.5,645.0,70,0,1,21.0,0,0
+EXP01296,Plateaux,manioc,,aucun,1.66,18.2,1220.0,56,1,0,17.0,1,1
+EXP01297,Maritime,maïs,sableux,silo métallique,9.01,4.1,1203.0,54,0,0,7.0,0,0
+EXP01298,Maritime,maïs,sableux,case traditionnelle,1.1,5.8,1043.0,50,0,0,26.0,0,0
+EXP01299,Kara,maïs,sableux,aucun,1.09,15.5,661.0,54,0,1,6.0,0,0
+EXP01300,Plateaux,manioc,hydromorphe,magasin communautaire,1.88,13.6,1309.0,32,1,0,16.0,0,0
+EXP01301,Maritime,igname,ferrugineux,magasin communautaire,8.32,23.3,887.0,61,0,1,10.0,0,0
+EXP01302,Centrale,maïs,ferrugineux,magasin communautaire,4.06,4.7,1383.0,28,0,1,13.0,0,0
+EXP01303,Kara,manioc,ferrugineux,aucun,1.62,40.6,1014.0,43,0,1,,1,1
+EXP01304,Maritime,riz,sableux,magasin communautaire,1.62,9.1,1072.0,38,0,0,15.0,0,0
+EXP01305,Kara,maïs,sableux,magasin communautaire,1.07,13.2,840.0,58,0,0,5.0,0,0
+EXP01306,Savanes,maïs,sableux,magasin communautaire,1.84,8.8,,32,1,0,9.0,0,0
+EXP01307,Centrale,maïs,argileux,case traditionnelle,2.14,4.1,1096.0,29,0,0,12.0,1,0
+EXP01308,Centrale,riz,ferrugineux,silo métallique,3.93,12.2,1296.0,61,1,0,7.0,0,0
+EXP01309,Maritime,manioc,argileux,case traditionnelle,3.38,20.0,993.0,44,0,0,36.0,0,0
+EXP01310,Savanes,riz,,case traditionnelle,1.8,10.9,939.0,56,0,0,9.0,0,0
+EXP01311,Plateaux,sorgho,sableux,case traditionnelle,6.38,6.4,1093.0,64,0,0,11.0,0,0
+EXP01312,Savanes,sorgho,sableux,case traditionnelle,1.46,23.9,1296.0,62,0,0,15.0,0,0
+EXP01313,Centrale,igname,ferrugineux,case traditionnelle,0.75,24.5,1194.0,39,1,0,4.0,0,0
+EXP01314,Maritime,sorgho,ferrugineux,magasin communautaire,2.92,10.5,983.0,27,0,0,,0,0
+EXP01315,Maritime,sorgho,ferrugineux,case traditionnelle,4.97,16.2,504.0,68,1,0,12.0,1,0
+EXP01316,Centrale,sorgho,sableux,case traditionnelle,2.4,23.7,1144.0,35,0,0,3.0,0,0
+EXP01317,Centrale,riz,hydromorphe,aucun,0.88,19.9,605.0,58,1,0,19.0,1,1
+EXP01318,Maritime,sorgho,ferrugineux,aucun,2.75,15.9,958.0,58,0,1,,0,0
+EXP01319,Kara,igname,ferrugineux,magasin communautaire,3.0,19.3,922.0,42,1,1,19.0,0,0
+EXP01320,Kara,manioc,ferrugineux,case traditionnelle,3.23,17.0,610.0,27,0,0,25.0,0,0
+EXP01321,Plateaux,riz,sableux,case traditionnelle,2.79,12.7,1039.0,43,0,0,12.0,0,0
+EXP01322,Plateaux,manioc,sableux,case traditionnelle,5.41,4.6,1467.0,26,0,0,37.0,0,0
+EXP01323,Maritime,sorgho,sableux,case traditionnelle,1.05,5.6,875.0,37,0,1,17.0,0,0
+EXP01324,Kara,manioc,ferrugineux,aucun,0.24,17.5,1134.0,38,0,0,35.0,1,1
+EXP01325,Plateaux,sorgho,ferrugineux,silo métallique,0.52,8.7,1515.0,45,1,0,24.0,0,0
+EXP01326,Kara,sorgho,ferrugineux,case traditionnelle,0.87,17.0,1157.0,28,1,0,12.0,0,0
+EXP01327,Plateaux,igname,argileux,aucun,4.4,4.5,795.0,62,0,1,17.0,0,0
+EXP01328,Centrale,maïs,sableux,magasin communautaire,1.94,6.9,1007.0,23,0,0,21.0,0,0
+EXP01329,Maritime,riz,hydromorphe,case traditionnelle,6.72,10.9,1065.0,70,0,1,2.0,0,0
+EXP01330,Maritime,sorgho,ferrugineux,magasin communautaire,0.99,1.4,1294.0,35,0,0,4.0,0,0
+EXP01331,Kara,igname,hydromorphe,case traditionnelle,6.63,6.1,1241.0,44,0,1,42.0,0,0
+EXP01332,Plateaux,igname,argileux,aucun,1.24,7.6,285.0,64,0,1,21.0,0,0
+EXP01333,Plateaux,manioc,ferrugineux,case traditionnelle,2.13,14.3,745.0,53,0,0,30.0,0,0
+EXP01334,Savanes,manioc,argileux,magasin communautaire,0.61,10.4,933.0,21,0,0,12.0,0,0
+EXP01335,Savanes,maïs,hydromorphe,case traditionnelle,6.05,14.8,706.0,50,0,1,35.0,0,0
+EXP01336,Kara,igname,ferrugineux,aucun,2.35,13.1,62.0,48,0,1,12.0,0,0
+EXP01337,Maritime,maïs,argileux,magasin communautaire,9.28,10.1,776.0,67,1,0,21.0,0,0
+EXP01338,Centrale,riz,sableux,magasin communautaire,5.12,7.7,949.0,48,0,0,39.0,0,0
+EXP01339,Kara,sorgho,sableux,case traditionnelle,2.1,13.4,824.0,70,1,1,23.0,0,0
+EXP01340,Plateaux,manioc,ferrugineux,aucun,1.4,28.1,711.0,46,0,0,6.0,0,0
+EXP01341,Maritime,maïs,hydromorphe,magasin communautaire,4.53,7.6,960.0,29,0,1,13.0,0,0
+EXP01342,Kara,maïs,sableux,case traditionnelle,2.53,39.5,1032.0,45,0,0,18.0,1,1
+EXP01343,Plateaux,sorgho,sableux,aucun,1.34,13.6,838.0,66,0,0,22.0,0,0
+EXP01344,Centrale,manioc,ferrugineux,case traditionnelle,2.67,22.5,1279.0,19,1,1,32.0,0,0
+EXP01345,Savanes,maïs,sableux,case traditionnelle,0.46,16.3,964.0,39,0,0,22.0,1,1
+EXP01346,Centrale,riz,argileux,magasin communautaire,3.27,18.0,741.0,21,1,0,14.0,0,0
+EXP01347,Plateaux,maïs,argileux,case traditionnelle,3.72,6.1,680.0,62,0,0,11.0,0,0
+EXP01348,Plateaux,sorgho,ferrugineux,magasin communautaire,0.96,8.7,899.0,45,0,0,,0,0
+EXP01349,Plateaux,maïs,argileux,case traditionnelle,5.51,2.8,1217.0,56,0,0,10.0,0,0
+EXP01350,Maritime,maïs,sableux,case traditionnelle,4.75,10.7,752.0,69,0,0,9.0,0,0
+EXP01351,Kara,maïs,ferrugineux,case traditionnelle,3.07,19.1,1093.0,62,0,0,29.0,0,0
+EXP01352,Kara,manioc,ferrugineux,case traditionnelle,1.17,10.8,973.0,40,0,0,16.0,1,1
+EXP01353,Plateaux,manioc,argileux,aucun,3.87,23.4,1428.0,67,0,0,10.0,0,0
+EXP01354,Plateaux,sorgho,ferrugineux,magasin communautaire,1.86,9.3,1044.0,43,0,1,14.0,0,0
+EXP01355,Kara,manioc,ferrugineux,magasin communautaire,2.84,7.2,782.0,69,0,1,10.0,0,0
+EXP01356,Maritime,maïs,hydromorphe,case traditionnelle,4.13,8.4,,70,0,0,3.0,1,0
+EXP01357,Plateaux,maïs,sableux,silo métallique,0.76,20.4,,30,0,1,22.0,0,0
+EXP01358,Plateaux,maïs,sableux,case traditionnelle,0.59,34.1,855.0,59,0,0,30.0,0,0
+EXP01359,Centrale,igname,sableux,case traditionnelle,1.73,42.1,671.0,55,0,0,27.0,1,1
+EXP01360,Maritime,maïs,argileux,magasin communautaire,8.26,19.0,1079.0,59,0,0,26.0,0,0
+EXP01361,Centrale,igname,argileux,magasin communautaire,9.53,22.7,965.0,27,0,1,6.0,0,0
+EXP01362,Plateaux,maïs,ferrugineux,silo métallique,3.22,3.4,586.0,45,0,0,35.0,0,0
+EXP01363,Centrale,maïs,ferrugineux,aucun,4.84,4.4,1011.0,26,0,0,9.0,0,0
+EXP01364,Maritime,maïs,ferrugineux,aucun,2.42,6.3,797.0,65,0,1,5.0,0,0
+EXP01365,Plateaux,maïs,hydromorphe,case traditionnelle,2.67,29.2,586.0,64,0,1,1.0,0,0
+EXP01366,Plateaux,sorgho,hydromorphe,case traditionnelle,2.13,29.0,865.0,49,0,1,17.0,0,0
+EXP01367,Maritime,manioc,argileux,case traditionnelle,5.24,48.2,1258.0,25,1,1,36.0,0,0
+EXP01368,Maritime,maïs,hydromorphe,silo métallique,6.77,6.2,1240.0,53,0,0,32.0,0,0
+EXP01369,Maritime,riz,ferrugineux,aucun,2.62,11.7,1177.0,41,1,0,15.0,0,0
+EXP01370,Plateaux,riz,argileux,aucun,2.66,2.8,1015.0,59,0,1,29.0,0,0
+EXP01371,Maritime,igname,hydromorphe,case traditionnelle,2.21,3.8,1093.0,24,0,0,55.0,0,0
+EXP01372,Savanes,igname,argileux,aucun,6.88,10.0,974.0,40,0,0,11.0,0,0
+EXP01373,Plateaux,riz,argileux,magasin communautaire,4.44,6.4,685.0,37,0,1,20.0,0,0
+EXP01374,Kara,sorgho,argileux,aucun,1.14,6.5,733.0,68,0,0,36.0,1,1
+EXP01375,Savanes,sorgho,argileux,magasin communautaire,8.1,7.9,804.0,34,0,0,5.0,0,0
+EXP01376,Maritime,manioc,ferrugineux,case traditionnelle,0.34,31.4,1286.0,70,1,0,5.0,0,0
+EXP01377,Centrale,riz,sableux,case traditionnelle,6.43,25.5,1208.0,66,0,1,40.0,0,0
+EXP01378,Kara,maïs,,aucun,4.96,5.5,691.0,49,0,1,29.0,0,0
+EXP01379,Centrale,sorgho,sableux,magasin communautaire,2.63,25.1,963.0,28,0,0,8.0,0,0
+EXP01380,Plateaux,igname,sableux,case traditionnelle,2.58,,853.0,30,0,0,6.0,0,0
+EXP01381,Plateaux,maïs,sableux,case traditionnelle,2.3,3.4,913.0,19,0,1,5.0,0,0
+EXP01382,Maritime,sorgho,hydromorphe,case traditionnelle,1.19,7.7,821.0,59,1,0,17.0,0,0
+EXP01383,Plateaux,igname,argileux,aucun,7.68,15.3,1287.0,56,0,0,8.0,0,0
+EXP01384,Savanes,maïs,sableux,case traditionnelle,2.53,6.1,,35,0,0,8.0,0,0
+EXP01385,Savanes,manioc,argileux,case traditionnelle,1.17,18.7,1002.0,57,0,0,5.0,1,1
+EXP01386,Maritime,igname,ferrugineux,silo métallique,7.38,8.1,1004.0,49,0,0,15.0,0,0
+EXP01387,Kara,igname,argileux,magasin communautaire,3.48,16.1,703.0,61,0,1,5.0,0,0
+EXP01388,Plateaux,maïs,hydromorphe,case traditionnelle,3.62,5.5,976.0,23,0,0,23.0,0,0
+EXP01389,Savanes,maïs,hydromorphe,case traditionnelle,8.49,12.5,1205.0,29,0,1,33.0,0,0
+EXP01390,Maritime,riz,argileux,case traditionnelle,3.97,6.2,1303.0,60,0,0,18.0,0,0
+EXP01391,Savanes,maïs,hydromorphe,case traditionnelle,1.57,10.3,675.0,38,0,0,29.0,1,1
+EXP01392,Kara,maïs,hydromorphe,case traditionnelle,3.97,39.9,586.0,68,0,1,13.0,0,1
+EXP01393,Maritime,maïs,argileux,case traditionnelle,1.28,9.0,965.0,64,0,0,7.0,0,0
+EXP01394,Maritime,maïs,argileux,silo métallique,1.8,4.3,1216.0,23,1,0,11.0,0,0
+EXP01395,Kara,manioc,hydromorphe,aucun,3.15,13.1,,39,0,0,3.0,0,0
+EXP01396,Maritime,riz,hydromorphe,aucun,4.79,13.2,1113.0,57,0,1,9.0,0,0
+EXP01397,Plateaux,riz,ferrugineux,case traditionnelle,1.64,13.2,624.0,26,1,1,13.0,0,1
+EXP01398,Savanes,sorgho,ferrugineux,case traditionnelle,2.25,18.0,813.0,63,0,0,15.0,0,0
+EXP01399,Centrale,manioc,sableux,aucun,2.23,8.6,423.0,24,1,1,30.0,1,1
+EXP01400,Plateaux,maïs,hydromorphe,silo métallique,5.36,19.2,916.0,24,0,0,37.0,0,0
+EXP01401,Plateaux,maïs,argileux,magasin communautaire,2.58,12.1,431.0,47,0,0,17.0,0,0
+EXP01402,Maritime,maïs,ferrugineux,case traditionnelle,8.03,4.1,1270.0,31,0,0,6.0,0,0
+EXP01403,Savanes,maïs,sableux,case traditionnelle,1.8,21.1,1323.0,52,0,1,6.0,0,0
+EXP01404,Plateaux,maïs,sableux,magasin communautaire,1.69,14.0,984.0,39,0,0,9.0,0,0
+EXP01405,Maritime,maïs,sableux,magasin communautaire,6.35,,587.0,33,0,0,8.0,0,0
+EXP01406,Plateaux,maïs,ferrugineux,case traditionnelle,3.75,4.5,1040.0,62,0,1,17.0,0,0
+EXP01407,Savanes,riz,hydromorphe,aucun,6.2,21.9,1396.0,27,0,0,6.0,1,1
+EXP01408,Maritime,riz,sableux,magasin communautaire,0.93,46.7,1064.0,44,0,0,38.0,0,0
+EXP01409,Kara,igname,hydromorphe,magasin communautaire,2.54,4.2,1234.0,27,0,0,,0,0
+EXP01410,Kara,sorgho,argileux,case traditionnelle,3.14,24.0,834.0,26,0,0,30.0,0,0
+EXP01411,Kara,manioc,sableux,silo métallique,2.99,14.0,741.0,29,0,0,9.0,0,0
+EXP01412,Savanes,maïs,hydromorphe,silo métallique,2.28,12.2,933.0,32,0,0,6.0,0,0
+EXP01413,Kara,manioc,ferrugineux,case traditionnelle,2.95,22.1,488.0,40,1,1,8.0,1,0
+EXP01414,Savanes,maïs,ferrugineux,magasin communautaire,3.06,20.5,1493.0,43,0,1,16.0,0,0
+EXP01415,Maritime,manioc,hydromorphe,magasin communautaire,1.66,27.9,984.0,26,1,1,14.0,0,0
+EXP01416,Kara,manioc,hydromorphe,aucun,5.21,4.7,,21,0,0,35.0,0,0
+EXP01417,Centrale,manioc,argileux,case traditionnelle,7.44,28.6,839.0,23,0,0,40.0,0,1
+EXP01418,Centrale,maïs,argileux,aucun,4.2,15.9,580.0,51,0,0,16.0,0,0
+EXP01419,Savanes,riz,ferrugineux,magasin communautaire,3.4,2.8,1292.0,69,0,0,4.0,0,0
+EXP01420,Savanes,sorgho,sableux,case traditionnelle,2.42,9.0,680.0,20,0,0,12.0,0,0
+EXP01421,Kara,sorgho,hydromorphe,case traditionnelle,3.13,14.3,1034.0,20,0,0,71.0,0,0
+EXP01422,Plateaux,riz,ferrugineux,case traditionnelle,3.35,8.9,1056.0,59,0,0,4.0,0,0
+EXP01423,Plateaux,manioc,,case traditionnelle,1.19,11.2,968.0,56,0,1,18.0,0,0
+EXP01424,Plateaux,maïs,sableux,magasin communautaire,5.04,,762.0,57,0,0,8.0,0,0
+EXP01425,Plateaux,riz,ferrugineux,silo métallique,1.89,62.3,914.0,27,0,1,51.0,0,0
+EXP01426,Plateaux,manioc,hydromorphe,case traditionnelle,6.58,19.4,722.0,64,0,0,19.0,0,0
+EXP01427,Maritime,maïs,sableux,aucun,2.88,13.0,1144.0,51,0,1,8.0,0,0
+EXP01428,Maritime,maïs,hydromorphe,case traditionnelle,5.1,5.4,1087.0,27,0,0,10.0,0,0
+EXP01429,Kara,igname,hydromorphe,magasin communautaire,4.16,28.0,945.0,25,1,0,2.0,1,0
+EXP01430,Plateaux,riz,ferrugineux,aucun,0.94,17.8,814.0,50,0,0,18.0,1,1
+EXP01431,Savanes,manioc,ferrugineux,aucun,6.2,5.9,1456.0,59,1,0,18.0,0,0
+EXP01432,Centrale,riz,argileux,magasin communautaire,1.45,5.9,638.0,59,0,1,4.0,0,0
+EXP01433,Maritime,manioc,sableux,silo métallique,1.8,11.4,579.0,49,0,0,22.0,0,0
+EXP01434,Maritime,manioc,ferrugineux,case traditionnelle,1.92,13.1,930.0,45,1,1,39.0,0,0
+EXP01435,Maritime,maïs,hydromorphe,case traditionnelle,0.69,19.1,888.0,55,0,0,5.0,0,0
+EXP01436,Savanes,manioc,ferrugineux,magasin communautaire,2.97,11.9,1213.0,25,1,1,22.0,0,0
+EXP01437,Maritime,riz,hydromorphe,case traditionnelle,5.31,20.2,1105.0,37,0,0,23.0,0,0
+EXP01438,Plateaux,maïs,ferrugineux,case traditionnelle,6.47,8.9,957.0,24,0,0,,1,0
+EXP01439,Savanes,sorgho,sableux,case traditionnelle,2.27,11.9,1070.0,62,0,1,17.0,0,0
+EXP01440,Savanes,maïs,sableux,aucun,2.57,28.7,1066.0,50,0,0,10.0,0,0
+EXP01441,Maritime,riz,sableux,aucun,4.36,20.9,1455.0,59,0,0,2.0,0,0
+EXP01442,Maritime,riz,hydromorphe,silo métallique,2.32,12.5,1011.0,44,0,0,,0,0
+EXP01443,Maritime,riz,hydromorphe,silo métallique,5.63,15.5,,67,0,0,26.0,0,0
+EXP01444,Maritime,riz,ferrugineux,case traditionnelle,2.48,12.0,998.0,67,1,1,7.0,0,0
+EXP01445,Maritime,igname,ferrugineux,case traditionnelle,1.3,3.8,322.0,51,0,0,8.0,0,1
+EXP01446,Centrale,manioc,hydromorphe,magasin communautaire,3.03,35.1,942.0,62,0,1,8.0,0,0
+EXP01447,Savanes,riz,hydromorphe,magasin communautaire,0.8,6.2,1212.0,53,0,1,20.0,0,0
+EXP01448,Plateaux,riz,sableux,case traditionnelle,3.0,9.4,1095.0,56,0,1,18.0,0,0
+EXP01449,Centrale,maïs,ferrugineux,magasin communautaire,3.41,55.6,1022.0,31,0,0,7.0,0,0
+EXP01450,Maritime,maïs,hydromorphe,magasin communautaire,1.45,5.2,1106.0,70,0,0,14.0,0,0
+EXP01451,Kara,manioc,argileux,case traditionnelle,3.32,11.5,1215.0,28,0,1,14.0,0,0
+EXP01452,Centrale,maïs,,case traditionnelle,2.12,29.9,1292.0,55,1,1,19.0,0,0
+EXP01453,Kara,manioc,argileux,case traditionnelle,1.41,40.1,1057.0,50,0,0,11.0,0,1
+EXP01454,Savanes,manioc,hydromorphe,magasin communautaire,0.71,17.6,874.0,23,0,1,31.0,0,0
+EXP01455,Plateaux,riz,ferrugineux,aucun,0.87,28.2,395.0,59,0,0,19.0,1,1
+EXP01456,Maritime,maïs,ferrugineux,magasin communautaire,7.02,10.6,1185.0,23,0,1,31.0,0,0
+EXP01457,Maritime,sorgho,ferrugineux,silo métallique,2.06,0.8,1074.0,45,1,0,19.0,0,0
+EXP01458,Plateaux,manioc,argileux,silo métallique,3.35,26.5,987.0,61,0,1,20.0,0,0
+EXP01459,Savanes,riz,,case traditionnelle,2.26,12.3,785.0,25,0,1,4.0,0,0
+EXP01460,Plateaux,maïs,argileux,magasin communautaire,7.14,9.7,1182.0,37,0,0,18.0,0,0
+EXP01461,Kara,manioc,sableux,magasin communautaire,1.41,9.1,888.0,45,0,0,14.0,0,0
+EXP01462,Centrale,maïs,hydromorphe,magasin communautaire,2.72,20.0,,67,0,1,33.0,0,0
+EXP01463,Maritime,riz,hydromorphe,case traditionnelle,1.79,19.8,937.0,38,0,1,30.0,0,0
+EXP01464,Plateaux,maïs,argileux,aucun,5.06,12.5,1058.0,25,0,0,36.0,1,1
+EXP01465,Centrale,igname,argileux,aucun,3.33,17.0,674.0,25,0,1,,0,0
+EXP01466,Centrale,maïs,sableux,case traditionnelle,2.65,5.1,1085.0,29,0,0,15.0,1,1
+EXP01467,Plateaux,manioc,argileux,case traditionnelle,0.96,10.8,777.0,64,0,0,38.0,0,0
+EXP01468,Maritime,maïs,hydromorphe,case traditionnelle,9.25,5.3,785.0,59,0,1,8.0,0,0
+EXP01469,Kara,riz,hydromorphe,silo métallique,2.31,5.2,1162.0,40,1,0,33.0,0,0
+EXP01470,Maritime,manioc,argileux,magasin communautaire,1.24,15.9,711.0,63,0,1,31.0,0,0
+EXP01471,Savanes,manioc,hydromorphe,case traditionnelle,0.71,13.0,1162.0,66,1,1,14.0,0,0
+EXP01472,Maritime,maïs,argileux,silo métallique,0.85,8.9,974.0,64,0,0,44.0,0,0
+EXP01473,Maritime,maïs,hydromorphe,case traditionnelle,2.64,,554.0,19,0,0,32.0,1,1
+EXP01474,Plateaux,maïs,hydromorphe,magasin communautaire,5.12,16.8,1277.0,24,0,1,5.0,0,0
+EXP01475,Plateaux,igname,ferrugineux,case traditionnelle,3.18,20.2,1024.0,56,0,0,40.0,1,1
+EXP01476,Plateaux,manioc,sableux,magasin communautaire,0.75,18.1,,38,0,0,14.0,0,0
+EXP01477,Plateaux,maïs,hydromorphe,magasin communautaire,2.63,2.7,1192.0,27,1,0,20.0,0,0
+EXP01478,Savanes,igname,hydromorphe,case traditionnelle,6.16,1.3,1310.0,52,1,0,20.0,1,0
+EXP01479,Plateaux,maïs,sableux,magasin communautaire,2.01,6.7,998.0,37,0,0,23.0,0,0
+EXP01480,Plateaux,manioc,ferrugineux,aucun,3.18,1.3,1098.0,66,0,0,39.0,0,0
+EXP01481,Plateaux,riz,ferrugineux,magasin communautaire,2.07,32.5,1039.0,48,0,1,20.0,0,0
+EXP01482,Maritime,igname,argileux,aucun,3.68,10.1,868.0,31,0,0,14.0,0,0
+EXP01483,Centrale,riz,sableux,magasin communautaire,1.4,4.1,570.0,67,0,0,7.0,0,0
+EXP01484,Maritime,manioc,sableux,silo métallique,0.22,10.0,,50,0,0,10.0,0,0
+EXP01485,Centrale,igname,ferrugineux,case traditionnelle,1.01,2.1,1281.0,34,0,1,30.0,0,0
+EXP01486,Maritime,maïs,sableux,silo métallique,1.82,4.1,1090.0,26,0,0,35.0,0,0
+EXP01487,Savanes,igname,hydromorphe,case traditionnelle,2.45,9.5,694.0,47,0,0,11.0,1,1
+EXP01488,Plateaux,sorgho,sableux,case traditionnelle,1.88,8.3,1213.0,57,0,1,27.0,0,1
+EXP01489,Savanes,igname,ferrugineux,case traditionnelle,1.85,9.4,876.0,62,0,0,10.0,0,0
+EXP01490,Plateaux,maïs,sableux,case traditionnelle,5.14,17.2,448.0,25,0,0,3.0,0,0
+EXP01491,Maritime,maïs,,aucun,1.14,23.7,1194.0,41,0,1,4.0,0,0
+EXP01492,Kara,riz,hydromorphe,aucun,2.64,13.6,723.0,70,1,0,32.0,0,0
+EXP01493,Centrale,manioc,ferrugineux,silo métallique,0.79,,,53,0,0,3.0,0,0
+EXP01494,Kara,manioc,argileux,case traditionnelle,4.2,8.4,1225.0,23,0,0,25.0,0,0
+EXP01495,Plateaux,igname,sableux,aucun,3.12,26.7,895.0,66,0,1,18.0,1,1
+EXP01496,Centrale,riz,sableux,silo métallique,9.13,13.8,1060.0,54,0,1,34.0,0,0
+EXP01497,Kara,maïs,argileux,case traditionnelle,1.11,22.3,1532.0,42,0,0,17.0,0,0
+EXP01498,Centrale,manioc,sableux,magasin communautaire,7.36,8.6,1190.0,59,0,1,22.0,0,0
+EXP01499,Plateaux,maïs,ferrugineux,silo métallique,1.23,13.3,1007.0,52,0,1,18.0,0,0
+EXP01500,Centrale,maïs,hydromorphe,case traditionnelle,2.0,43.5,1643.0,32,1,0,20.0,0,0
+EXP01501,Centrale,maïs,argileux,magasin communautaire,0.89,13.3,978.0,60,0,0,15.0,0,0
+EXP01502,Savanes,sorgho,hydromorphe,silo métallique,9.05,23.5,1090.0,32,0,0,22.0,0,0
+EXP01503,Plateaux,riz,argileux,case traditionnelle,3.45,25.5,725.0,30,0,0,12.0,0,0
+EXP01504,Plateaux,manioc,ferrugineux,magasin communautaire,3.48,19.0,548.0,49,0,0,29.0,1,1
+EXP01505,Kara,manioc,hydromorphe,magasin communautaire,1.32,21.4,881.0,19,0,0,,0,0
+EXP01506,Plateaux,riz,hydromorphe,silo métallique,0.37,8.6,959.0,51,0,0,28.0,1,0
+EXP01507,Kara,sorgho,sableux,aucun,1.94,6.5,1029.0,47,0,0,8.0,1,1
+EXP01508,Plateaux,igname,ferrugineux,aucun,1.67,5.4,609.0,56,0,0,11.0,0,0
+EXP01509,Maritime,manioc,ferrugineux,magasin communautaire,0.55,16.7,1109.0,27,0,1,4.0,0,0
+EXP01510,Kara,sorgho,sableux,magasin communautaire,2.03,13.0,,49,1,1,20.0,0,0
+EXP01511,Maritime,manioc,hydromorphe,magasin communautaire,2.65,15.9,,41,0,0,19.0,0,0
+EXP01512,Maritime,manioc,argileux,magasin communautaire,3.62,4.6,1174.0,28,0,1,10.0,0,0
+EXP01513,Centrale,sorgho,argileux,case traditionnelle,0.4,7.4,855.0,42,0,0,16.0,0,0
+EXP01514,Kara,manioc,hydromorphe,silo métallique,0.94,23.1,719.0,67,0,0,7.0,0,0
+EXP01515,Savanes,manioc,sableux,silo métallique,1.36,14.5,1320.0,61,0,1,31.0,1,0
+EXP01516,Maritime,maïs,hydromorphe,magasin communautaire,5.3,13.8,1159.0,27,0,1,,0,0
+EXP01517,Maritime,manioc,hydromorphe,aucun,5.23,10.7,986.0,63,0,1,,1,0
+EXP01518,Savanes,manioc,sableux,silo métallique,3.33,6.8,,48,0,0,13.0,0,0
+EXP01519,Maritime,riz,hydromorphe,case traditionnelle,2.01,27.3,970.0,21,0,0,3.0,1,1
+EXP01520,Maritime,manioc,ferrugineux,case traditionnelle,5.52,30.3,801.0,66,0,1,27.0,1,0
+EXP01521,Plateaux,maïs,hydromorphe,case traditionnelle,3.05,13.4,710.0,46,0,1,8.0,0,0
+EXP01522,Plateaux,sorgho,argileux,case traditionnelle,5.31,11.5,924.0,66,0,0,29.0,0,0
+EXP01523,Savanes,maïs,hydromorphe,magasin communautaire,3.43,31.8,1135.0,24,0,0,4.0,0,0
+EXP01524,Kara,igname,hydromorphe,case traditionnelle,0.61,7.5,1284.0,27,0,0,6.0,0,0
+EXP01525,Kara,maïs,sableux,case traditionnelle,0.36,9.0,956.0,65,0,0,5.0,0,0
+EXP01526,Maritime,manioc,ferrugineux,case traditionnelle,1.86,22.4,1241.0,31,0,0,7.0,0,0
+EXP01527,Plateaux,manioc,hydromorphe,silo métallique,4.56,8.9,899.0,47,1,0,63.0,0,0
+EXP01528,Plateaux,sorgho,ferrugineux,silo métallique,1.66,12.8,,50,0,0,14.0,0,0
+EXP01529,Maritime,maïs,argileux,case traditionnelle,6.24,1.7,636.0,68,1,1,24.0,0,0
+EXP01530,Maritime,igname,argileux,case traditionnelle,4.28,30.8,829.0,36,0,0,6.0,0,0
+EXP01531,Plateaux,manioc,argileux,case traditionnelle,5.87,21.1,646.0,58,0,0,9.0,1,1
+EXP01532,Maritime,manioc,ferrugineux,case traditionnelle,1.9,26.1,1432.0,57,0,0,,0,0
+EXP01533,Centrale,manioc,sableux,case traditionnelle,1.17,6.0,1055.0,55,1,1,14.0,0,0
+EXP01534,Kara,maïs,sableux,case traditionnelle,1.04,35.1,927.0,46,0,0,17.0,0,0
+EXP01535,Maritime,manioc,argileux,case traditionnelle,3.66,12.0,1363.0,22,1,1,21.0,0,0
+EXP01536,Plateaux,maïs,ferrugineux,aucun,0.65,27.6,637.0,32,0,0,44.0,1,1
+EXP01537,Kara,maïs,sableux,magasin communautaire,0.69,16.3,917.0,48,0,0,1.0,0,0
+EXP01538,Kara,riz,ferrugineux,aucun,1.58,21.8,1430.0,40,0,1,32.0,0,0
+EXP01539,Kara,manioc,sableux,case traditionnelle,2.97,17.2,915.0,28,0,0,37.0,0,0
+EXP01540,Plateaux,maïs,argileux,case traditionnelle,1.37,8.8,1537.0,54,1,0,23.0,0,0
+EXP01541,Kara,maïs,ferrugineux,aucun,5.24,3.1,,42,1,1,12.0,0,0
+EXP01542,Maritime,maïs,ferrugineux,case traditionnelle,5.93,29.0,1263.0,59,0,0,19.0,0,0
+EXP01543,Plateaux,maïs,argileux,magasin communautaire,0.27,0.9,,47,0,0,6.0,0,0
+EXP01544,Maritime,riz,ferrugineux,aucun,3.48,23.4,950.0,38,0,1,2.0,0,0
+EXP01545,Plateaux,maïs,sableux,magasin communautaire,1.66,29.0,833.0,24,0,0,,0,0
+EXP01546,Plateaux,igname,sableux,case traditionnelle,4.7,3.9,922.0,24,0,0,1.0,0,0
+EXP01547,Maritime,maïs,hydromorphe,magasin communautaire,3.56,9.2,713.0,45,1,1,10.0,0,0
+EXP01548,Kara,maïs,argileux,case traditionnelle,2.87,3.5,934.0,37,0,1,6.0,0,0
+EXP01549,Plateaux,sorgho,argileux,case traditionnelle,2.31,7.8,949.0,56,1,0,12.0,1,1
+EXP01550,Maritime,maïs,hydromorphe,case traditionnelle,0.69,25.8,1355.0,51,1,0,13.0,0,0
+EXP01551,Maritime,manioc,ferrugineux,aucun,10.0,21.6,1092.0,33,0,1,5.0,0,0
+EXP01552,Plateaux,igname,ferrugineux,silo métallique,0.93,19.7,1517.0,58,0,1,22.0,0,0
+EXP01553,Plateaux,igname,ferrugineux,case traditionnelle,7.41,9.3,432.0,48,0,0,35.0,1,1
+EXP01554,Plateaux,riz,argileux,case traditionnelle,4.05,1.0,658.0,64,0,0,6.0,0,0
+EXP01555,Maritime,maïs,sableux,silo métallique,1.73,,865.0,68,0,0,,0,0
+EXP01556,Kara,manioc,sableux,aucun,1.53,10.7,1308.0,69,0,0,,0,0
+EXP01557,Savanes,igname,ferrugineux,case traditionnelle,0.67,5.4,924.0,25,0,1,2.0,0,0
+EXP01558,Plateaux,igname,argileux,case traditionnelle,2.61,23.6,598.0,46,1,1,15.0,0,0
+EXP01559,Centrale,maïs,sableux,aucun,0.65,35.9,891.0,20,0,0,32.0,1,1
+EXP01560,Kara,manioc,argileux,aucun,5.44,16.3,663.0,64,0,1,5.0,1,1
+EXP01561,Savanes,maïs,hydromorphe,aucun,3.07,,616.0,55,1,1,42.0,1,1
+EXP01562,Centrale,maïs,sableux,case traditionnelle,2.48,29.7,1430.0,32,0,1,11.0,0,0
+EXP01563,Savanes,riz,sableux,case traditionnelle,2.72,13.8,866.0,50,0,1,12.0,0,0
+EXP01564,Savanes,maïs,hydromorphe,magasin communautaire,3.16,12.5,992.0,48,0,0,9.0,0,0
+EXP01565,Kara,maïs,sableux,case traditionnelle,1.97,18.6,928.0,47,0,1,26.0,0,0
+EXP01566,Plateaux,maïs,hydromorphe,aucun,2.17,4.6,890.0,47,0,0,16.0,1,1
+EXP01567,Maritime,manioc,argileux,case traditionnelle,7.94,,748.0,70,0,0,11.0,0,0
+EXP01568,Maritime,maïs,sableux,magasin communautaire,5.08,11.9,875.0,58,0,0,8.0,0,0
+EXP01569,Plateaux,manioc,sableux,aucun,3.93,15.3,1031.0,39,0,0,18.0,0,0
+EXP01570,Plateaux,maïs,sableux,aucun,1.73,16.4,1290.0,59,0,1,37.0,0,0
+EXP01571,Plateaux,igname,hydromorphe,magasin communautaire,0.48,18.6,1177.0,26,0,0,12.0,0,0
+EXP01572,Centrale,maïs,argileux,aucun,3.62,8.0,657.0,33,1,0,16.0,0,0
+EXP01573,Centrale,manioc,ferrugineux,case traditionnelle,2.71,2.5,1187.0,25,0,0,4.0,0,0
+EXP01574,Kara,maïs,sableux,case traditionnelle,2.14,10.6,1064.0,65,0,0,16.0,0,0
+EXP01575,Maritime,maïs,ferrugineux,case traditionnelle,2.4,11.6,800.0,20,0,0,63.0,0,0
+EXP01576,Maritime,maïs,hydromorphe,aucun,0.98,2.4,,65,0,0,5.0,1,1
+EXP01577,Kara,maïs,sableux,aucun,1.22,7.7,1087.0,62,1,1,19.0,0,0
+EXP01578,Kara,maïs,hydromorphe,case traditionnelle,5.09,14.3,961.0,68,1,1,10.0,0,0
+EXP01579,Savanes,manioc,argileux,case traditionnelle,0.39,8.7,1065.0,58,0,0,3.0,0,0
+EXP01580,Kara,riz,sableux,case traditionnelle,4.61,13.9,743.0,42,0,0,11.0,0,0
+EXP01581,Savanes,maïs,,case traditionnelle,6.42,8.4,1428.0,61,0,0,54.0,0,0
+EXP01582,Plateaux,manioc,hydromorphe,aucun,3.57,19.5,487.0,70,0,0,19.0,1,1
+EXP01583,Plateaux,manioc,sableux,case traditionnelle,3.45,5.7,1089.0,65,0,0,18.0,1,1
+EXP01584,Maritime,maïs,argileux,silo métallique,1.21,12.6,1038.0,59,0,0,5.0,0,0
+EXP01585,Centrale,manioc,hydromorphe,magasin communautaire,1.36,13.1,1104.0,58,0,0,30.0,1,1
+EXP01586,Savanes,maïs,sableux,case traditionnelle,1.84,23.0,780.0,52,0,1,39.0,0,0
+EXP01587,Plateaux,maïs,sableux,case traditionnelle,0.82,9.8,,65,0,0,38.0,0,0
+EXP01588,Centrale,manioc,ferrugineux,aucun,1.28,35.5,924.0,41,0,0,,1,1
+EXP01589,Plateaux,igname,argileux,magasin communautaire,2.71,34.7,665.0,45,0,0,7.0,0,0
+EXP01590,Maritime,igname,sableux,magasin communautaire,1.75,6.1,687.0,62,0,1,6.0,0,0
+EXP01591,Maritime,igname,ferrugineux,case traditionnelle,2.88,12.4,980.0,32,0,1,2.0,0,0
+EXP01592,Maritime,manioc,sableux,aucun,5.08,4.2,567.0,58,1,0,6.0,0,0
+EXP01593,Savanes,maïs,sableux,aucun,2.86,17.6,1382.0,24,0,0,19.0,0,0
+EXP01594,Plateaux,maïs,argileux,silo métallique,3.47,8.6,1202.0,49,1,0,6.0,0,0
+EXP01595,Kara,maïs,ferrugineux,magasin communautaire,0.64,13.7,1388.0,20,0,0,31.0,0,0
+EXP01596,Centrale,maïs,hydromorphe,aucun,5.01,10.4,1363.0,70,0,0,35.0,0,0
+EXP01597,Maritime,maïs,ferrugineux,case traditionnelle,0.62,60.9,866.0,62,0,0,33.0,0,0
+EXP01598,Maritime,manioc,sableux,silo métallique,1.66,,741.0,31,0,0,3.0,0,0
+EXP01599,Kara,maïs,sableux,case traditionnelle,1.02,10.6,307.0,26,1,0,18.0,0,0
+EXP01600,Maritime,maïs,hydromorphe,magasin communautaire,0.48,24.0,853.0,52,0,0,16.0,1,1
+EXP01601,Savanes,riz,argileux,aucun,2.76,26.3,1374.0,65,0,0,33.0,1,1
+EXP01602,Maritime,manioc,sableux,aucun,3.68,15.2,751.0,35,1,1,3.0,0,0
+EXP01603,Centrale,sorgho,hydromorphe,magasin communautaire,6.53,26.8,900.0,68,0,0,16.0,0,0
+EXP01604,Kara,maïs,ferrugineux,magasin communautaire,3.05,54.5,817.0,42,0,0,3.0,1,1
+EXP01605,Maritime,manioc,hydromorphe,aucun,1.28,10.0,1040.0,41,0,1,30.0,0,0
+EXP01606,Maritime,maïs,,aucun,1.72,4.7,1259.0,36,1,1,1.0,0,0
+EXP01607,Savanes,manioc,hydromorphe,silo métallique,0.54,16.7,581.0,33,0,0,53.0,0,0
+EXP01608,Maritime,maïs,argileux,case traditionnelle,1.86,25.2,627.0,36,1,0,,1,0
+EXP01609,Plateaux,maïs,sableux,case traditionnelle,2.45,33.7,1307.0,27,0,0,14.0,0,0
+EXP01610,Plateaux,riz,sableux,aucun,3.58,18.8,1126.0,38,0,0,9.0,1,1
+EXP01611,Maritime,maïs,hydromorphe,silo métallique,4.27,12.9,888.0,34,0,0,34.0,0,0
+EXP01612,Kara,maïs,sableux,silo métallique,3.49,,1360.0,21,1,0,4.0,0,0
+EXP01613,Kara,igname,ferrugineux,silo métallique,1.17,29.1,622.0,37,0,0,1.0,0,0
+EXP01614,Plateaux,maïs,ferrugineux,case traditionnelle,0.92,,1173.0,21,0,0,21.0,0,0
+EXP01615,Kara,manioc,hydromorphe,case traditionnelle,4.06,2.6,934.0,28,0,0,,0,0
+EXP01616,Maritime,manioc,sableux,silo métallique,0.47,43.4,1096.0,56,0,0,19.0,1,1
+EXP01617,Maritime,maïs,sableux,case traditionnelle,8.66,5.0,377.0,20,0,0,17.0,1,1
+EXP01618,Centrale,manioc,hydromorphe,silo métallique,1.37,25.5,887.0,35,0,0,23.0,0,0
+EXP01619,Savanes,maïs,hydromorphe,silo métallique,5.49,14.8,1127.0,54,1,1,14.0,0,0
+EXP01620,Maritime,riz,sableux,aucun,1.58,2.8,935.0,20,0,1,11.0,0,0
+EXP01621,Maritime,maïs,sableux,case traditionnelle,3.75,11.8,1251.0,57,0,0,15.0,0,0
+EXP01622,Plateaux,maïs,ferrugineux,silo métallique,0.95,10.0,1243.0,23,0,0,26.0,0,0
+EXP01623,Kara,maïs,hydromorphe,case traditionnelle,2.56,3.5,720.0,21,1,1,28.0,0,0
+EXP01624,Maritime,igname,sableux,case traditionnelle,0.57,17.6,1148.0,29,0,0,19.0,0,1
+EXP01625,Plateaux,sorgho,argileux,case traditionnelle,3.16,23.1,712.0,63,0,0,1.0,0,0
+EXP01626,Kara,igname,hydromorphe,case traditionnelle,0.93,12.4,963.0,21,0,0,18.0,0,0
+EXP01627,Plateaux,riz,argileux,aucun,1.06,9.8,1107.0,24,0,0,,0,0
+EXP01628,Maritime,riz,sableux,aucun,1.79,18.5,750.0,68,0,0,29.0,0,0
+EXP01629,Maritime,manioc,hydromorphe,case traditionnelle,2.08,0.6,1139.0,50,0,1,26.0,0,0
+EXP01630,Plateaux,igname,sableux,aucun,3.58,9.0,829.0,48,0,1,7.0,0,0
+EXP01631,Plateaux,manioc,argileux,magasin communautaire,3.33,9.5,811.0,21,0,0,23.0,0,0
+EXP01632,Kara,manioc,ferrugineux,silo métallique,2.76,12.7,1120.0,39,1,1,16.0,0,0
+EXP01633,Centrale,riz,,aucun,4.6,,749.0,48,0,1,8.0,0,0
+EXP01634,Centrale,manioc,,magasin communautaire,3.27,1.9,737.0,46,0,1,23.0,0,0
+EXP01635,Savanes,maïs,ferrugineux,case traditionnelle,3.44,5.4,1200.0,46,0,0,41.0,0,0
+EXP01636,Plateaux,manioc,argileux,case traditionnelle,1.05,,976.0,24,0,0,10.0,0,0
+EXP01637,Plateaux,maïs,argileux,magasin communautaire,4.84,9.4,601.0,70,0,1,20.0,0,0
+EXP01638,Savanes,sorgho,sableux,aucun,4.44,5.4,1155.0,55,1,0,6.0,0,0
+EXP01639,Maritime,manioc,argileux,magasin communautaire,2.86,39.1,852.0,31,1,0,,0,0
+EXP01640,Kara,sorgho,ferrugineux,case traditionnelle,4.33,9.8,613.0,69,0,0,15.0,0,0
+EXP01641,Kara,manioc,sableux,case traditionnelle,2.42,12.8,348.0,34,0,0,8.0,0,0
+EXP01642,Maritime,sorgho,hydromorphe,aucun,6.75,28.8,1167.0,25,0,0,7.0,0,0
+EXP01643,Plateaux,maïs,hydromorphe,case traditionnelle,2.67,14.1,744.0,65,1,0,5.0,0,0
+EXP01644,Maritime,igname,hydromorphe,silo métallique,2.36,18.4,651.0,26,0,1,35.0,0,0
+EXP01645,Maritime,manioc,sableux,silo métallique,3.29,6.5,1103.0,22,0,0,27.0,0,0
+EXP01646,Plateaux,maïs,sableux,case traditionnelle,7.7,13.3,1143.0,51,0,1,15.0,0,0
+EXP01647,Plateaux,maïs,ferrugineux,case traditionnelle,1.61,36.0,761.0,32,0,1,28.0,1,1
+EXP01648,Kara,maïs,sableux,case traditionnelle,3.14,16.8,1169.0,26,0,1,30.0,1,1
+EXP01649,Savanes,manioc,argileux,case traditionnelle,1.71,15.1,1443.0,24,0,0,13.0,0,0
+EXP01650,Kara,riz,ferrugineux,silo métallique,2.36,10.6,1273.0,25,0,1,6.0,0,0
+EXP01651,Maritime,igname,argileux,silo métallique,1.27,4.2,1236.0,68,0,0,20.0,1,0
+EXP01652,Maritime,riz,sableux,case traditionnelle,3.37,26.8,1025.0,53,0,0,35.0,1,1
+EXP01653,Maritime,manioc,hydromorphe,magasin communautaire,2.52,12.0,844.0,62,0,1,25.0,0,0
+EXP01654,Maritime,manioc,sableux,case traditionnelle,4.27,7.3,937.0,51,0,0,40.0,1,1
+EXP01655,Savanes,sorgho,sableux,case traditionnelle,5.09,3.8,1056.0,47,0,1,29.0,1,0
+EXP01656,Plateaux,sorgho,argileux,silo métallique,5.62,15.7,648.0,30,0,0,57.0,0,0
+EXP01657,Maritime,maïs,ferrugineux,silo métallique,1.76,4.8,765.0,69,0,0,21.0,0,0
+EXP01658,Kara,igname,ferrugineux,silo métallique,3.29,26.9,607.0,61,0,1,12.0,0,0
+EXP01659,Plateaux,manioc,sableux,case traditionnelle,5.87,7.7,1006.0,46,0,0,26.0,0,0
+EXP01660,Maritime,sorgho,hydromorphe,magasin communautaire,1.26,13.5,970.0,24,0,0,36.0,0,0
+EXP01661,Maritime,igname,ferrugineux,magasin communautaire,2.71,16.6,793.0,58,0,1,18.0,0,0
+EXP01662,Centrale,riz,hydromorphe,aucun,1.33,15.3,1147.0,36,0,0,30.0,0,0
+EXP01663,Kara,maïs,sableux,magasin communautaire,7.63,23.2,699.0,29,0,0,11.0,0,0
+EXP01664,Maritime,manioc,ferrugineux,aucun,5.82,8.3,784.0,57,0,0,29.0,0,0
+EXP01665,Savanes,maïs,argileux,case traditionnelle,3.69,12.8,1137.0,62,0,0,75.0,0,0
+EXP01666,Kara,sorgho,hydromorphe,magasin communautaire,3.65,19.1,1173.0,50,1,0,11.0,0,0
+EXP01667,Kara,maïs,ferrugineux,silo métallique,1.43,33.8,759.0,22,0,0,19.0,0,0
+EXP01668,Maritime,riz,ferrugineux,case traditionnelle,6.29,22.1,1006.0,50,1,0,24.0,0,0
+EXP01669,Maritime,igname,argileux,magasin communautaire,2.01,24.9,763.0,66,0,1,14.0,0,0
+EXP01670,Kara,maïs,ferrugineux,magasin communautaire,1.55,10.0,903.0,54,0,0,11.0,0,0
+EXP01671,Plateaux,manioc,hydromorphe,aucun,5.28,16.8,985.0,32,0,1,16.0,0,0
+EXP01672,Centrale,riz,sableux,case traditionnelle,1.87,30.6,1084.0,52,0,0,33.0,0,0
+EXP01673,Kara,manioc,sableux,aucun,1.6,12.4,1026.0,31,0,0,4.0,0,0
+EXP01674,Maritime,maïs,hydromorphe,case traditionnelle,4.44,16.9,1016.0,64,0,1,7.0,0,0
+EXP01675,Kara,maïs,ferrugineux,magasin communautaire,0.98,3.0,691.0,62,0,0,14.0,0,0
+EXP01676,Savanes,manioc,sableux,magasin communautaire,3.72,20.4,,48,0,0,30.0,0,0
+EXP01677,Kara,riz,hydromorphe,case traditionnelle,2.74,15.0,1082.0,26,0,1,16.0,1,0
+EXP01678,Plateaux,manioc,ferrugineux,aucun,4.19,,1115.0,39,1,1,9.0,0,0
+EXP01679,Kara,maïs,ferrugineux,aucun,3.44,10.2,777.0,25,0,0,42.0,1,0
+EXP01680,Plateaux,manioc,sableux,aucun,10.86,2.3,1170.0,58,1,1,18.0,0,0
+EXP01681,Kara,manioc,ferrugineux,aucun,2.92,21.0,634.0,54,1,1,11.0,0,0
+EXP01682,Kara,maïs,hydromorphe,silo métallique,1.87,7.3,847.0,32,1,0,24.0,0,0
+EXP01683,Kara,riz,ferrugineux,magasin communautaire,2.53,3.3,884.0,63,0,0,23.0,0,0
+EXP01684,Plateaux,maïs,argileux,aucun,3.42,14.3,647.0,58,0,0,19.0,1,1
+EXP01685,Maritime,manioc,sableux,case traditionnelle,7.35,36.6,880.0,67,1,0,9.0,0,0
+EXP01686,Maritime,igname,argileux,aucun,3.89,6.4,1003.0,33,0,0,,1,1
+EXP01687,Plateaux,manioc,ferrugineux,magasin communautaire,1.37,7.5,512.0,28,0,0,47.0,1,1
+EXP01688,Plateaux,riz,hydromorphe,silo métallique,20.95,21.7,855.0,43,0,0,21.0,0,0
+EXP01689,Centrale,maïs,hydromorphe,case traditionnelle,4.95,10.9,530.0,32,0,0,4.0,1,1
+EXP01690,Plateaux,maïs,sableux,case traditionnelle,1.31,21.0,,57,0,0,63.0,0,1
+EXP01691,Kara,maïs,argileux,case traditionnelle,1.06,10.5,1001.0,41,0,0,23.0,0,0
+EXP01692,Savanes,sorgho,ferrugineux,magasin communautaire,0.91,9.2,980.0,51,0,0,7.0,0,0
+EXP01693,Maritime,sorgho,argileux,case traditionnelle,2.43,6.7,1006.0,27,1,0,29.0,0,0
+EXP01694,Kara,maïs,sableux,case traditionnelle,2.51,16.0,1095.0,23,0,0,35.0,1,0
+EXP01695,Centrale,maïs,argileux,case traditionnelle,1.52,6.6,1185.0,67,0,0,17.0,0,0
+EXP01696,Plateaux,maïs,ferrugineux,magasin communautaire,0.8,8.8,,42,0,0,3.0,0,0
+EXP01697,Maritime,manioc,argileux,case traditionnelle,1.07,26.6,1264.0,26,0,0,19.0,0,0
+EXP01698,Kara,riz,hydromorphe,aucun,3.94,46.8,1249.0,61,0,0,6.0,0,0
+EXP01699,Savanes,riz,hydromorphe,case traditionnelle,2.04,17.4,934.0,25,0,0,24.0,0,0
+EXP01700,Kara,igname,ferrugineux,magasin communautaire,1.17,27.3,922.0,70,1,1,9.0,0,0
+EXP01701,Savanes,maïs,argileux,case traditionnelle,2.73,9.6,205.0,39,0,0,,0,0
+EXP01702,Savanes,riz,argileux,magasin communautaire,3.11,10.7,651.0,43,0,0,12.0,0,0
+EXP01703,Plateaux,manioc,ferrugineux,magasin communautaire,3.35,,1075.0,32,0,0,20.0,0,0
+EXP01704,Centrale,maïs,hydromorphe,magasin communautaire,2.66,7.4,1238.0,23,0,0,29.0,0,0
+EXP01705,Plateaux,igname,sableux,magasin communautaire,2.37,9.1,1125.0,40,0,0,30.0,0,0
+EXP01706,Savanes,maïs,sableux,magasin communautaire,5.58,20.5,932.0,38,0,0,8.0,0,0
+EXP01707,Maritime,riz,ferrugineux,case traditionnelle,1.11,13.1,1412.0,42,1,1,13.0,0,0
+EXP01708,Plateaux,riz,hydromorphe,magasin communautaire,2.15,11.5,1191.0,44,0,0,13.0,0,0
+EXP01709,Kara,igname,hydromorphe,case traditionnelle,0.52,11.1,855.0,51,1,0,19.0,0,0
+EXP01710,Plateaux,manioc,hydromorphe,silo métallique,1.95,5.4,1474.0,22,1,1,37.0,1,0
+EXP01711,Kara,maïs,argileux,magasin communautaire,2.87,14.4,687.0,37,0,1,14.0,0,0
+EXP01712,Plateaux,sorgho,ferrugineux,silo métallique,4.41,7.4,597.0,63,0,0,22.0,0,0
+EXP01713,Savanes,sorgho,sableux,magasin communautaire,0.54,3.0,849.0,68,0,0,14.0,1,0
+EXP01714,Savanes,manioc,argileux,case traditionnelle,2.81,4.8,,47,0,0,9.0,0,0
+EXP01715,Plateaux,sorgho,argileux,case traditionnelle,8.07,,862.0,38,1,1,,0,0
+EXP01716,Kara,maïs,argileux,case traditionnelle,3.53,19.4,1142.0,40,0,0,11.0,0,0
+EXP01717,Plateaux,manioc,ferrugineux,magasin communautaire,0.95,22.9,,59,0,0,6.0,0,0
+EXP01718,Centrale,sorgho,ferrugineux,aucun,1.95,3.8,948.0,39,0,0,6.0,0,0
+EXP01719,Centrale,maïs,argileux,silo métallique,3.61,,964.0,68,0,0,,1,1
+EXP01720,Kara,manioc,sableux,magasin communautaire,1.57,38.0,395.0,20,1,1,22.0,1,0
+EXP01721,Maritime,igname,sableux,case traditionnelle,3.04,23.7,586.0,50,0,0,31.0,0,0
+EXP01722,Maritime,sorgho,hydromorphe,aucun,2.92,14.0,,45,0,0,2.0,0,0
+EXP01723,Kara,igname,sableux,case traditionnelle,2.41,14.8,748.0,42,0,0,27.0,1,1
+EXP01724,Centrale,manioc,ferrugineux,case traditionnelle,0.87,13.7,894.0,43,0,1,1.0,0,1
+EXP01725,Plateaux,igname,hydromorphe,aucun,1.45,8.6,1287.0,27,0,0,9.0,0,0
+EXP01726,Maritime,maïs,sableux,case traditionnelle,8.61,24.4,932.0,36,0,1,14.0,0,0
+EXP01727,Plateaux,manioc,ferrugineux,case traditionnelle,1.86,5.8,633.0,37,0,0,9.0,0,0
+EXP01728,Kara,manioc,ferrugineux,case traditionnelle,2.03,14.5,760.0,53,1,0,16.0,1,1
+EXP01729,Maritime,sorgho,ferrugineux,magasin communautaire,2.02,2.9,1361.0,50,0,0,18.0,0,0
+EXP01730,Plateaux,igname,ferrugineux,case traditionnelle,4.34,25.9,1318.0,40,0,0,1.0,0,0
+EXP01731,Savanes,riz,argileux,magasin communautaire,2.1,14.1,1093.0,45,0,0,,0,0
+EXP01732,Maritime,riz,sableux,magasin communautaire,2.44,3.6,575.0,48,0,0,10.0,0,0
+EXP01733,Kara,manioc,argileux,case traditionnelle,2.81,31.7,1024.0,21,0,0,27.0,0,0
+EXP01734,Maritime,manioc,hydromorphe,case traditionnelle,4.67,11.9,1042.0,65,0,0,27.0,0,0
+EXP01735,Kara,manioc,sableux,aucun,2.45,4.3,956.0,65,0,1,17.0,0,0
+EXP01736,Kara,maïs,argileux,case traditionnelle,2.65,40.2,813.0,37,0,0,,0,0
+EXP01737,Savanes,manioc,hydromorphe,silo métallique,1.63,10.5,863.0,58,0,1,7.0,1,0
+EXP01738,Maritime,sorgho,,magasin communautaire,3.09,6.8,796.0,39,0,1,9.0,0,0
+EXP01739,Plateaux,riz,sableux,case traditionnelle,3.73,15.0,675.0,22,0,0,2.0,0,0
+EXP01740,Kara,sorgho,argileux,magasin communautaire,3.9,4.8,1278.0,64,0,0,23.0,0,0
+EXP01741,Maritime,manioc,argileux,magasin communautaire,7.76,8.6,1162.0,32,1,0,16.0,0,0
+EXP01742,Maritime,manioc,sableux,magasin communautaire,1.37,29.3,882.0,37,0,1,14.0,0,0
+EXP01743,Maritime,maïs,sableux,silo métallique,2.53,10.7,1035.0,48,0,0,13.0,0,0
+EXP01744,Savanes,manioc,argileux,aucun,2.11,17.3,,41,0,0,12.0,1,1
+EXP01745,Kara,manioc,sableux,silo métallique,6.86,30.2,1512.0,32,0,0,6.0,0,0
+EXP01746,Centrale,maïs,hydromorphe,magasin communautaire,4.01,10.4,1159.0,60,0,0,5.0,0,0
+EXP01747,Kara,maïs,sableux,magasin communautaire,0.68,6.5,1150.0,37,0,0,47.0,0,0
+EXP01748,Plateaux,riz,sableux,magasin communautaire,1.53,19.6,959.0,49,1,0,22.0,0,0
+EXP01749,Plateaux,manioc,ferrugineux,case traditionnelle,1.93,4.2,846.0,53,0,0,,0,0
+EXP01750,Plateaux,manioc,sableux,silo métallique,0.77,5.9,1282.0,67,0,0,12.0,0,0
+EXP01751,Centrale,maïs,sableux,aucun,2.66,3.5,1107.0,43,0,0,20.0,0,0
+EXP01752,Maritime,manioc,argileux,case traditionnelle,1.69,28.8,751.0,43,0,1,34.0,1,1
+EXP01753,Savanes,manioc,sableux,aucun,7.98,13.4,1059.0,66,0,0,17.0,1,1
+EXP01754,Kara,manioc,ferrugineux,aucun,3.07,20.1,1151.0,43,1,0,59.0,0,0
+EXP01755,Plateaux,manioc,argileux,magasin communautaire,1.88,6.3,447.0,34,0,0,24.0,0,0
+EXP01756,Centrale,maïs,,aucun,1.17,16.9,,21,1,0,10.0,1,1
+EXP01757,Maritime,igname,hydromorphe,case traditionnelle,2.37,17.3,1037.0,35,0,0,,0,0
+EXP01758,Savanes,maïs,argileux,case traditionnelle,6.48,40.1,488.0,29,0,0,,0,0
+EXP01759,Savanes,manioc,hydromorphe,case traditionnelle,2.13,19.0,526.0,34,0,1,7.0,0,0
+EXP01760,Savanes,maïs,hydromorphe,magasin communautaire,2.39,22.8,885.0,47,0,1,27.0,0,0
+EXP01761,Plateaux,manioc,argileux,case traditionnelle,5.1,14.1,1068.0,46,0,0,20.0,0,1
+EXP01762,Maritime,maïs,argileux,aucun,3.01,0.8,1079.0,28,0,1,4.0,1,0
+EXP01763,Maritime,sorgho,sableux,case traditionnelle,4.28,15.8,1330.0,43,0,0,20.0,0,0
+EXP01764,Maritime,manioc,hydromorphe,case traditionnelle,3.23,11.2,970.0,42,0,1,22.0,0,0
+EXP01765,Maritime,riz,argileux,magasin communautaire,3.1,10.8,861.0,21,0,0,12.0,0,0
+EXP01766,Maritime,maïs,ferrugineux,case traditionnelle,0.66,8.9,636.0,33,0,0,11.0,0,0
+EXP01767,Savanes,maïs,sableux,silo métallique,1.04,10.8,858.0,56,0,0,12.0,0,0
+EXP01768,Maritime,manioc,sableux,case traditionnelle,2.79,7.7,1120.0,20,0,0,32.0,0,0
+EXP01769,Maritime,manioc,argileux,aucun,1.25,21.4,1131.0,34,0,1,11.0,1,1
+EXP01770,Kara,manioc,hydromorphe,silo métallique,2.38,5.5,1014.0,43,0,0,3.0,0,0
+EXP01771,Centrale,igname,argileux,case traditionnelle,0.97,36.7,1081.0,27,0,0,16.0,1,0
+EXP01772,Kara,riz,ferrugineux,case traditionnelle,5.13,20.2,1256.0,52,0,0,2.0,0,0
+EXP01773,Centrale,igname,argileux,case traditionnelle,1.37,25.3,968.0,56,0,1,19.0,0,0
+EXP01774,Savanes,maïs,ferrugineux,aucun,1.16,5.9,1278.0,36,0,0,6.0,0,0
+EXP01775,Centrale,sorgho,sableux,silo métallique,0.81,,,30,0,0,13.0,0,0
+EXP01776,Plateaux,manioc,ferrugineux,magasin communautaire,3.87,13.7,932.0,59,1,0,6.0,0,0
+EXP01777,Kara,riz,argileux,case traditionnelle,2.37,12.8,835.0,30,0,0,40.0,0,0
+EXP01778,Plateaux,igname,argileux,aucun,5.01,20.2,1140.0,26,0,0,20.0,0,0
+EXP01779,Plateaux,riz,ferrugineux,case traditionnelle,1.64,12.8,707.0,20,0,0,6.0,0,0
+EXP01780,Plateaux,igname,argileux,silo métallique,1.02,38.0,873.0,23,0,1,,0,0
+EXP01781,Maritime,riz,hydromorphe,silo métallique,2.3,6.0,504.0,64,1,1,,0,0
+EXP01782,Kara,maïs,sableux,case traditionnelle,5.68,5.0,1093.0,67,0,0,13.0,0,0
+EXP01783,Maritime,riz,ferrugineux,magasin communautaire,0.64,8.1,1249.0,47,0,0,34.0,0,0
+EXP01784,Maritime,manioc,ferrugineux,case traditionnelle,2.97,10.8,1169.0,66,0,1,20.0,0,0
+EXP01785,Maritime,igname,ferrugineux,case traditionnelle,3.18,,1145.0,55,1,0,7.0,0,0
+EXP01786,Kara,sorgho,sableux,aucun,6.3,16.6,1151.0,40,0,1,4.0,0,0
+EXP01787,Plateaux,maïs,sableux,silo métallique,1.29,1.0,1118.0,56,0,0,23.0,0,0
+EXP01788,Centrale,maïs,argileux,aucun,0.61,1.1,1097.0,40,0,1,45.0,0,0
+EXP01789,Kara,maïs,ferrugineux,magasin communautaire,1.77,11.6,1113.0,69,1,0,13.0,0,0
+EXP01790,Maritime,manioc,sableux,case traditionnelle,4.24,9.2,793.0,63,0,1,33.0,0,0
+EXP01791,Kara,maïs,ferrugineux,silo métallique,2.48,11.8,902.0,62,0,0,21.0,0,0
+EXP01792,Plateaux,riz,hydromorphe,magasin communautaire,3.41,10.8,967.0,46,1,1,22.0,0,0
+EXP01793,Maritime,manioc,ferrugineux,case traditionnelle,1.07,34.5,869.0,45,0,0,5.0,1,1
+EXP01794,Centrale,sorgho,ferrugineux,case traditionnelle,2.04,24.1,574.0,25,0,0,13.0,1,1
+EXP01795,Savanes,maïs,sableux,magasin communautaire,2.55,8.5,654.0,52,0,0,14.0,0,0
+EXP01796,Plateaux,manioc,argileux,silo métallique,0.72,12.7,1005.0,24,0,0,1.0,0,0
+EXP01797,Centrale,maïs,sableux,case traditionnelle,2.54,10.2,1167.0,47,0,0,9.0,0,0
+EXP01798,Plateaux,igname,argileux,aucun,1.9,1.8,952.0,25,0,0,9.0,1,1
+EXP01799,Centrale,maïs,sableux,case traditionnelle,12.29,8.8,1614.0,43,0,1,7.0,0,0
+EXP01800,Centrale,maïs,ferrugineux,case traditionnelle,2.41,8.9,729.0,59,0,1,12.0,0,0
+EXP01801,Centrale,maïs,hydromorphe,case traditionnelle,6.53,7.4,1057.0,35,0,1,26.0,0,0
+EXP01802,Centrale,sorgho,argileux,silo métallique,3.39,8.6,1260.0,50,0,0,26.0,0,0
+EXP01803,Maritime,maïs,ferrugineux,case traditionnelle,2.21,10.3,1206.0,32,0,0,37.0,0,0
+EXP01804,Centrale,riz,ferrugineux,magasin communautaire,5.9,17.5,1107.0,34,1,0,29.0,0,0
+EXP01805,Centrale,riz,argileux,case traditionnelle,0.95,7.9,1207.0,28,0,0,18.0,0,0
+EXP01806,Centrale,sorgho,ferrugineux,silo métallique,1.74,29.4,963.0,27,0,0,38.0,1,1
+EXP01807,Maritime,maïs,argileux,silo métallique,4.41,5.9,1349.0,38,0,1,10.0,0,0
+EXP01808,Plateaux,maïs,argileux,case traditionnelle,0.39,26.2,,25,1,0,15.0,0,0
+EXP01809,Plateaux,manioc,sableux,aucun,2.36,15.6,745.0,65,1,0,48.0,0,0
+EXP01810,Maritime,maïs,sableux,case traditionnelle,2.34,4.6,1027.0,57,0,0,10.0,0,0
+EXP01811,Maritime,riz,ferrugineux,case traditionnelle,2.9,10.1,579.0,30,0,0,1.0,0,0
+EXP01812,Plateaux,manioc,hydromorphe,magasin communautaire,2.05,35.3,1315.0,65,0,0,4.0,0,0
+EXP01813,Kara,manioc,argileux,silo métallique,4.29,6.0,,37,0,0,13.0,0,0
+EXP01814,Maritime,maïs,argileux,case traditionnelle,1.34,36.0,1274.0,46,0,0,6.0,0,0
+EXP01815,Kara,manioc,hydromorphe,magasin communautaire,4.7,17.8,924.0,55,0,0,4.0,0,0
+EXP01816,Centrale,maïs,argileux,case traditionnelle,1.05,15.8,504.0,59,0,1,27.0,0,0
+EXP01817,Kara,riz,argileux,magasin communautaire,3.06,17.1,1583.0,19,0,1,21.0,0,0
+EXP01818,Plateaux,maïs,ferrugineux,magasin communautaire,5.44,9.9,981.0,33,1,0,2.0,0,0
+EXP01819,Plateaux,igname,sableux,aucun,1.25,6.2,710.0,36,0,0,31.0,0,0
+EXP01820,Centrale,riz,sableux,magasin communautaire,1.5,13.1,1225.0,49,1,0,56.0,0,0
+EXP01821,Savanes,maïs,sableux,magasin communautaire,4.81,16.2,1439.0,64,0,1,8.0,0,0
+EXP01822,Plateaux,maïs,argileux,magasin communautaire,2.76,18.4,901.0,41,0,0,21.0,0,0
+EXP01823,Plateaux,maïs,argileux,case traditionnelle,0.62,17.9,926.0,43,1,0,6.0,0,0
+EXP01824,Centrale,maïs,sableux,case traditionnelle,2.83,21.1,1007.0,23,0,0,17.0,0,0
+EXP01825,Kara,maïs,hydromorphe,aucun,3.81,45.0,683.0,46,0,1,22.0,1,1
+EXP01826,Maritime,sorgho,argileux,case traditionnelle,4.94,15.3,784.0,44,0,0,13.0,1,1
+EXP01827,Plateaux,riz,argileux,silo métallique,3.01,28.4,1378.0,52,0,0,7.0,0,0
+EXP01828,Plateaux,maïs,sableux,case traditionnelle,3.47,18.9,918.0,63,0,0,10.0,1,1
+EXP01829,Savanes,manioc,sableux,silo métallique,6.96,48.0,749.0,48,0,0,2.0,0,0
+EXP01830,Plateaux,maïs,ferrugineux,case traditionnelle,4.5,13.7,842.0,21,0,0,15.0,0,0
+EXP01831,Plateaux,igname,hydromorphe,aucun,2.0,12.7,,61,0,1,43.0,0,0
+EXP01832,Savanes,maïs,ferrugineux,silo métallique,2.19,27.2,476.0,43,0,0,4.0,0,0
+EXP01833,Plateaux,riz,sableux,case traditionnelle,5.29,27.3,1011.0,44,0,1,37.0,0,0
+EXP01834,Maritime,sorgho,argileux,silo métallique,2.97,10.6,1541.0,64,0,1,12.0,0,0
+EXP01835,Maritime,maïs,ferrugineux,magasin communautaire,2.67,18.4,1437.0,49,0,0,2.0,0,0
+EXP01836,Maritime,maïs,argileux,case traditionnelle,1.95,21.3,1088.0,60,0,1,27.0,0,0
+EXP01837,Maritime,manioc,ferrugineux,case traditionnelle,5.16,20.5,1266.0,64,1,1,15.0,0,0
+EXP01838,Plateaux,sorgho,ferrugineux,silo métallique,1.31,17.1,1264.0,44,0,0,5.0,0,0
+EXP01839,Kara,manioc,argileux,silo métallique,1.74,2.7,920.0,70,0,0,8.0,0,0
+EXP01840,Kara,riz,ferrugineux,case traditionnelle,5.15,20.7,1172.0,27,0,1,9.0,0,0
+EXP01841,Maritime,sorgho,sableux,aucun,5.11,21.3,,64,0,1,13.0,0,0
+EXP01842,Centrale,sorgho,argileux,case traditionnelle,9.77,17.6,647.0,63,0,1,17.0,1,1
+EXP01843,Maritime,manioc,hydromorphe,case traditionnelle,2.36,9.7,1088.0,24,0,0,17.0,0,0
+EXP01844,Savanes,manioc,ferrugineux,magasin communautaire,1.98,33.1,1037.0,26,0,1,25.0,0,1
+EXP01845,Maritime,riz,hydromorphe,case traditionnelle,2.13,6.1,975.0,20,0,0,15.0,0,0
+EXP01846,Centrale,maïs,ferrugineux,case traditionnelle,0.68,27.6,954.0,33,0,0,19.0,0,0
+EXP01847,Plateaux,sorgho,sableux,magasin communautaire,0.44,6.1,1006.0,70,0,0,15.0,0,0
+EXP01848,Centrale,maïs,argileux,case traditionnelle,3.0,25.4,1026.0,25,0,0,0.0,0,0
+EXP01849,Plateaux,maïs,argileux,case traditionnelle,1.87,6.3,,20,0,0,4.0,0,0
+EXP01850,Kara,sorgho,argileux,silo métallique,1.38,24.4,1064.0,42,0,0,6.0,0,0
+EXP01851,Maritime,maïs,argileux,magasin communautaire,2.64,37.9,907.0,37,1,0,14.0,0,0
+EXP01852,Savanes,maïs,argileux,aucun,3.05,38.0,748.0,51,0,0,15.0,0,0
+EXP01853,Plateaux,maïs,argileux,magasin communautaire,2.25,32.7,837.0,50,0,0,12.0,0,0
+EXP01854,Kara,manioc,sableux,magasin communautaire,2.29,13.7,,62,0,0,21.0,1,1
+EXP01855,Kara,sorgho,argileux,case traditionnelle,1.85,8.5,781.0,40,1,0,23.0,0,0
+EXP01856,Savanes,maïs,hydromorphe,silo métallique,4.01,12.1,1177.0,42,0,0,13.0,0,0
+EXP01857,Maritime,maïs,hydromorphe,case traditionnelle,1.65,26.2,1053.0,20,0,1,26.0,0,0
+EXP01858,Plateaux,manioc,argileux,case traditionnelle,1.17,20.4,,69,0,0,11.0,0,0
+EXP01859,Maritime,igname,hydromorphe,aucun,1.79,50.8,797.0,30,0,1,18.0,0,0
+EXP01860,Maritime,maïs,,silo métallique,2.91,9.1,751.0,49,0,0,1.0,0,0
+EXP01861,Centrale,igname,ferrugineux,magasin communautaire,4.17,39.5,1223.0,64,0,0,13.0,0,0
+EXP01862,Savanes,igname,hydromorphe,case traditionnelle,7.86,12.9,981.0,50,0,1,26.0,0,0
+EXP01863,Savanes,maïs,sableux,case traditionnelle,2.65,6.0,901.0,51,0,0,15.0,0,0
+EXP01864,Plateaux,sorgho,argileux,magasin communautaire,6.58,16.8,,28,0,1,5.0,0,0
+EXP01865,Centrale,riz,ferrugineux,silo métallique,1.55,20.1,1109.0,55,0,0,17.0,0,0
+EXP01866,Kara,manioc,sableux,magasin communautaire,1.35,30.8,649.0,28,0,1,12.0,0,0
+EXP01867,Savanes,manioc,argileux,case traditionnelle,3.36,9.1,1282.0,54,0,0,,1,1
+EXP01868,Maritime,sorgho,argileux,case traditionnelle,3.71,16.7,852.0,48,0,1,7.0,0,0
+EXP01869,Plateaux,sorgho,argileux,magasin communautaire,2.84,13.9,1358.0,44,0,0,12.0,0,0
+EXP01870,Kara,sorgho,ferrugineux,silo métallique,12.47,10.5,630.0,56,0,0,5.0,0,0
+EXP01871,Plateaux,igname,hydromorphe,case traditionnelle,1.61,37.0,1026.0,56,0,0,9.0,0,0
+EXP01872,Plateaux,manioc,argileux,case traditionnelle,5.78,20.3,905.0,29,0,1,16.0,1,0
+EXP01873,Savanes,sorgho,argileux,case traditionnelle,1.38,1.6,476.0,38,0,0,2.0,0,0
+EXP01874,Savanes,sorgho,sableux,case traditionnelle,3.92,16.9,1108.0,44,0,0,13.0,1,1
+EXP01875,Savanes,maïs,argileux,magasin communautaire,2.57,3.3,488.0,26,0,0,4.0,0,0
+EXP01876,Kara,maïs,sableux,case traditionnelle,2.98,15.8,880.0,37,0,0,11.0,1,1
+EXP01877,Maritime,manioc,ferrugineux,magasin communautaire,3.39,3.9,1215.0,21,1,1,4.0,0,0
+EXP01878,Plateaux,sorgho,argileux,silo métallique,2.64,20.4,823.0,41,0,0,52.0,0,0
+EXP01879,Centrale,maïs,ferrugineux,aucun,2.28,,,29,0,0,26.0,0,0
+EXP01880,Centrale,riz,hydromorphe,aucun,0.56,6.3,1142.0,30,0,1,12.0,0,0
+EXP01881,Plateaux,maïs,ferrugineux,case traditionnelle,4.62,23.5,890.0,61,0,0,,1,1
+EXP01882,Centrale,manioc,sableux,case traditionnelle,0.91,13.7,853.0,26,0,0,8.0,0,0
+EXP01883,Plateaux,riz,ferrugineux,case traditionnelle,1.88,4.3,1256.0,25,0,0,31.0,1,1
+EXP01884,Kara,maïs,sableux,silo métallique,3.13,35.5,670.0,35,0,0,19.0,0,0
+EXP01885,Plateaux,igname,argileux,case traditionnelle,1.05,10.1,840.0,20,0,1,,0,0
+EXP01886,Plateaux,maïs,argileux,case traditionnelle,2.28,11.4,,64,0,1,22.0,0,0
+EXP01887,Maritime,igname,hydromorphe,case traditionnelle,4.27,12.1,654.0,70,0,1,27.0,0,0
+EXP01888,Maritime,maïs,argileux,case traditionnelle,1.85,21.5,1376.0,60,0,1,13.0,0,0
+EXP01889,Kara,igname,hydromorphe,silo métallique,2.31,10.7,898.0,60,0,0,25.0,0,0
+EXP01890,Plateaux,riz,sableux,magasin communautaire,1.22,12.5,1160.0,24,0,0,23.0,0,0
+EXP01891,Maritime,maïs,sableux,magasin communautaire,2.02,28.8,1159.0,47,0,0,17.0,0,0
+EXP01892,Kara,maïs,ferrugineux,aucun,0.93,26.5,913.0,23,1,0,4.0,0,0
+EXP01893,Centrale,maïs,ferrugineux,case traditionnelle,2.88,11.9,835.0,34,0,0,17.0,0,0
+EXP01894,Maritime,manioc,ferrugineux,case traditionnelle,0.77,12.3,940.0,44,0,1,13.0,0,0
+EXP01895,Plateaux,sorgho,argileux,case traditionnelle,1.57,1.0,1121.0,54,0,0,21.0,0,0
+EXP01896,Maritime,manioc,argileux,magasin communautaire,2.59,15.6,713.0,33,0,0,6.0,0,1
+EXP01897,Centrale,manioc,hydromorphe,magasin communautaire,2.17,24.1,661.0,32,0,1,25.0,0,0
+EXP01898,Maritime,manioc,argileux,case traditionnelle,3.25,10.2,1306.0,61,0,0,9.0,0,0
+EXP01899,Maritime,manioc,ferrugineux,aucun,2.31,32.1,774.0,30,0,0,6.0,0,1
+EXP01900,Maritime,riz,argileux,case traditionnelle,0.56,2.9,1035.0,44,0,0,23.0,0,0
+EXP01901,Centrale,manioc,ferrugineux,case traditionnelle,1.04,6.7,,33,0,1,37.0,0,0
+EXP01902,Maritime,riz,ferrugineux,magasin communautaire,2.5,30.5,912.0,63,0,0,15.0,0,0
+EXP01903,Kara,igname,argileux,aucun,5.04,23.5,1293.0,46,0,0,35.0,1,1
+EXP01904,Maritime,manioc,hydromorphe,silo métallique,4.46,2.8,930.0,24,0,0,8.0,0,0
+EXP01905,Centrale,maïs,hydromorphe,aucun,12.26,3.3,864.0,26,0,0,7.0,0,1
+EXP01906,Plateaux,maïs,argileux,case traditionnelle,1.7,20.6,885.0,69,0,0,30.0,0,0
+EXP01907,Plateaux,manioc,hydromorphe,magasin communautaire,4.18,17.8,829.0,67,0,0,21.0,1,0
+EXP01908,Maritime,maïs,argileux,aucun,3.98,11.2,789.0,58,0,0,4.0,0,0
+EXP01909,Kara,igname,ferrugineux,magasin communautaire,6.75,31.4,830.0,23,0,1,40.0,0,0
+EXP01910,Savanes,riz,ferrugineux,case traditionnelle,5.59,8.1,1349.0,57,0,0,13.0,1,0
+EXP01911,Maritime,manioc,hydromorphe,aucun,3.03,1.7,1121.0,53,1,0,14.0,0,0
+EXP01912,Maritime,sorgho,sableux,case traditionnelle,3.73,21.5,,67,0,0,43.0,1,1
+EXP01913,Savanes,maïs,ferrugineux,case traditionnelle,3.26,24.8,1186.0,44,0,0,36.0,0,0
+EXP01914,Centrale,sorgho,ferrugineux,aucun,2.43,8.5,569.0,43,0,0,34.0,0,0
+EXP01915,Maritime,maïs,sableux,aucun,3.55,5.2,1280.0,51,0,0,8.0,0,0
+EXP01916,Maritime,riz,hydromorphe,aucun,2.82,1.8,1261.0,26,0,0,17.0,0,0
+EXP01917,Centrale,igname,hydromorphe,aucun,2.73,,1487.0,57,0,0,20.0,0,0
+EXP01918,Kara,sorgho,ferrugineux,case traditionnelle,6.95,17.2,1193.0,44,0,0,6.0,0,0
+EXP01919,Centrale,sorgho,ferrugineux,aucun,3.07,26.0,1055.0,28,0,0,4.0,0,0
+EXP01920,Savanes,manioc,ferrugineux,magasin communautaire,2.65,17.9,1260.0,61,0,0,12.0,0,0
+EXP01921,Plateaux,sorgho,sableux,magasin communautaire,2.22,,800.0,32,0,0,25.0,0,0
+EXP01922,Plateaux,manioc,ferrugineux,case traditionnelle,2.08,15.6,855.0,63,0,1,1.0,0,0
+EXP01923,Plateaux,riz,ferrugineux,silo métallique,1.01,26.8,,33,0,0,15.0,0,0
+EXP01924,Plateaux,maïs,argileux,magasin communautaire,2.43,17.0,1279.0,44,0,1,5.0,0,0
+EXP01925,Maritime,maïs,hydromorphe,aucun,5.21,24.3,,41,0,0,27.0,0,0
+EXP01926,Maritime,manioc,sableux,case traditionnelle,1.67,5.4,719.0,57,0,1,18.0,0,0
+EXP01927,Plateaux,maïs,hydromorphe,case traditionnelle,0.4,20.9,1007.0,28,1,0,5.0,0,0
+EXP01928,Kara,riz,argileux,magasin communautaire,3.46,17.9,1122.0,31,0,0,27.0,0,0
+EXP01929,Maritime,sorgho,argileux,case traditionnelle,2.89,10.6,781.0,29,0,0,18.0,0,0
+EXP01930,Plateaux,igname,hydromorphe,silo métallique,6.87,27.2,1111.0,30,1,0,12.0,0,0
+EXP01931,Centrale,maïs,sableux,case traditionnelle,1.53,44.6,1278.0,42,0,0,52.0,1,1
+EXP01932,Centrale,igname,,magasin communautaire,0.92,,1238.0,49,1,0,13.0,0,0
+EXP01933,Kara,maïs,argileux,case traditionnelle,2.14,11.0,,63,0,1,9.0,0,0
+EXP01934,Kara,manioc,hydromorphe,case traditionnelle,1.9,12.8,,40,0,1,22.0,0,0
+EXP01935,Kara,sorgho,argileux,magasin communautaire,0.67,13.5,1367.0,40,0,0,41.0,0,0
+EXP01936,Maritime,maïs,sableux,case traditionnelle,2.67,8.3,954.0,27,0,1,1.0,0,0
+EXP01937,Plateaux,maïs,sableux,case traditionnelle,1.79,3.2,1176.0,24,0,0,31.0,0,0
+EXP01938,Centrale,maïs,hydromorphe,case traditionnelle,6.06,11.4,1420.0,58,0,0,22.0,0,0
+EXP01939,Maritime,manioc,argileux,case traditionnelle,2.7,12.9,1150.0,51,0,0,37.0,0,1
+EXP01940,Maritime,sorgho,sableux,magasin communautaire,1.39,,711.0,46,1,0,32.0,0,0
+EXP01941,Maritime,maïs,argileux,case traditionnelle,2.47,13.1,653.0,42,0,1,19.0,0,0
+EXP01942,Plateaux,maïs,argileux,case traditionnelle,2.85,15.8,879.0,46,0,1,22.0,0,0
+EXP01943,Plateaux,manioc,ferrugineux,silo métallique,3.69,11.7,1120.0,62,1,1,15.0,0,0
+EXP01944,Maritime,maïs,argileux,magasin communautaire,2.55,8.2,1057.0,28,1,0,38.0,0,0
+EXP01945,Kara,riz,argileux,magasin communautaire,8.66,13.1,1480.0,44,0,0,8.0,0,0
+EXP01946,Savanes,igname,ferrugineux,case traditionnelle,0.99,16.7,1054.0,31,0,1,15.0,0,0
+EXP01947,Maritime,sorgho,argileux,aucun,1.76,14.0,871.0,24,1,0,25.0,1,1
+EXP01948,Savanes,sorgho,sableux,case traditionnelle,1.4,46.5,678.0,55,0,1,27.0,0,0
+EXP01949,Maritime,manioc,hydromorphe,case traditionnelle,1.96,17.5,1233.0,55,0,0,27.0,1,1
+EXP01950,Savanes,sorgho,ferrugineux,aucun,3.09,13.5,949.0,63,0,1,21.0,0,0
+EXP01951,Savanes,maïs,hydromorphe,magasin communautaire,2.95,7.3,589.0,20,0,1,27.0,0,0
+EXP01952,Maritime,maïs,ferrugineux,magasin communautaire,3.63,7.4,955.0,28,0,0,22.0,0,0
+EXP01953,Kara,riz,sableux,aucun,2.69,10.7,711.0,48,0,0,,0,0
+EXP01954,Savanes,maïs,sableux,case traditionnelle,2.8,10.9,848.0,61,0,0,7.0,0,0
+EXP01955,Savanes,igname,sableux,aucun,2.72,10.6,951.0,67,0,0,27.0,0,0
+EXP01956,Savanes,riz,sableux,silo métallique,1.83,18.1,733.0,59,0,1,14.0,0,0
+EXP01957,Centrale,igname,hydromorphe,case traditionnelle,1.73,26.6,833.0,66,0,0,16.0,0,0
+EXP01958,Maritime,maïs,sableux,case traditionnelle,1.38,21.5,771.0,61,0,0,46.0,1,1
+EXP01959,Kara,manioc,argileux,case traditionnelle,3.76,19.9,778.0,35,0,0,45.0,1,1
+EXP01960,Centrale,riz,ferrugineux,aucun,0.46,6.6,708.0,49,0,0,38.0,0,0
+EXP01961,Centrale,maïs,hydromorphe,case traditionnelle,2.76,29.2,834.0,52,0,0,10.0,1,1
+EXP01962,Plateaux,manioc,argileux,case traditionnelle,4.23,7.2,735.0,37,0,1,9.0,0,0
+EXP01963,Centrale,riz,argileux,silo métallique,4.98,16.4,1091.0,65,0,1,5.0,0,0
+EXP01964,Maritime,igname,argileux,silo métallique,0.37,19.1,,59,1,1,40.0,0,0
+EXP01965,Kara,riz,ferrugineux,case traditionnelle,1.87,29.7,1237.0,45,1,0,6.0,0,1
+EXP01966,Maritime,maïs,hydromorphe,silo métallique,1.44,41.2,1403.0,43,0,0,,1,0
+EXP01967,Kara,manioc,ferrugineux,magasin communautaire,1.76,,1113.0,60,0,0,10.0,0,0
+EXP01968,Kara,manioc,argileux,aucun,5.67,15.5,1058.0,30,0,0,9.0,1,1
+EXP01969,Plateaux,maïs,sableux,case traditionnelle,1.44,28.0,1128.0,30,0,0,2.0,0,0
+EXP01970,Plateaux,manioc,ferrugineux,case traditionnelle,4.22,43.5,1062.0,39,0,0,11.0,0,0
+EXP01971,Plateaux,maïs,ferrugineux,magasin communautaire,2.78,11.2,962.0,25,1,0,17.0,1,1
+EXP01972,Savanes,maïs,sableux,case traditionnelle,1.71,6.9,943.0,42,1,0,,0,0
+EXP01973,Kara,manioc,argileux,magasin communautaire,1.58,4.3,705.0,41,0,0,8.0,1,0
+EXP01974,Plateaux,maïs,argileux,case traditionnelle,2.98,2.8,1151.0,45,0,0,36.0,0,0
+EXP01975,Maritime,manioc,argileux,silo métallique,2.37,7.9,942.0,43,1,1,7.0,0,0
+EXP01976,Maritime,maïs,argileux,aucun,0.63,,1298.0,65,0,0,14.0,0,0
+EXP01977,Plateaux,riz,argileux,aucun,1.2,25.4,1170.0,33,1,1,15.0,0,0
+EXP01978,Savanes,maïs,argileux,aucun,3.04,17.5,800.0,40,1,0,8.0,0,0
+EXP01979,Kara,igname,argileux,aucun,0.95,10.8,1249.0,57,1,0,30.0,0,0
+EXP01980,Maritime,maïs,hydromorphe,magasin communautaire,4.62,18.1,335.0,33,0,0,35.0,0,0
+EXP01981,Kara,manioc,argileux,case traditionnelle,0.75,14.2,,53,0,0,4.0,0,0
+EXP01982,Plateaux,maïs,argileux,aucun,2.06,11.2,629.0,69,0,0,10.0,0,0
+EXP01983,Kara,maïs,ferrugineux,aucun,3.83,17.0,1069.0,38,1,1,8.0,0,0
+EXP01984,Maritime,manioc,sableux,aucun,1.13,10.5,1053.0,31,0,1,12.0,0,0
+EXP01985,Centrale,sorgho,hydromorphe,silo métallique,0.9,16.9,1220.0,28,0,0,15.0,0,0
+EXP01986,Savanes,igname,ferrugineux,case traditionnelle,3.38,,871.0,19,0,0,3.0,0,0
+EXP01987,Maritime,maïs,ferrugineux,aucun,4.31,22.0,435.0,33,0,0,15.0,0,0
+EXP01988,Centrale,maïs,ferrugineux,aucun,2.16,3.3,871.0,63,0,1,46.0,0,0
+EXP01989,Savanes,riz,argileux,silo métallique,1.84,29.5,897.0,32,0,0,33.0,0,0
+EXP01990,Maritime,manioc,argileux,aucun,0.73,12.9,458.0,68,0,0,17.0,1,1
+EXP01991,Maritime,maïs,ferrugineux,magasin communautaire,2.61,41.5,961.0,68,0,0,3.0,0,0
+EXP01992,Centrale,sorgho,sableux,aucun,0.56,24.6,692.0,54,0,1,27.0,0,0
+EXP01993,Plateaux,manioc,sableux,case traditionnelle,5.72,7.1,,70,0,0,11.0,0,0
+EXP01994,Maritime,riz,sableux,aucun,2.24,20.1,891.0,40,0,0,31.0,0,0
+EXP01995,Plateaux,manioc,sableux,case traditionnelle,1.22,28.1,1421.0,68,1,0,28.0,0,0
+EXP01996,Kara,manioc,argileux,case traditionnelle,1.57,11.6,889.0,47,1,1,12.0,0,0
+EXP01997,Plateaux,maïs,sableux,case traditionnelle,2.75,6.7,1053.0,23,0,0,14.0,0,1
+EXP01998,Plateaux,sorgho,sableux,magasin communautaire,1.77,5.8,899.0,62,1,1,8.0,0,0
+EXP01999,Kara,maïs,sableux,case traditionnelle,2.45,4.1,560.0,68,0,1,3.0,0,0
+EXP02000,Plateaux,sorgho,hydromorphe,aucun,1.09,1.9,901.0,65,0,0,15.0,0,0
+EXP02001,Kara,sorgho,argileux,magasin communautaire,5.04,13.0,1131.0,40,0,1,24.0,0,0
+EXP02002,Plateaux,riz,hydromorphe,aucun,1.6,6.0,1094.0,24,0,1,,0,0
+EXP02003,Savanes,maïs,argileux,case traditionnelle,0.44,8.5,880.0,49,0,0,13.0,0,0
+EXP02004,Centrale,maïs,sableux,case traditionnelle,1.88,42.2,600.0,64,0,1,22.0,0,0
+EXP02005,Maritime,manioc,sableux,silo métallique,1.42,18.9,1105.0,62,0,0,13.0,0,0
+EXP02006,Savanes,manioc,argileux,silo métallique,4.83,6.9,1051.0,51,0,0,17.0,0,1
+EXP02007,Plateaux,igname,sableux,magasin communautaire,1.23,54.6,1152.0,59,0,0,11.0,0,0
+EXP02008,Maritime,manioc,sableux,silo métallique,1.75,16.8,884.0,20,0,1,14.0,0,0
+EXP02009,Maritime,sorgho,sableux,aucun,2.81,51.6,546.0,51,1,1,5.0,0,0
+EXP02010,Centrale,maïs,sableux,magasin communautaire,3.64,35.9,,24,0,0,9.0,1,1
+EXP02011,Maritime,manioc,hydromorphe,aucun,5.97,17.2,948.0,57,0,0,45.0,0,1
+EXP02012,Plateaux,maïs,sableux,silo métallique,1.3,13.0,1284.0,21,0,0,4.0,0,0
+EXP02013,Maritime,riz,,silo métallique,5.54,24.3,957.0,49,0,1,,0,0
+EXP02014,Plateaux,maïs,sableux,case traditionnelle,4.7,16.2,939.0,68,0,0,17.0,0,0
+EXP02015,Plateaux,maïs,argileux,case traditionnelle,1.41,9.8,1050.0,24,0,0,3.0,1,0
+EXP02016,Plateaux,sorgho,argileux,case traditionnelle,1.28,9.4,807.0,41,0,0,27.0,0,0
+EXP02017,Maritime,manioc,hydromorphe,silo métallique,3.23,26.9,795.0,21,0,0,4.0,0,0
+EXP02018,Maritime,maïs,ferrugineux,silo métallique,2.41,6.9,927.0,56,0,0,25.0,1,0
+EXP02019,Centrale,maïs,hydromorphe,case traditionnelle,3.22,26.6,729.0,67,0,0,20.0,1,1
+EXP02020,Plateaux,manioc,argileux,magasin communautaire,1.93,14.4,895.0,19,0,0,16.0,0,0
+EXP02021,Centrale,maïs,argileux,case traditionnelle,2.58,,1415.0,47,1,1,18.0,0,0
+EXP02022,Maritime,maïs,sableux,case traditionnelle,2.25,28.0,1200.0,60,0,0,19.0,0,0
+EXP02023,Maritime,riz,argileux,aucun,3.19,7.0,1024.0,20,0,0,13.0,1,0
+EXP02024,Maritime,maïs,ferrugineux,case traditionnelle,1.25,7.8,1322.0,44,0,1,49.0,0,0
+EXP02025,Plateaux,manioc,sableux,case traditionnelle,2.72,12.1,752.0,25,0,0,37.0,1,1
+EXP02026,Plateaux,manioc,sableux,magasin communautaire,5.89,13.5,1548.0,67,0,1,27.0,0,0
+EXP02027,Kara,maïs,sableux,case traditionnelle,5.67,,839.0,45,0,1,11.0,1,0
+EXP02028,Plateaux,maïs,sableux,silo métallique,2.94,27.1,1431.0,46,0,0,11.0,0,0
+EXP02029,Plateaux,maïs,hydromorphe,aucun,1.23,26.5,1430.0,70,0,0,19.0,0,0
+EXP02030,Centrale,maïs,sableux,magasin communautaire,7.75,,529.0,60,0,0,11.0,0,0
+EXP02031,Maritime,maïs,sableux,magasin communautaire,3.19,9.4,1302.0,35,0,0,13.0,1,0
+EXP02032,Plateaux,igname,argileux,case traditionnelle,7.27,25.2,882.0,51,0,0,27.0,0,0
+EXP02033,Plateaux,sorgho,ferrugineux,magasin communautaire,3.28,6.1,,34,0,0,38.0,0,0
+EXP02034,Plateaux,manioc,hydromorphe,case traditionnelle,0.34,14.4,,46,0,0,19.0,0,0
+EXP02035,Maritime,manioc,hydromorphe,case traditionnelle,7.72,34.2,708.0,61,0,0,18.0,1,1
+EXP02036,Kara,manioc,ferrugineux,aucun,4.27,10.2,1070.0,68,0,0,3.0,1,1
+EXP02037,Savanes,sorgho,hydromorphe,magasin communautaire,2.51,4.1,724.0,68,0,0,26.0,0,0
+EXP02038,Maritime,maïs,hydromorphe,magasin communautaire,0.6,7.0,992.0,44,1,0,28.0,0,0
+EXP02039,Centrale,maïs,hydromorphe,case traditionnelle,4.59,7.4,1270.0,65,0,0,33.0,0,0
+EXP02040,Kara,maïs,hydromorphe,aucun,3.26,6.6,1043.0,65,0,1,70.0,0,0
+EXP02041,Plateaux,maïs,sableux,case traditionnelle,9.16,11.6,864.0,47,0,1,10.0,0,0
+EXP02042,Kara,maïs,sableux,case traditionnelle,6.8,51.0,1080.0,20,1,1,42.0,0,0
+EXP02043,Centrale,sorgho,hydromorphe,aucun,7.13,19.7,612.0,25,0,0,39.0,1,1
+EXP02044,Savanes,igname,argileux,magasin communautaire,2.88,12.5,749.0,53,1,0,18.0,0,0
+EXP02045,Savanes,maïs,hydromorphe,aucun,2.79,13.3,847.0,62,0,0,4.0,1,1
+EXP02046,Maritime,manioc,sableux,case traditionnelle,3.29,8.2,1139.0,66,0,0,36.0,0,0
+EXP02047,Plateaux,manioc,ferrugineux,silo métallique,1.52,13.2,1047.0,31,1,1,43.0,0,0
+EXP02048,Centrale,manioc,ferrugineux,aucun,2.56,33.2,1078.0,65,0,0,6.0,1,1
+EXP02049,Maritime,manioc,hydromorphe,magasin communautaire,2.21,14.8,943.0,61,0,0,24.0,1,1
+EXP02050,Plateaux,maïs,hydromorphe,silo métallique,5.44,26.4,761.0,44,0,0,17.0,0,0
+EXP02051,Savanes,sorgho,hydromorphe,case traditionnelle,6.18,24.1,1307.0,38,1,1,16.0,0,0
+EXP02052,Maritime,igname,ferrugineux,silo métallique,3.91,49.5,783.0,43,0,0,3.0,0,0
+EXP02053,Plateaux,riz,hydromorphe,aucun,1.34,23.8,1051.0,54,0,1,35.0,1,1
+EXP02054,Kara,riz,sableux,silo métallique,8.04,47.3,923.0,61,0,1,12.0,0,0
+EXP02055,Plateaux,manioc,sableux,aucun,4.57,27.7,1085.0,27,0,1,54.0,0,0
+EXP02056,Plateaux,maïs,,magasin communautaire,3.13,17.3,805.0,36,0,0,13.0,0,1
+EXP02057,Savanes,maïs,hydromorphe,magasin communautaire,3.67,7.7,1203.0,25,0,1,10.0,0,0
+EXP02058,Plateaux,manioc,sableux,case traditionnelle,0.84,26.3,1281.0,67,0,1,11.0,1,1
+EXP02059,Maritime,maïs,sableux,silo métallique,2.22,27.7,1188.0,40,0,1,14.0,1,0
+EXP02060,Maritime,sorgho,argileux,aucun,5.75,28.2,988.0,32,0,1,14.0,0,0
+EXP02061,Savanes,manioc,hydromorphe,magasin communautaire,0.81,0.8,846.0,29,0,0,35.0,0,0
+EXP02062,Maritime,manioc,sableux,case traditionnelle,0.79,10.0,1627.0,22,1,1,14.0,0,0
+EXP02063,Plateaux,maïs,argileux,magasin communautaire,4.59,19.6,712.0,43,0,0,39.0,0,0
+EXP02064,Maritime,igname,hydromorphe,silo métallique,3.5,10.6,1161.0,59,0,1,35.0,0,0
+EXP02065,Plateaux,maïs,argileux,aucun,0.82,9.3,1030.0,35,0,1,32.0,0,0
+EXP02066,Savanes,maïs,hydromorphe,case traditionnelle,2.08,8.2,935.0,40,0,1,28.0,0,0
+EXP02067,Plateaux,maïs,hydromorphe,case traditionnelle,3.13,3.6,994.0,52,0,0,7.0,0,0
+EXP02068,Savanes,riz,sableux,case traditionnelle,2.88,18.9,828.0,37,0,1,29.0,0,0
+EXP02069,Maritime,igname,sableux,case traditionnelle,3.3,8.9,1052.0,57,0,1,35.0,0,0
+EXP02070,Plateaux,maïs,sableux,aucun,1.97,10.3,1026.0,35,0,0,41.0,1,1
+EXP02071,Kara,igname,ferrugineux,magasin communautaire,2.99,12.5,,42,0,0,,0,0
+EXP02072,Plateaux,maïs,ferrugineux,magasin communautaire,3.91,21.0,1207.0,69,0,1,,0,0
+EXP02073,Maritime,riz,argileux,case traditionnelle,3.71,17.0,1074.0,62,0,1,4.0,0,0
+EXP02074,Kara,maïs,argileux,magasin communautaire,2.01,16.5,1088.0,48,0,0,25.0,0,0
+EXP02075,Plateaux,manioc,argileux,aucun,4.15,1.6,1391.0,39,1,0,22.0,0,0
+EXP02076,Plateaux,riz,sableux,magasin communautaire,1.23,26.7,717.0,70,0,0,8.0,0,0
+EXP02077,Savanes,manioc,,case traditionnelle,1.57,39.9,906.0,43,0,0,18.0,0,0
+EXP02078,Maritime,maïs,hydromorphe,case traditionnelle,4.59,16.1,492.0,36,1,0,15.0,0,0
+EXP02079,Plateaux,sorgho,ferrugineux,aucun,4.1,5.9,1084.0,49,0,0,23.0,0,0
+EXP02080,Maritime,igname,ferrugineux,aucun,2.14,9.5,,40,1,1,17.0,0,0
+EXP02081,Plateaux,manioc,hydromorphe,case traditionnelle,1.55,6.1,711.0,65,0,1,21.0,0,0
+EXP02082,Maritime,riz,hydromorphe,magasin communautaire,1.7,36.9,1294.0,30,0,0,,0,0
+EXP02083,Centrale,sorgho,argileux,case traditionnelle,3.79,10.2,777.0,21,1,1,66.0,0,0
+EXP02084,Maritime,maïs,hydromorphe,magasin communautaire,3.33,,868.0,41,0,0,21.0,0,0
+EXP02085,Centrale,sorgho,sableux,case traditionnelle,1.48,12.1,979.0,68,0,0,11.0,1,1
+EXP02086,Maritime,maïs,hydromorphe,silo métallique,4.08,20.3,,22,0,1,11.0,0,0
+EXP02087,Plateaux,sorgho,sableux,aucun,2.07,7.3,744.0,61,0,0,28.0,0,1
+EXP02088,Plateaux,maïs,sableux,case traditionnelle,1.26,16.2,1020.0,19,1,0,88.0,1,1
+EXP02089,Kara,maïs,ferrugineux,magasin communautaire,1.83,10.3,1136.0,47,0,1,37.0,0,0
+EXP02090,Plateaux,manioc,hydromorphe,case traditionnelle,2.7,29.1,1086.0,42,0,0,16.0,1,1
+EXP02091,Plateaux,manioc,ferrugineux,case traditionnelle,3.98,1.8,1095.0,27,0,0,3.0,0,0
+EXP02092,Kara,sorgho,argileux,case traditionnelle,3.81,11.2,1133.0,57,0,0,8.0,0,0
+EXP02093,Centrale,igname,sableux,case traditionnelle,2.36,,817.0,28,0,0,10.0,0,0
+EXP02094,Maritime,maïs,argileux,aucun,2.92,25.2,1355.0,41,0,0,3.0,0,0
+EXP02095,Savanes,maïs,argileux,case traditionnelle,2.22,3.8,923.0,48,0,0,14.0,1,1
+EXP02096,Plateaux,manioc,ferrugineux,aucun,1.48,23.4,891.0,45,0,0,26.0,0,0
+EXP02097,Maritime,manioc,sableux,case traditionnelle,2.42,,1273.0,20,0,0,12.0,0,0
+EXP02098,Plateaux,manioc,ferrugineux,magasin communautaire,0.6,8.4,799.0,42,0,0,30.0,0,0
+EXP02099,Maritime,sorgho,argileux,magasin communautaire,6.25,26.3,1027.0,53,0,1,11.0,0,0
+EXP02100,Maritime,sorgho,argileux,aucun,2.87,,777.0,46,0,0,5.0,0,0
+EXP02101,Kara,maïs,,case traditionnelle,3.42,3.6,1555.0,56,0,1,9.0,0,0
+EXP02102,Maritime,manioc,argileux,case traditionnelle,1.53,5.4,1504.0,59,0,1,8.0,0,0
+EXP02103,Kara,riz,argileux,silo métallique,2.85,14.5,924.0,28,0,0,4.0,0,0
+EXP02104,Savanes,manioc,argileux,silo métallique,3.19,10.7,1075.0,60,0,0,7.0,0,0
+EXP02105,Centrale,maïs,ferrugineux,silo métallique,2.15,10.6,951.0,65,0,0,2.0,0,0
+EXP02106,Kara,manioc,ferrugineux,case traditionnelle,2.23,20.1,866.0,62,1,1,2.0,1,1
+EXP02107,Kara,manioc,argileux,case traditionnelle,0.94,17.7,979.0,63,0,0,12.0,0,0
+EXP02108,Savanes,maïs,hydromorphe,aucun,7.57,11.3,940.0,30,0,0,10.0,0,0
+EXP02109,Plateaux,sorgho,hydromorphe,magasin communautaire,1.51,25.5,585.0,52,0,0,57.0,1,1
+EXP02110,Maritime,maïs,ferrugineux,magasin communautaire,1.65,20.2,1013.0,42,0,1,7.0,0,0
+EXP02111,Plateaux,manioc,sableux,case traditionnelle,6.51,17.0,940.0,70,0,0,11.0,0,0
+EXP02112,Plateaux,manioc,argileux,case traditionnelle,3.53,9.5,,62,1,0,19.0,0,0
+EXP02113,Maritime,sorgho,argileux,aucun,4.0,28.2,931.0,27,0,0,32.0,0,0
+EXP02114,Centrale,maïs,sableux,silo métallique,0.9,10.5,,67,1,1,,0,0
+EXP02115,Maritime,maïs,,case traditionnelle,2.83,11.2,1160.0,55,0,0,19.0,1,1
+EXP02116,Savanes,maïs,sableux,aucun,0.91,37.5,1078.0,47,0,0,14.0,1,1
+EXP02117,Maritime,manioc,hydromorphe,magasin communautaire,1.35,7.0,1285.0,42,0,1,9.0,0,0
+EXP02118,Maritime,maïs,sableux,case traditionnelle,8.27,6.9,1069.0,44,0,0,17.0,0,0
+EXP02119,Maritime,sorgho,argileux,case traditionnelle,1.18,11.5,903.0,59,1,1,38.0,0,0
+EXP02120,Maritime,maïs,hydromorphe,silo métallique,3.88,5.8,1098.0,58,0,0,17.0,0,0
+EXP02121,Maritime,maïs,hydromorphe,case traditionnelle,1.26,6.0,475.0,47,0,0,22.0,0,0
+EXP02122,Maritime,manioc,sableux,magasin communautaire,1.38,36.8,1455.0,70,1,0,29.0,0,0
+EXP02123,Maritime,sorgho,sableux,silo métallique,11.52,11.4,1016.0,31,0,0,21.0,0,0
+EXP02124,Maritime,sorgho,ferrugineux,case traditionnelle,2.37,17.4,1474.0,41,0,1,23.0,0,0
+EXP02125,Plateaux,riz,hydromorphe,aucun,0.85,4.2,741.0,50,0,0,20.0,0,0
+EXP02126,Plateaux,manioc,sableux,case traditionnelle,3.99,6.5,682.0,27,0,0,6.0,0,0
+EXP02127,Plateaux,riz,sableux,case traditionnelle,5.49,40.1,1038.0,44,1,1,17.0,1,1
+EXP02128,Plateaux,riz,sableux,silo métallique,4.23,5.9,,62,0,0,19.0,0,0
+EXP02129,Maritime,maïs,argileux,magasin communautaire,2.23,17.7,1031.0,54,0,0,48.0,0,0
+EXP02130,Maritime,manioc,sableux,magasin communautaire,2.28,0.7,995.0,55,0,0,9.0,0,0
+EXP02131,Maritime,sorgho,sableux,magasin communautaire,1.73,3.9,799.0,27,0,1,18.0,0,0
+EXP02132,Kara,maïs,hydromorphe,aucun,1.07,11.3,594.0,26,0,0,12.0,1,1
+EXP02133,Savanes,riz,hydromorphe,silo métallique,3.15,25.0,,41,0,1,45.0,1,1
+EXP02134,Savanes,manioc,argileux,aucun,2.15,14.0,,35,0,1,34.0,0,0
+EXP02135,Plateaux,manioc,hydromorphe,case traditionnelle,0.92,12.0,620.0,19,0,0,18.0,1,1
+EXP02136,Plateaux,maïs,sableux,case traditionnelle,2.41,21.3,859.0,47,0,0,0.0,0,0
+EXP02137,Plateaux,riz,ferrugineux,magasin communautaire,1.52,16.1,1053.0,58,0,0,35.0,0,0
+EXP02138,Kara,sorgho,ferrugineux,case traditionnelle,3.04,3.0,1427.0,57,0,0,4.0,0,0
+EXP02139,Kara,maïs,ferrugineux,silo métallique,2.84,,1185.0,24,0,1,2.0,0,0
+EXP02140,Kara,manioc,ferrugineux,case traditionnelle,1.94,,1294.0,59,0,0,30.0,0,0
+EXP02141,Savanes,maïs,sableux,case traditionnelle,2.49,11.7,1107.0,38,0,0,23.0,1,1
+EXP02142,Plateaux,maïs,sableux,case traditionnelle,2.64,9.4,1038.0,27,0,0,21.0,0,0
+EXP02143,Kara,igname,sableux,case traditionnelle,4.58,13.4,1551.0,43,0,0,9.0,0,0
+EXP02144,Kara,manioc,hydromorphe,case traditionnelle,2.43,18.1,633.0,30,0,0,,1,1
+EXP02145,Plateaux,manioc,sableux,magasin communautaire,1.76,4.7,,53,0,1,1.0,0,0
+EXP02146,Savanes,maïs,ferrugineux,magasin communautaire,2.08,8.0,870.0,57,0,1,21.0,0,0
+EXP02147,Maritime,igname,hydromorphe,case traditionnelle,7.21,20.9,1164.0,56,0,1,5.0,0,0
+EXP02148,Savanes,maïs,ferrugineux,case traditionnelle,1.29,22.6,715.0,25,0,0,24.0,1,1
+EXP02149,Kara,riz,ferrugineux,aucun,2.18,33.5,1133.0,37,1,0,5.0,0,0
+EXP02150,Maritime,maïs,ferrugineux,case traditionnelle,2.16,14.2,1089.0,44,0,1,18.0,0,0
+EXP02151,Centrale,maïs,ferrugineux,magasin communautaire,2.22,7.6,1145.0,70,0,0,6.0,0,0
+EXP02152,Maritime,riz,hydromorphe,magasin communautaire,1.04,8.1,,47,0,0,28.0,0,0
+EXP02153,Kara,maïs,sableux,magasin communautaire,2.08,13.8,1319.0,52,0,0,20.0,0,0
+EXP02154,Kara,riz,sableux,aucun,1.7,6.5,938.0,36,0,1,17.0,0,0
+EXP02155,Centrale,maïs,hydromorphe,magasin communautaire,3.03,32.0,1077.0,34,0,0,7.0,0,0
+EXP02156,Kara,riz,ferrugineux,aucun,5.02,9.4,773.0,60,0,0,4.0,0,0
+EXP02157,Maritime,sorgho,ferrugineux,aucun,3.19,29.1,718.0,62,0,0,21.0,1,1
+EXP02158,Maritime,riz,sableux,case traditionnelle,2.71,5.8,1374.0,21,0,0,9.0,0,0
+EXP02159,Plateaux,maïs,argileux,case traditionnelle,3.4,11.7,755.0,47,1,0,16.0,0,0
+EXP02160,Maritime,riz,hydromorphe,case traditionnelle,2.88,10.5,1104.0,59,0,0,15.0,0,0
+EXP02161,Plateaux,igname,ferrugineux,case traditionnelle,2.48,,1077.0,27,0,1,15.0,0,0
+EXP02162,Maritime,maïs,hydromorphe,magasin communautaire,4.47,11.1,1232.0,52,0,1,35.0,0,0
+EXP02163,Plateaux,maïs,ferrugineux,case traditionnelle,2.04,16.0,552.0,43,1,1,15.0,1,1
+EXP02164,Plateaux,sorgho,ferrugineux,case traditionnelle,1.03,1.6,1164.0,45,1,1,6.0,0,0
+EXP02165,Kara,maïs,hydromorphe,case traditionnelle,1.66,19.3,936.0,49,0,1,25.0,0,0
+EXP02166,Maritime,riz,argileux,silo métallique,1.5,17.0,806.0,64,0,1,24.0,0,0
+EXP02167,Savanes,sorgho,sableux,silo métallique,8.46,13.2,,23,1,0,9.0,1,0
+EXP02168,Plateaux,maïs,argileux,aucun,5.21,22.0,1199.0,29,0,1,7.0,0,0
+EXP02169,Plateaux,manioc,hydromorphe,case traditionnelle,2.73,23.0,1125.0,36,0,0,20.0,0,0
+EXP02170,Plateaux,manioc,hydromorphe,case traditionnelle,1.53,62.2,919.0,60,0,0,5.0,1,1
+EXP02171,Plateaux,maïs,hydromorphe,aucun,4.44,,677.0,49,0,0,20.0,0,0
+EXP02172,Maritime,sorgho,ferrugineux,silo métallique,2.66,35.0,,28,0,0,41.0,0,0
+EXP02173,Plateaux,maïs,,magasin communautaire,2.04,25.8,1131.0,20,0,1,25.0,0,0
+EXP02174,Maritime,manioc,hydromorphe,magasin communautaire,2.67,17.0,643.0,70,0,0,43.0,1,1
+EXP02175,Plateaux,sorgho,hydromorphe,case traditionnelle,2.08,5.9,922.0,26,0,0,16.0,0,0
+EXP02176,Centrale,maïs,ferrugineux,aucun,3.37,9.9,1593.0,20,0,0,16.0,0,0
+EXP02177,Plateaux,sorgho,sableux,magasin communautaire,0.97,8.8,1060.0,40,0,1,18.0,0,0
+EXP02178,Kara,maïs,argileux,magasin communautaire,3.36,12.3,1128.0,47,0,1,22.0,0,0
+EXP02179,Maritime,manioc,argileux,magasin communautaire,2.08,21.4,695.0,32,0,0,21.0,0,0
+EXP02180,Savanes,maïs,ferrugineux,case traditionnelle,4.51,30.9,655.0,27,0,0,8.0,1,1
+EXP02181,Kara,riz,ferrugineux,case traditionnelle,5.29,41.5,1141.0,23,0,0,15.0,0,0
+EXP02182,Savanes,sorgho,argileux,silo métallique,6.02,9.9,882.0,40,0,1,34.0,0,0
+EXP02183,Kara,sorgho,argileux,magasin communautaire,8.86,15.1,1232.0,68,0,0,6.0,0,0
+EXP02184,Maritime,igname,sableux,case traditionnelle,5.89,6.9,984.0,26,0,1,18.0,0,0
+EXP02185,Plateaux,riz,hydromorphe,case traditionnelle,4.42,26.6,1804.0,48,0,0,22.0,0,0
+EXP02186,Maritime,sorgho,sableux,aucun,1.07,17.7,837.0,29,0,1,22.0,0,0
+EXP02187,Kara,manioc,sableux,case traditionnelle,0.41,11.4,1043.0,54,0,0,4.0,0,0
+EXP02188,Centrale,igname,argileux,case traditionnelle,4.81,3.7,759.0,22,0,1,6.0,0,0
+EXP02189,Maritime,riz,sableux,magasin communautaire,1.35,,1222.0,29,0,1,33.0,0,0
+EXP02190,Savanes,igname,ferrugineux,silo métallique,12.81,16.4,1080.0,19,0,1,33.0,0,0
+EXP02191,Maritime,maïs,sableux,silo métallique,0.78,2.7,743.0,52,1,1,16.0,0,0
+EXP02192,Centrale,manioc,argileux,aucun,4.3,4.7,898.0,56,0,0,20.0,0,0
+EXP02193,Kara,riz,hydromorphe,case traditionnelle,2.87,15.0,1303.0,27,0,0,7.0,0,0
+EXP02194,Maritime,maïs,ferrugineux,aucun,0.85,39.2,1274.0,42,0,0,5.0,1,1
+EXP02195,Centrale,maïs,ferrugineux,aucun,2.86,28.4,635.0,34,0,0,3.0,0,0
+EXP02196,Kara,igname,,magasin communautaire,1.47,11.7,862.0,21,0,0,4.0,0,0
+EXP02197,Maritime,manioc,hydromorphe,magasin communautaire,2.37,10.4,1411.0,20,0,0,20.0,0,0
+EXP02198,Plateaux,maïs,sableux,case traditionnelle,2.4,7.8,934.0,67,1,1,14.0,0,0
+EXP02199,Maritime,maïs,argileux,magasin communautaire,1.49,7.2,1018.0,52,0,0,17.0,0,0
+EXP02200,Centrale,manioc,ferrugineux,case traditionnelle,1.95,11.0,1220.0,53,1,0,,0,0
+EXP02201,Maritime,riz,ferrugineux,case traditionnelle,1.39,46.8,,34,0,0,6.0,0,0
+EXP02202,Savanes,igname,argileux,aucun,0.62,10.4,748.0,32,0,1,20.0,0,1
+EXP02203,Savanes,igname,sableux,case traditionnelle,2.7,13.5,896.0,60,0,0,36.0,1,0
+EXP02204,Maritime,riz,,magasin communautaire,5.87,5.0,,41,0,1,6.0,0,0
+EXP02205,Plateaux,riz,sableux,case traditionnelle,1.45,19.8,1219.0,24,0,0,15.0,0,0
+EXP02206,Centrale,maïs,ferrugineux,case traditionnelle,7.8,,1147.0,44,0,0,25.0,0,0
+EXP02207,Kara,sorgho,argileux,case traditionnelle,8.84,9.9,941.0,46,1,0,33.0,1,1
+EXP02208,Plateaux,maïs,argileux,case traditionnelle,1.83,6.1,1245.0,48,0,1,22.0,0,0
+EXP02209,Maritime,maïs,argileux,magasin communautaire,2.15,7.4,937.0,46,1,1,7.0,0,0
+EXP02210,Maritime,igname,hydromorphe,aucun,1.86,9.4,,63,1,0,2.0,0,0
+EXP02211,Savanes,sorgho,hydromorphe,magasin communautaire,1.08,9.9,1193.0,31,0,0,12.0,0,0
+EXP02212,Plateaux,maïs,argileux,aucun,2.16,6.0,1381.0,49,0,0,13.0,0,0
+EXP02213,Kara,riz,sableux,silo métallique,1.99,12.4,,65,0,0,33.0,0,0
+EXP02214,Plateaux,manioc,sableux,magasin communautaire,2.67,,887.0,69,0,0,11.0,1,0
+EXP02215,Savanes,maïs,ferrugineux,case traditionnelle,2.77,22.2,,69,0,1,6.0,0,0
+EXP02216,Maritime,maïs,sableux,case traditionnelle,1.02,37.9,1303.0,56,0,0,8.0,1,1
+EXP02217,Maritime,maïs,sableux,aucun,3.74,2.6,844.0,24,0,1,22.0,0,0
+EXP02218,Savanes,manioc,hydromorphe,magasin communautaire,2.14,17.2,709.0,70,0,0,16.0,0,0
+EXP02219,Savanes,manioc,argileux,case traditionnelle,1.17,10.7,1267.0,20,0,0,14.0,0,0
+EXP02220,Plateaux,manioc,ferrugineux,silo métallique,2.11,1.9,580.0,47,1,1,33.0,0,0
+EXP02221,Plateaux,maïs,sableux,case traditionnelle,2.84,8.2,568.0,42,1,0,1.0,0,0
+EXP02222,Plateaux,igname,argileux,silo métallique,6.58,20.7,910.0,54,0,0,29.0,0,0
+EXP02223,Plateaux,riz,sableux,case traditionnelle,5.92,18.9,975.0,59,0,0,0.0,0,0
+EXP02224,Maritime,igname,ferrugineux,aucun,1.73,14.5,696.0,57,0,0,28.0,0,0
+EXP02225,Savanes,maïs,sableux,case traditionnelle,2.25,7.6,1003.0,30,0,1,18.0,0,0
+EXP02226,Maritime,riz,sableux,case traditionnelle,1.36,31.6,,58,0,1,17.0,1,1
+EXP02227,Kara,sorgho,sableux,silo métallique,3.16,5.4,,58,0,1,17.0,0,0
+EXP02228,Maritime,maïs,hydromorphe,case traditionnelle,1.79,10.0,1438.0,20,0,1,28.0,0,0
+EXP02229,Maritime,maïs,sableux,aucun,2.19,11.4,1053.0,52,0,0,6.0,0,0
+EXP02230,Centrale,maïs,hydromorphe,magasin communautaire,4.92,12.6,1221.0,25,0,0,24.0,0,0
+EXP02231,Plateaux,maïs,sableux,case traditionnelle,1.02,52.4,601.0,48,0,0,29.0,1,1
+EXP02232,Centrale,manioc,sableux,case traditionnelle,5.93,35.9,598.0,30,0,0,14.0,0,0
+EXP02233,Maritime,maïs,sableux,aucun,3.37,18.5,1060.0,37,0,0,,0,0
+EXP02234,Savanes,maïs,argileux,magasin communautaire,5.75,13.4,1395.0,33,1,0,3.0,0,0
+EXP02235,Kara,riz,argileux,aucun,4.13,13.3,708.0,63,0,1,78.0,0,1
+EXP02236,Kara,maïs,argileux,case traditionnelle,4.64,21.7,984.0,66,0,0,17.0,0,0
+EXP02237,Maritime,maïs,argileux,aucun,2.58,27.8,654.0,60,0,0,2.0,0,0
+EXP02238,Plateaux,riz,argileux,magasin communautaire,1.15,5.3,778.0,56,0,0,6.0,0,0
+EXP02239,Plateaux,maïs,ferrugineux,silo métallique,1.63,38.1,996.0,37,0,0,10.0,0,0
+EXP02240,Plateaux,maïs,hydromorphe,case traditionnelle,1.42,17.9,832.0,26,0,0,29.0,0,0
+EXP02241,Plateaux,maïs,sableux,case traditionnelle,0.52,8.8,637.0,48,0,0,6.0,0,0
+EXP02242,Maritime,maïs,hydromorphe,aucun,4.92,12.1,631.0,41,0,0,,0,0
+EXP02243,Plateaux,manioc,sableux,aucun,2.38,18.5,497.0,33,0,1,26.0,0,0
+EXP02244,Maritime,maïs,ferrugineux,case traditionnelle,1.33,19.2,1064.0,31,0,0,11.0,0,0
+EXP02245,Plateaux,maïs,ferrugineux,aucun,8.62,6.1,1093.0,27,0,1,16.0,0,0
+EXP02246,Maritime,igname,sableux,case traditionnelle,11.05,12.9,1092.0,62,1,1,4.0,0,0
+EXP02247,Maritime,igname,argileux,case traditionnelle,0.92,15.5,732.0,35,0,1,5.0,0,0
+EXP02248,Centrale,maïs,hydromorphe,case traditionnelle,2.16,28.0,1191.0,66,1,1,6.0,0,0
+EXP02249,Plateaux,maïs,hydromorphe,case traditionnelle,2.06,30.0,1120.0,53,0,0,15.0,0,0
+EXP02250,Plateaux,manioc,sableux,case traditionnelle,1.26,4.8,952.0,27,0,0,16.0,0,0
+EXP02251,Plateaux,sorgho,hydromorphe,case traditionnelle,4.84,13.8,912.0,22,1,0,17.0,0,0
+EXP02252,Kara,sorgho,ferrugineux,case traditionnelle,0.52,8.5,794.0,40,0,0,33.0,0,0
+EXP02253,Plateaux,maïs,sableux,silo métallique,7.23,18.3,996.0,23,0,1,9.0,0,0
+EXP02254,Centrale,maïs,argileux,aucun,2.65,50.7,1338.0,68,1,0,3.0,0,0
+EXP02255,Savanes,manioc,sableux,silo métallique,8.16,,1223.0,66,0,0,26.0,0,0
+EXP02256,Plateaux,sorgho,argileux,case traditionnelle,2.5,19.4,,53,1,0,18.0,0,0
+EXP02257,Savanes,igname,sableux,silo métallique,2.06,23.1,1079.0,34,0,1,25.0,0,0
+EXP02258,Kara,maïs,argileux,case traditionnelle,5.09,34.2,686.0,64,0,0,18.0,0,0
+EXP02259,Maritime,manioc,ferrugineux,silo métallique,8.13,24.4,1125.0,52,0,0,10.0,0,0
+EXP02260,Plateaux,maïs,ferrugineux,magasin communautaire,7.29,5.5,751.0,37,0,1,10.0,0,0
+EXP02261,Centrale,riz,ferrugineux,case traditionnelle,0.69,39.9,1116.0,64,1,1,8.0,1,1
+EXP02262,Savanes,igname,argileux,case traditionnelle,6.09,14.8,1663.0,29,0,0,37.0,0,0
+EXP02263,Plateaux,manioc,sableux,aucun,1.98,17.8,813.0,48,0,0,59.0,1,1
+EXP02264,Maritime,maïs,ferrugineux,aucun,2.32,30.0,1651.0,54,1,0,23.0,0,0
+EXP02265,Centrale,manioc,argileux,silo métallique,1.95,49.2,1068.0,66,1,0,13.0,0,0
+EXP02266,Maritime,manioc,hydromorphe,aucun,1.63,10.0,770.0,26,0,1,9.0,0,0
+EXP02267,Kara,sorgho,sableux,aucun,2.18,28.9,759.0,33,0,1,,0,0
+EXP02268,Plateaux,maïs,ferrugineux,case traditionnelle,1.22,9.5,1518.0,62,1,0,4.0,0,0
+EXP02269,Kara,sorgho,,silo métallique,6.12,16.8,1068.0,44,0,0,22.0,0,0
+EXP02270,Kara,maïs,hydromorphe,case traditionnelle,4.09,4.1,814.0,58,0,1,8.0,0,0
+EXP02271,Centrale,maïs,ferrugineux,magasin communautaire,3.0,9.6,901.0,59,0,0,1.0,0,0
+EXP02272,Centrale,maïs,sableux,case traditionnelle,1.95,16.2,1053.0,34,0,0,43.0,0,0
+EXP02273,Kara,maïs,ferrugineux,aucun,1.71,20.1,948.0,36,1,1,27.0,0,0
+EXP02274,Kara,maïs,ferrugineux,silo métallique,3.46,19.3,1033.0,44,0,0,4.0,0,0
+EXP02275,Kara,riz,sableux,case traditionnelle,3.07,26.6,1376.0,20,0,0,30.0,0,0
+EXP02276,Maritime,maïs,hydromorphe,case traditionnelle,5.33,10.7,679.0,60,0,0,8.0,1,1
+EXP02277,Centrale,maïs,sableux,magasin communautaire,1.73,13.0,1105.0,25,0,0,,0,0
+EXP02278,Maritime,maïs,sableux,silo métallique,1.62,13.5,933.0,67,0,0,15.0,0,0
+EXP02279,Kara,maïs,argileux,aucun,3.98,11.2,830.0,59,1,1,15.0,0,0
+EXP02280,Centrale,sorgho,argileux,case traditionnelle,4.55,7.0,1207.0,37,0,0,16.0,0,0
+EXP02281,Plateaux,igname,ferrugineux,magasin communautaire,10.52,14.9,,22,0,0,15.0,0,0
+EXP02282,Maritime,maïs,,magasin communautaire,0.67,23.8,382.0,60,0,0,6.0,1,1
+EXP02283,Plateaux,sorgho,sableux,case traditionnelle,6.34,17.5,1004.0,42,0,0,43.0,0,0
+EXP02284,Kara,riz,sableux,magasin communautaire,2.83,10.2,917.0,29,0,0,23.0,0,0
+EXP02285,Maritime,igname,argileux,case traditionnelle,1.81,15.1,625.0,41,0,1,5.0,1,1
+EXP02286,Maritime,maïs,ferrugineux,case traditionnelle,3.49,9.8,539.0,65,0,1,,0,0
+EXP02287,Savanes,maïs,hydromorphe,case traditionnelle,3.41,20.4,1413.0,54,0,0,44.0,1,1
+EXP02288,Kara,manioc,argileux,aucun,1.85,24.3,1061.0,54,0,0,4.0,0,0
+EXP02289,Maritime,sorgho,argileux,case traditionnelle,0.71,24.7,955.0,45,0,1,22.0,0,0
+EXP02290,Plateaux,riz,ferrugineux,case traditionnelle,6.35,12.1,1477.0,26,0,1,6.0,0,0
+EXP02291,Savanes,manioc,hydromorphe,silo métallique,1.51,9.9,1195.0,68,1,1,8.0,0,0
+EXP02292,Kara,maïs,hydromorphe,aucun,1.35,26.6,1375.0,57,0,0,15.0,0,0
+EXP02293,Centrale,riz,ferrugineux,magasin communautaire,1.62,11.4,667.0,45,0,0,21.0,0,0
+EXP02294,Plateaux,sorgho,ferrugineux,case traditionnelle,4.41,14.9,658.0,56,0,0,17.0,0,0
+EXP02295,Plateaux,manioc,sableux,silo métallique,2.01,17.4,1098.0,37,0,0,5.0,0,0
+EXP02296,Maritime,riz,sableux,case traditionnelle,1.65,14.1,,57,0,0,42.0,0,0
+EXP02297,Kara,manioc,sableux,silo métallique,3.34,22.4,1250.0,69,0,1,25.0,0,0
+EXP02298,Maritime,manioc,hydromorphe,case traditionnelle,3.02,,559.0,36,0,0,34.0,0,0
+EXP02299,Maritime,manioc,argileux,case traditionnelle,1.67,19.2,1119.0,19,0,0,14.0,0,0
+EXP02300,Kara,sorgho,sableux,case traditionnelle,0.7,7.8,1187.0,57,0,1,26.0,0,0
+EXP02301,Savanes,igname,argileux,silo métallique,4.34,10.5,,63,0,1,35.0,0,0
+EXP02302,Kara,manioc,hydromorphe,case traditionnelle,3.06,15.9,852.0,61,0,0,19.0,1,1
+EXP02303,Plateaux,maïs,ferrugineux,case traditionnelle,0.54,3.6,1074.0,69,0,0,19.0,0,0
+EXP02304,Plateaux,manioc,hydromorphe,magasin communautaire,6.95,12.5,,37,0,1,22.0,0,0
+EXP02305,Plateaux,maïs,sableux,silo métallique,0.52,,,66,1,1,22.0,0,0
+EXP02306,Plateaux,maïs,hydromorphe,case traditionnelle,1.43,13.0,700.0,29,0,0,20.0,0,0
+EXP02307,Plateaux,maïs,argileux,silo métallique,1.5,10.6,768.0,49,0,0,28.0,0,0
+EXP02308,Plateaux,manioc,ferrugineux,silo métallique,1.69,15.0,,65,1,0,14.0,0,0
+EXP02309,Centrale,maïs,sableux,case traditionnelle,1.65,9.5,832.0,66,0,1,40.0,1,1
+EXP02310,Savanes,maïs,hydromorphe,aucun,0.99,13.7,768.0,51,0,0,2.0,0,0
+EXP02311,Savanes,sorgho,ferrugineux,aucun,2.86,15.9,638.0,47,0,0,26.0,0,0
+EXP02312,Maritime,maïs,,case traditionnelle,4.83,27.2,1421.0,42,0,1,39.0,0,0
+EXP02313,Plateaux,riz,argileux,case traditionnelle,2.84,31.0,830.0,64,0,1,9.0,0,0
+EXP02314,Maritime,igname,sableux,case traditionnelle,3.18,4.8,1029.0,64,0,0,11.0,0,0
+EXP02315,Plateaux,manioc,ferrugineux,case traditionnelle,2.04,28.5,528.0,31,0,1,41.0,1,1
+EXP02316,Plateaux,maïs,ferrugineux,magasin communautaire,2.76,7.0,,26,0,0,25.0,0,0
+EXP02317,Maritime,maïs,hydromorphe,aucun,3.34,13.8,990.0,61,0,0,27.0,1,1
+EXP02318,Kara,manioc,sableux,aucun,4.1,3.8,843.0,61,0,0,13.0,1,1
+EXP02319,Plateaux,manioc,hydromorphe,case traditionnelle,1.56,2.3,846.0,24,0,0,12.0,0,0
+EXP02320,Savanes,maïs,hydromorphe,magasin communautaire,1.41,48.9,1159.0,44,0,1,13.0,0,0
+EXP02321,Maritime,manioc,,case traditionnelle,0.41,14.1,241.0,45,0,0,12.0,1,1
+EXP02322,Maritime,manioc,ferrugineux,magasin communautaire,8.28,12.0,752.0,21,0,1,,0,0
+EXP02323,Plateaux,maïs,ferrugineux,case traditionnelle,7.94,17.2,921.0,53,0,0,24.0,0,0
+EXP02324,Maritime,riz,ferrugineux,aucun,2.44,12.2,,69,0,1,12.0,0,0
+EXP02325,Maritime,maïs,argileux,aucun,2.54,24.1,1551.0,29,1,1,6.0,0,0
+EXP02326,Savanes,maïs,hydromorphe,case traditionnelle,6.63,16.5,869.0,59,0,1,37.0,1,1
+EXP02327,Maritime,sorgho,ferrugineux,silo métallique,1.01,21.6,1188.0,23,0,1,9.0,0,0
+EXP02328,Maritime,maïs,hydromorphe,magasin communautaire,1.31,7.9,1385.0,30,0,0,11.0,0,0
+EXP02329,Centrale,riz,argileux,silo métallique,6.9,4.3,1111.0,48,1,0,4.0,0,0
+EXP02330,Plateaux,manioc,sableux,magasin communautaire,2.03,25.9,,67,0,0,19.0,0,0
+EXP02331,Centrale,maïs,ferrugineux,case traditionnelle,1.17,17.7,642.0,65,0,0,9.0,0,0
+EXP02332,Plateaux,igname,ferrugineux,magasin communautaire,3.47,5.6,1129.0,67,1,0,6.0,0,0
+EXP02333,Kara,maïs,ferrugineux,case traditionnelle,1.56,5.6,1345.0,70,0,0,30.0,0,0
+EXP02334,Maritime,maïs,argileux,magasin communautaire,6.14,15.2,1081.0,60,0,0,49.0,1,0
+EXP02335,Plateaux,igname,ferrugineux,case traditionnelle,2.75,20.5,1246.0,37,0,1,10.0,0,0
+EXP02336,Centrale,riz,hydromorphe,silo métallique,1.61,7.0,1572.0,25,0,0,26.0,0,0
+EXP02337,Kara,riz,hydromorphe,aucun,1.67,35.3,1151.0,61,0,0,20.0,0,0
+EXP02338,Plateaux,maïs,sableux,case traditionnelle,3.36,22.3,686.0,28,1,0,18.0,1,1
+EXP02339,Centrale,maïs,sableux,case traditionnelle,2.21,27.1,962.0,46,0,0,5.0,0,0
+EXP02340,Maritime,riz,argileux,silo métallique,2.01,15.0,1279.0,58,0,1,19.0,0,0
+EXP02341,Maritime,maïs,hydromorphe,case traditionnelle,4.2,14.1,890.0,20,0,0,26.0,1,1
+EXP02342,Maritime,maïs,hydromorphe,magasin communautaire,6.69,5.1,1311.0,66,0,1,58.0,0,0
+EXP02343,Kara,sorgho,hydromorphe,silo métallique,3.82,7.9,934.0,34,0,0,2.0,0,0
+EXP02344,Plateaux,maïs,ferrugineux,case traditionnelle,1.47,12.9,1030.0,30,1,0,25.0,1,0
+EXP02345,Kara,maïs,sableux,aucun,1.12,18.0,,38,0,1,18.0,0,0
+EXP02346,Maritime,maïs,sableux,magasin communautaire,4.04,15.9,988.0,42,1,0,13.0,0,0
+EXP02347,Kara,manioc,hydromorphe,magasin communautaire,3.81,2.7,1001.0,42,0,1,38.0,0,0
+EXP02348,Kara,riz,argileux,case traditionnelle,1.9,6.6,564.0,27,0,1,10.0,0,0
+EXP02349,Maritime,sorgho,ferrugineux,case traditionnelle,2.24,16.6,844.0,28,0,0,48.0,0,0
+EXP02350,Maritime,maïs,argileux,case traditionnelle,1.54,18.3,654.0,43,0,1,2.0,0,0
+EXP02351,Maritime,maïs,sableux,aucun,1.14,10.5,852.0,30,0,0,12.0,1,1
+EXP02352,Kara,manioc,ferrugineux,aucun,1.63,21.1,759.0,52,0,0,31.0,1,1
+EXP02353,Maritime,manioc,sableux,silo métallique,0.35,20.9,1193.0,65,0,0,18.0,0,0
+EXP02354,Centrale,manioc,argileux,case traditionnelle,5.41,46.9,1196.0,19,0,0,9.0,0,0
+EXP02355,Plateaux,igname,hydromorphe,magasin communautaire,0.89,14.2,1084.0,20,0,1,10.0,0,0
+EXP02356,Kara,manioc,hydromorphe,silo métallique,2.48,10.2,646.0,52,1,0,22.0,0,0
+EXP02357,Plateaux,manioc,argileux,silo métallique,0.46,7.0,926.0,20,0,1,8.0,1,0
+EXP02358,Plateaux,igname,ferrugineux,case traditionnelle,3.73,4.6,627.0,52,0,0,42.0,1,1
+EXP02359,Savanes,maïs,ferrugineux,aucun,4.5,20.3,915.0,44,0,0,15.0,0,1
+EXP02360,Maritime,igname,sableux,case traditionnelle,2.64,18.9,1105.0,42,0,0,14.0,1,0
+EXP02361,Kara,manioc,,case traditionnelle,2.38,5.1,1188.0,50,0,1,21.0,1,0
+EXP02362,Maritime,manioc,,aucun,1.53,20.4,1063.0,65,0,1,4.0,0,0
+EXP02363,Plateaux,igname,ferrugineux,magasin communautaire,5.33,15.5,1252.0,25,0,1,18.0,0,0
+EXP02364,Savanes,manioc,sableux,case traditionnelle,0.75,11.3,1012.0,26,0,0,64.0,0,0
+EXP02365,Centrale,manioc,,magasin communautaire,1.81,2.5,894.0,55,0,0,15.0,0,0
+EXP02366,Centrale,maïs,argileux,aucun,1.4,18.7,1160.0,21,0,0,18.0,0,0
+EXP02367,Maritime,riz,sableux,case traditionnelle,1.37,38.3,1168.0,41,0,1,28.0,0,0
+EXP02368,Plateaux,manioc,hydromorphe,silo métallique,5.23,7.7,824.0,44,0,0,41.0,0,0
+EXP02369,Plateaux,maïs,sableux,case traditionnelle,2.28,15.5,1041.0,39,0,0,18.0,0,0
+EXP02370,Plateaux,riz,sableux,case traditionnelle,1.52,19.7,879.0,46,0,1,13.0,0,0
+EXP02371,Plateaux,riz,sableux,magasin communautaire,3.13,1.5,468.0,24,0,0,30.0,0,0
+EXP02372,Plateaux,manioc,hydromorphe,magasin communautaire,2.96,6.8,1056.0,32,0,0,8.0,0,0
+EXP02373,Plateaux,maïs,sableux,case traditionnelle,4.45,4.0,639.0,19,0,1,40.0,0,0
+EXP02374,Maritime,manioc,ferrugineux,case traditionnelle,3.37,38.2,1029.0,69,0,0,33.0,1,1
+EXP02375,Plateaux,maïs,hydromorphe,magasin communautaire,2.35,1.4,582.0,62,1,0,29.0,0,0
+EXP02376,Maritime,maïs,hydromorphe,magasin communautaire,2.47,11.3,,32,1,1,21.0,0,0
+EXP02377,Kara,manioc,sableux,silo métallique,3.27,16.7,846.0,20,0,1,25.0,0,0
+EXP02378,Centrale,maïs,argileux,aucun,1.25,7.7,1238.0,33,0,0,25.0,0,0
+EXP02379,Maritime,maïs,argileux,case traditionnelle,2.91,1.7,822.0,68,1,1,20.0,0,0
+EXP02380,Centrale,riz,hydromorphe,magasin communautaire,6.59,11.6,692.0,61,0,0,10.0,0,0
+EXP02381,Kara,maïs,sableux,magasin communautaire,2.64,7.6,1037.0,53,0,1,26.0,0,0
+EXP02382,Maritime,igname,ferrugineux,magasin communautaire,1.94,18.0,898.0,66,0,0,5.0,0,0
+EXP02383,Maritime,igname,hydromorphe,case traditionnelle,1.92,22.5,1140.0,28,1,0,,0,0
+EXP02384,Maritime,manioc,sableux,case traditionnelle,3.18,5.1,707.0,46,0,1,42.0,0,0
+EXP02385,Maritime,igname,sableux,case traditionnelle,2.81,8.2,1001.0,60,0,0,6.0,0,0
+EXP02386,Kara,sorgho,argileux,case traditionnelle,3.85,8.5,1543.0,19,0,1,35.0,0,0
+EXP02387,Savanes,maïs,hydromorphe,aucun,1.6,22.3,893.0,41,0,1,6.0,0,0
+EXP02388,Maritime,riz,argileux,magasin communautaire,2.19,14.4,995.0,37,0,1,14.0,0,0
+EXP02389,Kara,maïs,argileux,magasin communautaire,4.28,5.3,551.0,28,0,0,15.0,0,0
+EXP02390,Maritime,riz,sableux,magasin communautaire,4.5,27.0,745.0,30,0,0,4.0,0,0
+EXP02391,Centrale,manioc,,silo métallique,4.53,7.6,1060.0,69,0,0,23.0,0,0
+EXP02392,Kara,maïs,hydromorphe,magasin communautaire,3.98,9.3,871.0,45,0,0,4.0,0,0
+EXP02393,Plateaux,maïs,argileux,magasin communautaire,4.07,6.4,1097.0,23,0,0,5.0,1,0
+EXP02394,Maritime,igname,sableux,silo métallique,2.91,15.1,1052.0,54,0,0,4.0,0,0
+EXP02395,Centrale,maïs,argileux,case traditionnelle,0.86,10.5,634.0,49,1,0,2.0,1,0
+EXP02396,Savanes,maïs,argileux,magasin communautaire,0.93,32.2,1194.0,39,0,1,29.0,0,0
+EXP02397,Maritime,maïs,ferrugineux,magasin communautaire,2.61,14.5,,39,0,0,10.0,0,0
+EXP02398,Maritime,manioc,argileux,silo métallique,2.69,6.7,766.0,46,0,0,12.0,0,0
+EXP02399,Maritime,sorgho,hydromorphe,aucun,1.34,,1005.0,67,1,1,14.0,0,0
+EXP02400,Centrale,sorgho,argileux,silo métallique,1.41,35.2,1326.0,58,1,0,11.0,0,0
