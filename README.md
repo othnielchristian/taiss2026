@@ -23,17 +23,53 @@ conda activate taiss2026-airflow
 ```
 taiss2026/
 ├── learning/
-│   ├── notes/        # Daily notes and session summaries
-│   ├── exercises/     # Hands-on exercises from each session
-│   └── coursework/    # Assignments / graded work (if any)
-├── README.md          # This file
-└── <final-project>/   # (Coming soon) Folder for the final project, named after the project itself
+│   ├── notes/                    # Daily notes and session summaries
+│   ├── exercises/                # Hands-on exercises from each session
+│   └── coursework/               # Assignments / graded work (if any)
+├── client-scope-rfm-project/     # Final project (pulled in via git subtree)
+├── README.md                     # This file
 ```
 
 - **`learning/notes/`** — Notes taken during sessions (concepts, explanations, key takeaways).
 - **`learning/exercises/`** — Practical exercises and code worked through during labs.
 - **`learning/coursework/`** — Reserved for any formal assignments or graded deliverables from the program (may stay empty if the program is exercise-only).
-- **Final project folder** — To be added once the final project topic/name is decided. It will live in the root directory alongside `learning/`.
+- **`client-scope-rfm-project/`** — The final project, a client-scoped RFM (Recency, Frequency, Monetary) analysis. Developed collaboratively in its own repo and pulled into this workspace as a `git subtree` (see below).
+
+## Final Project — Subtree Strategy
+
+The final project (`client-scope-rfm-project`) started life as its own collaborative repo, worked on with the rest of the project team. To keep a complete, self-contained portfolio record here in `taiss2026`, it was merged in as a **git subtree** rather than a submodule — meaning the project's files and history live directly inside this repo, with no extra clone/init steps needed for anyone browsing this workspace.
+
+### Remotes involved
+
+| Remote | Points to | Purpose |
+|---|---|---|
+| `origin` (in `client-scope-rfm-project`) | Team's shared repo | Collaborative work, PRs, team pushes |
+| `mine` (in `client-scope-rfm-project`) | My personal fork | Personal backup of my contributions |
+| — (used ad hoc, not saved) | My personal fork | Source used to pull the subtree into `taiss2026` |
+
+### How it was added
+
+```bash
+cd ~/development/taiss2026
+git subtree add --prefix=client-scope-rfm-project \
+  https://github.com/othnielchristian/client-scope-rfm-taiss2026-final-project.git main --squash
+```
+
+- `--prefix` set the destination folder name inside `taiss2026`
+- Pulled from my personal fork (not the team repo) since this is my portfolio copy
+- `--squash` collapsed the project's full commit history into a single commit here, keeping this repo's own history clean
+
+### Keeping it up to date
+
+If the project folder changes locally and those changes are pushed to the fork, the copy here can be refreshed with:
+
+```bash
+cd ~/development/taiss2026
+git subtree pull --prefix=client-scope-rfm-project \
+  https://github.com/othnielchristian/client-scope-rfm-taiss2026-final-project.git main --squash
+```
+
+Since this is meant to be a final portfolio snapshot, this is optional and mainly useful if the project gets revisited after the bootcamp.
 
 ## System Requirements
 
@@ -148,10 +184,10 @@ pip install mlflow scikit-learn great-expectations dbt-core
 
 - [x] Set up `taiss2026` and `taiss2026-airflow` environments
 - [x] Working through `learning/` materials
-- [ ] Decide on final project name/topic
-- [ ] Create final project folder
+- [x] Decide on final project name/topic
+- [x] Create final project folder (`client-scope-rfm-project`, added via `git subtree`)
 - [ ] Build and document final project
 
 ## Notes
 
-This README will be updated as the week progresses — particularly once the final project folder is created.
+This README will be updated as the week progresses.
