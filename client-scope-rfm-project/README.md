@@ -5,6 +5,12 @@
 
 Segmentation de la clientèle d'un e-commerce britannique de cadeaux à partir de son historique de transactions (2009-2011), selon la méthode **RFM (Récence, Fréquence, Montant)**, en vue de recommandations marketing actionnables par segment.
 
+<p>
+<img alt="Python" src="https://img.shields.io/badge/python-3.11-blue">
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.5-orange">
+<img alt="statut" src="https://img.shields.io/badge/statut-en%20cours-yellow">
+</p>
+
 ---
 
 ## 1. Contexte et objectif
