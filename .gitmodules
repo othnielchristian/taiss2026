@@ -1,0 +1,4 @@
+[submodule "client-scope-rfm-project"]
+	path = client-scope-rfm-project
+	url = https://github.com/othnielchristian/client-scope-rfm-taiss2026-final-project.git
+	branch = main
